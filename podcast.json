@@ -1,0 +1,825 @@
+{
+  "podcasts": [
+    {
+      "name": "MedCircle",
+      "host": "Various Psychiatrists & Psychologists",
+      "description": "Weekly interviews with mental health experts discussing actionable advice on managing depression, anxiety, and bipolar disorder.",
+      "condition": ["depression", "anxiety", "bi-polar"],
+      "url": "https://www.youtube.com/@MedCircle"
+    },
+    {
+      "name": "Kati Morton",
+      "host": "Kati Morton",
+      "description": "A licensed therapist provides insights on depression, anxiety, and suicidal thoughts with practical coping strategies.",
+      "condition": ["depression", "anxiety", "suicidal"],
+      "url": "https://www.youtube.com/@Katimorton"
+    },
+    {
+      "name": "TherapistTalks",
+      "host": "Various Therapists",
+      "description": "Covers topics like depression, anxiety, and personality disorders with a focus on therapy techniques and self-help.",
+      "condition": ["depression", "anxiety", "personality disorder"],
+      "url": "https://www.youtube.com/@TherapistTalks"
+    },
+    {
+      "name": "The Mighty",
+      "host": "The Mighty Team",
+      "description": "Features series like 'Mental Health Happy Hour' addressing anxiety, depression, and PTSD for community support.",
+      "condition": ["anxiety", "depression"],
+      "url": "https://www.youtube.com/@TheMighty"
+    },
+    {
+      "name": "Julia Kristina Counseling",
+      "host": "Julia Kristina",
+      "description": "Focuses on emotional wellness, managing anxiety, and building self-esteem through practical psychology tips.",
+      "condition": ["anxiety", "depression"],
+      "url": "https://www.youtube.com/@juliakristina"
+    },
+    {
+      "name": "Anxiety United",
+      "host": "Billy Cross",
+      "description": "Personal vlogs and tips on managing anxiety and stress, sharing lived experiences for relatability.",
+      "condition": ["anxiety", "stress"],
+      "url": "https://www.youtube.com/@AnxietyUnited"
+    },
+    {
+      "name": "SciShow Psych",
+      "host": "Hank Green & Team",
+      "description": "Explores the science of psychology, covering depression, anxiety, and personality disorders with evidence-based insights.",
+      "condition": ["depression", "anxiety", "personality disorder"],
+      "url": "https://www.youtube.com/@SciShowPsych"
+    },
+    {
+      "name": "Living Well With Schizophrenia",
+      "host": "Lauren",
+      "description": "A personal perspective on living with schizophrenia and bipolar disorder, offering hope and coping strategies.",
+      "condition": ["bi-polar"],
+      "url": "https://www.youtube.com/@LivingWellwithSchizophrenia"
+    },
+    {
+      "name": "Dr. Ali Mattu",
+      "host": "Dr. Ali Mattu",
+      "description": "A clinical psychologist discusses anxiety, depression, and bipolar disorder with practical mental health advice.",
+      "condition": ["anxiety", "depression", "bi-polar"],
+      "url": "https://www.youtube.com/@thepsychshow"
+    },
+    {
+      "name": "Crush Social Anxiety",
+      "host": "The Social Anxiety Coach",
+      "description": "Videos focused on overcoming social anxiety with actionable techniques for managing nervous thoughts.",
+      "condition": ["anxiety"],
+      "url": "https://www.youtube.com/@CrushSocialAnxiety"
+    },
+    {
+      "name": "The Happiness Lab",
+      "host": "Dr. Laurie Santos",
+      "description": "Explores science-backed strategies for happiness, addressing depression and stress with practical tips.",
+      "condition": ["depression", "stress"],
+      "url": "https://www.youtube.com/@TheHappinessLab"
+    },
+    {
+      "name": "Therapy for Black Girls",
+      "host": "Dr. Joy Harden Bradford",
+      "description": "Mental health resources for Black women, covering depression and anxiety with a cultural lens.",
+      "condition": ["depression", "anxiety"],
+      "url": "https://www.youtube.com/@TherapyforBlackGirls"
+    },
+    {
+      "name": "The Hardcore Self Help Podcast",
+      "host": "Dr. Robert Duff",
+      "description": "Covers depression, anxiety, and suicidal thoughts in plain language, offering practical self-help advice.",
+      "condition": ["depression", "anxiety", "suicidal"],
+      "url": "https://www.youtube.com/@DuffThePsych"
+    },
+    {
+      "name": "Depresh Mode",
+      "host": "John Moe",
+      "description": "Candid conversations with public figures about depression, anxiety, and bipolar disorder.",
+      "condition": ["depression", "anxiety", "bi-polar"],
+      "url": "https://www.youtube.com/@DepreshMode"
+    },
+    {
+      "name": "No Feeling Is Final",
+      "host": "Honor Eastly",
+      "description": "A memoir-style podcast exploring depression, anxiety, and suicidal thoughts with raw vulnerability.",
+      "condition": ["depression", "anxiety", "suicidal"],
+      "url": "https://www.youtube.com/@NoFeelingIsFinal"
+    },
+    {
+      "name": "The Dark Place",
+      "host": "Joel Kutz",
+      "description": "Shares stories of depression, anxiety, and trauma to help listeners feel less alone.",
+      "condition": ["depression", "anxiety", "suicidal"],
+      "url": "https://www.youtube.com/@TheDarkPlace"
+    },
+    {
+      "name": "Mindful Muslim",
+      "host": "Various Hosts",
+      "description": "Faith-based discussions on managing stress, anxiety, and depression from an Islamic perspective.",
+      "condition": ["stress", "anxiety", "depression"],
+      "url": "https://www.youtube.com/@MindfulMuslim"
+    },
+    {
+      "name": "Before You Kill Yourself",
+      "host": "Leo Flowers",
+      "description": "Interviews experts and survivors to reduce stigma around depression and suicidal thoughts.",
+      "condition": ["depression", "suicidal"],
+      "url": "https://www.youtube.com/@BeforeYouKillYourself"
+    },
+    {
+      "name": "Feeling Good Podcast",
+      "host": "Dr. David Burns",
+      "description": "Explores CBT techniques for managing depression, anxiety, and low self-esteem.",
+      "condition": ["depression", "anxiety"],
+      "url": "https://www.youtube.com/@FeelingGoodPodcast"
+    },
+    {
+      "name": "Not Another Anxiety Show",
+      "host": "Kelli Walker",
+      "description": "Conversational episodes on managing anxiety, stress, and panic attacks with humor and expertise.",
+      "condition": ["anxiety", "stress"],
+      "url": "https://www.youtube.com/@NotAnotherAnxietyShow"
+    },
+    {
+      "name": "The Hilarious World of Depression",
+      "host": "John Moe",
+      "description": "Comedians share their experiences with depression, offering humor and relatability.",
+      "condition": ["depression"],
+      "url": "https://www.youtube.com/@HilariousWorldofDepression"
+    },
+    {
+      "name": "Anxiety Slayer",
+      "host": "Shann Vander Leek & Ananga Sivyer",
+      "description": "Guided meditations and tips for managing anxiety and stress in daily life.",
+      "condition": ["anxiety", "stress"],
+      "url": "https://www.youtube.com/@AnxietySlayer"
+    },
+    {
+      "name": "Mentally Yours",
+      "host": "Ellen Scott & Yvette Caster",
+      "description": "Casual conversations with people living with depression, anxiety, and bipolar disorder.",
+      "condition": ["depression", "anxiety", "bi-polar"],
+      "url": "https://www.youtube.com/@MentallyYours"
+    },
+    {
+      "name": "Griefcast",
+      "host": "Cariad Lloyd",
+      "description": "Explores grief and its connection to depression and anxiety through personal stories.",
+      "condition": ["depression", "anxiety"],
+      "url": "https://www.youtube.com/@Griefcast"
+    },
+    {
+      "name": "Roadmap to Joy",
+      "host": "Embark Behavioral Health",
+      "description": "Discusses OCD, anxiety, and depression in teens and young adults with expert insights.",
+      "condition": ["anxiety", "depression"],
+      "url": "https://www.youtube.com/@EmbarkBehavioralHealth"
+    },
+    {
+      "name": "Inside Mental Health",
+      "host": "Gabe Howard",
+      "description": "Accessible discussions on bipolar disorder, depression, and schizophrenia.",
+      "condition": ["bi-polar", "depression"],
+      "url": "https://www.youtube.com/@PsychCentral"
+    },
+    {
+      "name": "Inside Schizophrenia",
+      "host": "Rachel Star Withers & Gabe Howard",
+      "description": "Explores schizophrenia and its overlap with bipolar disorder and depression.",
+      "condition": ["bi-polar", "depression"],
+      "url": "https://www.youtube.com/@PsychCentral"
+    },
+    {
+      "name": "The One You Feed",
+      "host": "Eric Zimmer",
+      "description": "Focuses on building resilience and managing depression and anxiety.",
+      "condition": ["depression", "anxiety"],
+      "url": "https://www.youtube.com/@TheOneYouFeed"
+    },
+    {
+      "name": "Ten Percent Happier",
+      "host": "Dan Harris",
+      "description": "Explores meditation and science-based techniques for anxiety and depression.",
+      "condition": ["anxiety", "depression"],
+      "url": "https://www.youtube.com/@TenPercentHappier"
+    },
+    {
+      "name": "The Lavendaire Lifestyle",
+      "host": "Aileen Xu",
+      "description": "Empathetic discussions on mental wellness, stress, and self-care.",
+      "condition": ["stress", "depression"],
+      "url": "https://www.youtube.com/@Lavendaire"
+    },
+    {
+      "name": "Human Givens",
+      "host": "Human Givens Team",
+      "description": "Holistic approach to mental health, addressing depression and anxiety.",
+      "condition": ["depression", "anxiety"],
+      "url": "https://www.youtube.com/@HumanGivens"
+    },
+    {
+      "name": "Bear It In Mind",
+      "host": "Dr. Anna",
+      "description": "Explores psychology tools for better sleep, stress management, and mental health.",
+      "condition": ["stress", "anxiety"],
+      "url": "https://www.youtube.com/@BearItInMind"
+    },
+    {
+      "name": "The Psych Show",
+      "host": "Dr. Ali Mattu",
+      "description": "Covers anxiety, depression, and personality disorders with practical advice.",
+      "condition": ["anxiety", "depression", "personality disorder"],
+      "url": "https://www.youtube.com/@thepsychshow"
+    },
+    {
+      "name": "Mental Health Happy Hour",
+      "host": "Paul Gilmartin",
+      "description": "Conversations with people sharing their mental health struggles, including depression and anxiety.",
+      "condition": ["depression", "anxiety"],
+      "url": "https://www.youtube.com/@MentalHealthHappyHour"
+    },
+    {
+      "name": "The Anxiety Coaches Podcast",
+      "host": "Gina Ryan",
+      "description": "Techniques and stories for overcoming anxiety and panic attacks.",
+      "condition": ["anxiety"],
+      "url": "https://www.youtube.com/@TheAnxietyCoachesPodcast"
+    },
+    {
+      "name": "The Mental Illness Happy Hour",
+      "host": "Paul Gilmartin",
+      "description": "Explores mental health challenges like depression and bipolar disorder.",
+      "condition": ["depression", "bi-polar"],
+      "url": "https://www.youtube.com/@MentalIllnessHappyHour"
+    },
+    {
+      "name": "The Trauma Therapist",
+      "host": "Guy Macpherson",
+      "description": "Focuses on trauma and its connection to anxiety and depression.",
+      "condition": ["anxiety", "depression"],
+      "url": "https://www.youtube.com/@TheTraumaTherapist"
+    },
+    {
+      "name": "The SelfWork Podcast",
+      "host": "Dr. Margaret Rutherford",
+      "description": "Practical advice for managing depression and anxiety without therapy.",
+      "condition": ["depression", "anxiety"],
+      "url": "https://www.youtube.com/@DrMargaretRutherford"
+    },
+    {
+      "name": "The Mindset Mentor",
+      "host": "Rob Dial",
+      "description": "Motivational advice for overcoming stress and building mental resilience.",
+      "condition": ["stress"],
+      "url": "https://www.youtube.com/@TheMindsetMentor"
+    },
+    {
+      "name": "The Overwhelmed Brain",
+      "host": "Paul Colaianni",
+      "description": "Addresses stress, anxiety, and relationship issues with practical solutions.",
+      "condition": ["stress", "anxiety"],
+      "url": "https://www.youtube.com/@TheOverwhelmedBrain"
+    },
+    {
+      "name": "The Positive Psychology Podcast",
+      "host": "Kristen Truempy",
+      "description": "Explores positive psychology to manage depression and stress.",
+      "condition": ["depression", "stress"],
+      "url": "https://www.youtube.com/@PositivePsychologyPodcast"
+    },
+    {
+      "name": "The Calmer You Podcast",
+      "host": "Chloe Brotheridge",
+      "description": "Tips for managing anxiety and stress through mindfulness and self-care.",
+      "condition": ["anxiety", "stress"],
+      "url": "https://www.youtube.com/@CalmerYou"
+    },
+    {
+      "name": "The Anxiety Guy",
+      "host": "Dennis Simsek",
+      "description": "Personal stories and strategies for overcoming anxiety and panic.",
+      "condition": ["anxiety"],
+      "url": "https://www.youtube.com/@TheAnxietyGuy"
+    },
+    {
+      "name": "The Balanced Mind",
+      "host": "Various Hosts",
+      "description": "Discusses bipolar disorder and mood swings with expert insights.",
+      "condition": ["bi-polar"],
+      "url": "https://www.youtube.com/@TheBalancedMind"
+    },
+    {
+      "name": "The Mental Health Toolbox",
+      "host": "Patrick Martin",
+      "description": "Tools and strategies for managing depression, anxiety, and stress.",
+      "condition": ["depression", "anxiety", "stress"],
+      "url": "https://www.youtube.com/@MentalHealthToolbox"
+    },
+    {
+      "name": "The Brain Warrior’s Way",
+      "host": "Dr. Daniel Amen",
+      "description": "Neuroscience-based approaches to depression, anxiety, and brain health.",
+      "condition": ["depression", "anxiety"],
+      "url": "https://www.youtube.com/@BrainWarriorsWay"
+    },
+    {
+      "name": "The Mindful Kind",
+      "host": "Rachael Kable",
+      "description": "Mindfulness practices for managing stress and anxiety.",
+      "condition": ["stress", "anxiety"],
+      "url": "https://www.youtube.com/@TheMindfulKind"
+    },
+    {
+      "name": "The Psychology Podcast",
+      "host": "Dr. Scott Barry Kaufman",
+      "description": "Explores human potential and mental health, including depression and anxiety.",
+      "condition": ["depression", "anxiety"],
+      "url": "https://www.youtube.com/@ThePsychologyPodcast"
+    },
+    {
+      "name": "The Depression Files",
+      "host": "Al Levin",
+      "description": "Interviews with men about their experiences with depression and suicidal thoughts.",
+      "condition": ["depression", "suicidal"],
+      "url": "https://www.youtube.com/@TheDepressionFiles"
+    },
+    {
+      "name": "The Bipolar Now Podcast",
+      "host": "Mike Lardi",
+      "description": "Personal stories and tips for managing bipolar disorder and mood swings.",
+      "condition": ["bi-polar"],
+      "url": "https://www.youtube.com/@BipolarNow"
+    },
+    {
+      "name": "The Anxiety Recovery Podcast",
+      "host": "Various Hosts",
+      "description": "Recovery stories and techniques for overcoming anxiety and panic.",
+      "condition": ["anxiety"],
+      "url": "https://www.youtube.com/@AnxietyRecoveryPodcast"
+    },
+    {
+      "name": "The Stress Less Life",
+      "host": "Dr. Yael Dubin",
+      "description": "Practical advice for reducing stress and improving mental wellness.",
+      "condition": ["stress"],
+      "url": "https://www.youtube.com/@StressLessLife"
+    },
+    {
+      "name": "The Borderline Personality Disorder Podcast",
+      "host": "Various Hosts",
+      "description": "Explores BPD, focusing on mood instability and fear of abandonment.",
+      "condition": ["personality disorder"],
+      "url": "https://www.youtube.com/@BPDPodcast"
+    },
+    {
+      "name": "The Mindful Movement",
+      "host": "Sara Raymond",
+      "description": "Guided meditations for anxiety, stress, and depression relief.",
+      "condition": ["anxiety", "stress", "depression"],
+      "url": "https://www.youtube.com/@TheMindfulMovement"
+    },
+    {
+      "name": "The Self Love Fix",
+      "host": "Beatrice Kamau",
+      "description": "Focuses on self-esteem and managing anxiety and depression.",
+      "condition": ["anxiety", "depression"],
+      "url": "https://www.youtube.com/@TheSelfLoveFix"
+    },
+    {
+      "name": "The Wellness Way",
+      "host": "Dr. Patrick Flynn",
+      "description": "Holistic approaches to managing stress and mental health.",
+      "condition": ["stress"],
+      "url": "https://www.youtube.com/@TheWellnessWay"
+    },
+    {
+      "name": "The OCD Stories",
+      "host": "Stuart Ralph",
+      "description": "Stories and expert advice on managing OCD and related anxiety.",
+      "condition": ["anxiety"],
+      "url": "https://www.youtube.com/@TheOCDStories"
+    },
+    {
+      "name": "The Mental Health Hangout",
+      "host": "Various Hosts",
+      "description": "Casual discussions on depression, anxiety, and bipolar disorder.",
+      "condition": ["depression", "anxiety", "bi-polar"],
+      "url": "https://www.youtube.com/@MentalHealthHangout"
+    },
+    {
+      "name": "The Resilient Mind",
+      "host": "Various Hosts",
+      "description": "Motivational talks on building resilience against stress and depression.",
+      "condition": ["stress", "depression"],
+      "url": "https://www.youtube.com/@TheResilientMind"
+    },
+    {
+      "name": "The Healing Trauma Podcast",
+      "host": "Monique Koven",
+      "description": "Explores trauma’s impact on anxiety and depression with healing strategies.",
+      "condition": ["anxiety", "depression"],
+      "url": "https://www.youtube.com/@HealingTraumaPodcast"
+    },
+    {
+      "name": "The MindBody Podcast",
+      "host": "Dr. Kim D’Eramo",
+      "description": "Mind-body techniques for managing anxiety and stress.",
+      "condition": ["anxiety", "stress"],
+      "url": "https://www.youtube.com/@MindBodyPodcast"
+    },
+    {
+      "name": "The Emotional Wellness Podcast",
+      "host": "Various Hosts",
+      "description": "Focuses on emotional regulation for depression and anxiety.",
+      "condition": ["depression", "anxiety"],
+      "url": "https://www.youtube.com/@EmotionalWellnessPodcast"
+    },
+    {
+      "name": "The Mental Health Matters Podcast",
+      "host": "Various Hosts",
+      "description": "Covers a range of mental health topics, including suicidal thoughts and depression.",
+      "condition": ["suicidal", "depression"],
+      "url": "https://www.youtube.com/@MentalHealthMattersPodcast"
+    },
+    {
+      "name": "The Anxiety Toolkit",
+      "host": "Dr. Alice Boyes",
+      "description": "Practical tools for managing anxiety and overthinking.",
+      "condition": ["anxiety"],
+      "url": "https://www.youtube.com/@AnxietyToolkit"
+    },
+    {
+      "name": "The Mood Disorders Podcast",
+      "host": "Various Hosts",
+      "description": "Focuses on bipolar disorder and depression with expert interviews.",
+      "condition": ["bi-polar", "depression"],
+      "url": "https://www.youtube.com/@MoodDisordersPodcast"
+    },
+    {
+      "name": "The Self-Compassion Podcast",
+      "host": "Dr. Kristin Neff",
+      "description": "Teaches self-compassion to manage depression and anxiety.",
+      "condition": ["depression", "anxiety"],
+      "url": "https://www.youtube.com/@SelfCompassionPodcast"
+    },
+    {
+      "name": "The Mindful Therapist",
+      "host": "Dr. Elizabeth Hoge",
+      "description": "Mindfulness-based strategies for anxiety and stress relief.",
+      "condition": ["anxiety", "stress"],
+      "url": "https://www.youtube.com/@MindfulTherapist"
+    },
+    {
+      "name": "The Depression Detox Show",
+      "host": "Malikee Josephs",
+      "description": "Motivational talks to overcome depression and negative thoughts.",
+      "condition": ["depression"],
+      "url": "https://www.youtube.com/@DepressionDetoxShow"
+    },
+    {
+      "name": "The BPD Recovery Podcast",
+      "host": "Various Hosts",
+      "description": "Focuses on recovery from borderline personality disorder and mood instability.",
+      "condition": ["personality disorder"],
+      "url": "https://www.youtube.com/@BPDRecoveryPodcast"
+    },
+    {
+      "name": "The Stress Management Podcast",
+      "host": "Various Hosts",
+      "description": "Techniques for managing stress and burnout in daily life.",
+      "condition": ["stress"],
+      "url": "https://www.youtube.com/@StressManagementPodcast"
+    },
+    {
+      "name": "The Mental Health Reset",
+      "host": "Various Hosts",
+      "description": "Strategies for resetting mental health, focusing on depression and anxiety.",
+      "condition": ["depression", "anxiety"],
+      "url": "https://www.youtube.com/@MentalHealthReset"
+    },
+    {
+      "name": "The Bipolar Advantage",
+      "host": "Tom Wootton",
+      "description": "Explores living well with bipolar disorder through personal insights.",
+      "condition": ["bi-polar"],
+      "url": "https://www.youtube.com/@BipolarAdvantage"
+    },
+    {
+      "name": "The Anxiety Free Life",
+      "host": "Various Hosts",
+      "description": "Guides listeners toward an anxiety-free life with practical tools.",
+      "condition": ["anxiety"],
+      "url": "https://www.youtube.com/@AnxietyFreeLife"
+    },
+    {
+      "name": "The Mindful Recovery Podcast",
+      "host": "Various Hosts",
+      "description": "Mindfulness techniques for managing depression and addiction.",
+      "condition": ["depression"],
+      "url": "https://www.youtube.com/@MindfulRecoveryPodcast"
+    },
+    {
+      "name": "The Emotional Intelligence Podcast",
+      "host": "Various Hosts",
+      "description": "Focuses on emotional regulation for anxiety and personality disorders.",
+      "condition": ["anxiety", "personality disorder"],
+      "url": "https://www.youtube.com/@EmotionalIntelligencePodcast"
+    },
+    {
+      "name": "The Resilience Podcast",
+      "host": "Various Hosts",
+      "description": "Strategies for building resilience against stress and depression.",
+      "condition": ["stress", "depression"],
+      "url": "https://www.youtube.com/@ResiliencePodcast"
+    },
+    {
+      "name": "The Mental Wellness Podcast",
+      "host": "Various Hosts",
+      "description": "Covers a range of mental health topics, including anxiety and depression.",
+      "condition": ["anxiety", "depression"],
+      "url": "https://www.youtube.com/@MentalWellnessPodcast"
+    },
+    {
+      "name": "The Hopeful Mind",
+      "host": "Various Hosts",
+      "description": "Inspirational stories and tips for overcoming depression and suicidal thoughts.",
+      "condition": ["depression", "suicidal"],
+      "url": "https://www.youtube.com/@HopefulMind"
+    },
+    {
+      "name": "The Anxiety Relief Podcast",
+      "host": "Various Hosts",
+      "description": "Techniques and stories for managing anxiety and panic attacks.",
+      "condition": ["anxiety"],
+      "url": "https://www.youtube.com/@AnxietyReliefPodcast"
+    },
+    {
+      "name": "The Mood Swing Podcast",
+      "host": "Various Hosts",
+      "description": "Explores bipolar disorder and mood swings with expert advice.",
+      "condition": ["bi-polar"],
+      "url": "https://www.youtube.com/@MoodSwingPodcast"
+    },
+    {
+      "name": "The Self-Esteem Podcast",
+      "host": "Various Hosts",
+      "description": "Focuses on building self-esteem to combat depression and anxiety.",
+      "condition": ["depression", "anxiety"],
+      "url": "https://www.youtube.com/@SelfEsteemPodcast"
+    },
+    {
+      "name": "The Mental Health Warrior",
+      "host": "Various Hosts",
+      "description": "Motivational content for managing depression and stress.",
+      "condition": ["depression", "stress"],
+      "url": "https://www.youtube.com/@MentalHealthWarrior"
+    },
+    {
+      "name": "The Coping Skills Podcast",
+      "host": "Various Hosts",
+      "description": "Practical coping skills for anxiety, depression, and stress.",
+      "condition": ["anxiety", "depression", "stress"],
+      "url": "https://www.youtube.com/@CopingSkillsPodcast"
+    },
+    {
+      "name": "The Mindful Living Podcast",
+      "host": "Various Hosts",
+      "description": "Mindfulness practices for managing anxiety and depression.",
+      "condition": ["anxiety", "depression"],
+      "url": "https://www.youtube.com/@MindfulLivingPodcast"
+    },
+    {
+      "name": "The Positive Mindset Podcast",
+      "host": "Henry Lawrence",
+      "description": "Motivational content to combat depression and negative thoughts.",
+      "condition": ["depression"],
+      "url": "https://www.youtube.com/@PositiveMindsetPodcast"
+    },
+    {
+      "name": "The Anxiety Healing Podcast",
+      "host": "Various Hosts",
+      "description": "Healing strategies for anxiety and panic disorders.",
+      "condition": ["anxiety"],
+      "url": "https://www.youtube.com/@AnxietyHealingPodcast"
+    },
+    {
+      "name": "The Bipolar Diaries",
+      "host": "Various Hosts",
+      "description": "Personal stories and advice for living with bipolar disorder.",
+      "condition": ["bi-polar"],
+      "url": "https://www.youtube.com/@BipolarDiaries"
+    },
+    {
+      "name": "The Stress Relief Podcast",
+      "host": "Various Hosts",
+      "description": "Techniques for managing stress and burnout effectively.",
+      "condition": ["stress"],
+      "url": "https://www.youtube.com/@StressReliefPodcast"
+    },
+    {
+      "name": "The Mental Clarity Podcast",
+      "host": "Various Hosts",
+      "description": "Strategies for achieving mental clarity amidst anxiety and depression.",
+      "condition": ["anxiety", "depression"],
+      "url": "https://www.youtube.com/@MentalClarityPodcast"
+    },
+    {
+      "name": "The BPD Support Podcast",
+      "host": "Various Hosts",
+      "description": "Support and advice for managing borderline personality disorder.",
+      "condition": ["personality disorder"],
+      "url": "https://www.youtube.com/@BPDSupportPodcast"
+    },
+    {
+      "name": "The Mindful Path",
+      "host": "Various Hosts",
+      "description": "Mindfulness-based approaches to depression and anxiety.",
+      "condition": ["depression", "anxiety"],
+      "url": "https://www.youtube.com/@MindfulPath"
+    },
+    {
+      "name": "The Emotional Healing Podcast",
+      "host": "Various Hosts",
+      "description": "Focuses on healing from emotional pain related to depression and anxiety.",
+      "condition": ["depression", "anxiety"],
+      "url": "https://www.youtube.com/@EmotionalHealingPodcast"
+    },
+    {
+      "name": "The Resilience Project",
+      "host": "Various Hosts",
+      "description": "Stories and strategies for building resilience against stress and depression.",
+      "condition": ["stress", "depression"],
+      "url": "https://www.youtube.com/@ResilienceProject"
+    },
+    {
+      "name": "The Anxiety Support Podcast",
+      "host": "Various Hosts",
+      "description": "Community-driven support for managing anxiety and panic.",
+      "condition": ["anxiety"],
+      "url": "https://www.youtube.com/@AnxietySupportPodcast"
+    },
+    {
+      "name": "The Bipolar Support Podcast",
+      "host": "Various Hosts",
+      "description": "Support and insights for managing bipolar disorder and mood swings.",
+      "condition": ["bi-polar"],
+      "url": "https://www.youtube.com/@BipolarSupportPodcast"
+    },
+    {
+      "name": "The Mental Health Journey",
+      "host": "Various Hosts",
+      "description": "Explores personal journeys with depression, anxiety, and suicidal thoughts.",
+      "condition": ["depression", "anxiety", "suicidal"],
+      "url": "https://www.youtube.com/@MentalHealthJourney"
+    },
+    {
+      "name": "The Stress Solution Podcast",
+      "host": "Various Hosts",
+      "description": "Practical solutions for managing stress and burnout.",
+      "condition": ["stress"],
+      "url": "https://www.youtube.com/@StressSolutionPodcast"
+    }
+  ],
+  "books": [
+    {
+      "title": "Feeling Good: The New Mood Therapy",
+      "author": "David D. Burns",
+      "description": "A classic book on cognitive behavioral therapy (CBT) techniques to manage depression and anxiety.",
+      "condition": ["depression", "anxiety"],
+      "url": "https://www.amazon.com/Feeling-Good-New-Mood-Therapy/dp/0380731762"
+    },
+    {
+      "title": "The Noonday Demon: An Atlas of Depression",
+      "author": "Andrew Solomon",
+      "description": "An in-depth exploration of depression, combining personal narrative and scientific insights.",
+      "condition": ["depression"],
+      "url": "https://www.amazon.com/Noonday-Demon-Atlas-Depression/dp/1501123882"
+    },
+    {
+      "title": "Reasons to Stay Alive",
+      "author": "Matt Haig",
+      "description": "A personal memoir offering hope and insights for those struggling with depression and suicidal thoughts.",
+      "condition": ["depression", "suicidal"],
+      "url": "https://www.amazon.com/Reasons-Stay-Alive-Matt-Haig/dp/0143128728"
+    },
+    {
+      "title": "The Anxiety and Phobia Workbook",
+      "author": "Edmund J. Bourne",
+      "description": "A comprehensive guide with practical exercises for managing anxiety and panic disorders.",
+      "condition": ["anxiety"],
+      "url": "https://www.amazon.com/Anxiety-Phobia-Workbook-Edmund-Bourne/dp/1684034833"
+    },
+    {
+      "title": "An Unquiet Mind: A Memoir of Moods and Madness",
+      "author": "Kay Redfield Jamison",
+      "description": "A personal account of living with bipolar disorder, offering insights into mood swings and mania.",
+      "condition": ["bi-polar"],
+      "url": "https://www.amazon.com/Unquiet-Mind-Memoir-Moods-Madness/dp/0679763309"
+    },
+    {
+      "title": "I Hate You—Don't Leave Me: Understanding the Borderline Personality",
+      "author": "Jerold J. Kreisman & Hal Straus",
+      "description": "Explains borderline personality disorder, focusing on mood instability and fear of abandonment.",
+      "condition": ["personality disorder"],
+      "url": "https://www.amazon.com/Hate-You-Dont-Leave-Understanding/dp/0399536213"
+    },
+    {
+      "title": "The Upward Spiral: Using Neuroscience to Reverse the Course of Depression",
+      "author": "Alex Korb",
+      "description": "Uses neuroscience to provide practical strategies for overcoming depression.",
+      "condition": ["depression"],
+      "url": "https://www.amazon.com/Upward-Spiral-Neuroscience-Reverse-Depression/dp/1626251207"
+    },
+    {
+      "title": "Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live",
+      "author": "Brené Brown",
+      "description": "Explores vulnerability and shame, offering tools for managing anxiety and stress.",
+      "condition": ["anxiety", "stress"],
+      "url": "https://www.amazon.com/Daring-Greatly-Courage-Vulnerable-Transforms/dp/1592408419"
+    },
+    {
+      "title": "The Dialectical Behavior Therapy Skills Workbook",
+      "author": "Matthew McKay, Jeffrey C. Wood, & Jeffrey Brantley",
+      "description": "Practical DBT exercises for managing borderline personality disorder and emotional instability.",
+      "condition": ["personality disorder"],
+      "url": "https://www.amazon.com/Dialectical-Behavior-Therapy-Skills-Workbook/dp/1684034582"
+    },
+    {
+      "title": "The Happiness Trap: How to Stop Struggling and Start Living",
+      "author": "Russ Harris",
+      "description": "Uses Acceptance and Commitment Therapy (ACT) to address depression and anxiety.",
+      "condition": ["depression", "anxiety"],
+      "url": "https://www.amazon.com/Happiness-Trap-Stop-Struggling-Start/dp/1590305841"
+    },
+    {
+      "title": "الخروج من الاكتئاب: رحلة إلى النور",
+      "author": "محمد طه",
+      "description": "كتاب عربي يقدم نصائح عملية للتغلب على الاكتئاب باستخدام تقنيات علم النفس الحديثة.",
+      "condition": ["depression"],
+      "url": "https://www.jarir.com/ar/arabic-books-355555.html"
+    },
+    {
+      "title": "القلق النفسي: كيف تتغلب عليه؟",
+      "author": "عبد الرحمن ذاكر الهاشمي",
+      "description": "كتاب عربي يركز على استراتيجيات عملية لإدارة القلق والتوتر في الحياة اليومية.",
+      "condition": ["anxiety", "stress"],
+      "url": "https://www.jarir.com/ar/arabic-books-453223.html"
+    },
+    {
+      "title": "الصحة النفسية: دليل شامل لفهم الاضطرابات النفسية",
+      "author": "أحمد عكاشة",
+      "description": "كتاب عربي يغطي الاضطرابات النفسية مثل الاكتئاب والقلق واضطراب ثنائي القطب.",
+      "condition": ["depression", "anxiety", "bi-polar"],
+      "url": "https://www.neelwafurat.com/itempage.aspx?id=egb169054-5223239"
+    },
+    {
+      "title": "كيف تتغلب على الأفكار الانتحارية",
+      "author": "محمد عبد العليم",
+      "description": "كتاب عربي يقدم دعماً نفسياً للأشخاص الذين يعانون من الأفكار الانتحارية.",
+      "condition": ["suicidal"],
+      "url": "https://www.neelwafurat.com/itempage.aspx?id=egb123456-5112345"
+    },
+    {
+      "title": "التوتر النفسي وكيفية التعامل معه",
+      "author": "محمد سمير",
+      "description": "كتاب عربي يقدم تقنيات لإدارة التوتر النفسي وتحسين الصحة العقلية.",
+      "condition": ["stress"],
+      "url": "https://www.jarir.com/ar/arabic-books-456789.html"
+    },
+    {
+      "title": "اضطراب الشخصية الحدية: دليل العلاج",
+      "author": "علي كامل",
+      "description": "كتاب عربي يشرح اضطراب الشخصية الحدية ويقدم استراتيجيات علاجية.",
+      "condition": ["personality disorder"],
+      "url": "https://www.neelwafurat.com/itempage.aspx?id=egb987654-5229876"
+    },
+    {
+      "title": "Mind Over Mood: Change How You Feel by Changing the Way You Think",
+      "author": "Dennis Greenberger & Christine A. Padesky",
+      "description": "A CBT workbook for managing depression, anxiety, and mood swings.",
+      "condition": ["depression", "anxiety", "bi-polar"],
+      "url": "https://www.amazon.com/Mind-Over-Mood-Second-Changing/dp/1462520421"
+    },
+    {
+      "title": "The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma",
+      "author": "Bessel van der Kolk",
+      "description": "Explores how trauma affects mental health and offers healing strategies for anxiety and depression.",
+      "condition": ["anxiety", "depression"],
+      "url": "https://www.amazon.com/Body-Keeps-Score-Healing-Trauma/dp/0143127748"
+    },
+    {
+      "title": "Lost Connections: Uncovering the Real Causes of Depression – and the Unexpected Solutions",
+      "author": "Johann Hari",
+      "description": "Investigates social and environmental causes of depression with practical solutions.",
+      "condition": ["depression"],
+      "url": "https://www.amazon.com/Lost-Connections-Uncovering-Depression-Unexpected/dp/1632868318"
+    },
+    {
+      "title": "The Mindful Way Through Depression",
+      "author": "Mark Williams, John Teasdale, Zindel Segal, & Jon Kabat-Zinn",
+      "description": "Combines mindfulness and CBT to manage depression and prevent relapse.",
+      "condition": ["depression"],
+      "url": "https://www.amazon.com/Mindful-Way-Through-Depression-Unhappiness/dp/1593851286"
+    }
+  ]
+}

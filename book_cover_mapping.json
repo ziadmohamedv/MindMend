@@ -1,0 +1,970 @@
+[
+  {
+    "title": "شيطان الظهيرة: أطلس الاكتئاب",
+    "author": "أندرو سولومون",
+    "condition": "depression, suicidal",
+    "cover_filename": "شيطان الظهيرة_ أطلس الاكتئاب.jpg",
+    "cover_exists": false,
+    "cover_path": null
+  },
+  {
+    "title": "عالج نفسك من الاكتئاب والقلق",
+    "author": "غير محدد",
+    "condition": "depression, anxiety",
+    "cover_filename": "عالج نفسك من الاكتئاب والقلق.jpg",
+    "cover_exists": false,
+    "cover_path": null
+  },
+  {
+    "title": "الاكتئاب وسنينه",
+    "author": "عادل أبو الحسن محمد",
+    "condition": "depression",
+    "cover_filename": "الاكتئاب وسنينه.jpg",
+    "cover_exists": false,
+    "cover_path": null
+  },
+  {
+    "title": "عالج نفسك من القلق والتوتر",
+    "author": "أبو الفداء محمد عزت",
+    "condition": "anxiety, stress",
+    "cover_filename": "عالج نفسك من القلق والتوتر.jpg",
+    "cover_exists": false,
+    "cover_path": null
+  },
+  {
+    "title": "مبادئ التحليل النفسي",
+    "author": "محمد فؤاد جلال",
+    "condition": "anxiety, depression",
+    "cover_filename": "مبادئ التحليل النفسي.jpg",
+    "cover_exists": false,
+    "cover_path": null
+  },
+  {
+    "title": "الصحة النفسية والتوافق المجتمعي",
+    "author": "أحمد عكاشة",
+    "condition": "depression, anxiety",
+    "cover_filename": "الصحة النفسية والتوافق المجتمعي.jpg",
+    "cover_exists": false,
+    "cover_path": null
+  },
+  {
+    "title": "الأمل المكتسب: قوة الإيجابية للتغلب على الاكتئاب",
+    "author": "غير محدد",
+    "condition": "depression",
+    "cover_filename": "الأمل المكتسب_ قوة الإيجابية للتغلب على الاكتئاب.jpg",
+    "cover_exists": false,
+    "cover_path": null
+  },
+  {
+    "title": "غير عالق: دليلك لرحلة المراحل السبع للخروج من الاكتئاب",
+    "author": "غير محدد",
+    "condition": "depression",
+    "cover_filename": "غير عالق_ دليلك لرحلة المراحل السبع للخروج من الاكتئاب.jpg",
+    "cover_exists": false,
+    "cover_path": null
+  },
+  {
+    "title": "التوتر والقلق والاكتئاب",
+    "author": "غير محدد",
+    "condition": "stress, anxiety, depression",
+    "cover_filename": "التوتر والقلق والاكتئاب.jpg",
+    "cover_exists": false,
+    "cover_path": null
+  },
+  {
+    "title": "كتاب طبيب العائلة: الاكتئاب",
+    "author": "غير محدد",
+    "condition": "depression",
+    "cover_filename": "كتاب طبيب العائلة_ الاكتئاب.jpg",
+    "cover_exists": false,
+    "cover_path": null
+  },
+  {
+    "title": "The Noonday Demon: An Atlas of Depression",
+    "author": "Andrew Solomon",
+    "condition": "depression, suicidal",
+    "cover_filename": "The Noonday Demon_ An Atlas of Depression.jpg",
+    "cover_exists": false,
+    "cover_path": null
+  },
+  {
+    "title": "Feeling Good: The New Mood Therapy",
+    "author": "David D. Burns",
+    "condition": "depression",
+    "cover_filename": "Feeling Good_ The New Mood Therapy.jpg",
+    "cover_exists": false,
+    "cover_path": null
+  },
+  {
+    "title": "The Upward Spiral",
+    "author": "Alex Korb",
+    "condition": "depression",
+    "cover_filename": "The Upward Spiral.jpg",
+    "cover_exists": false,
+    "cover_path": null
+  },
+  {
+    "title": "The Anxiety and Phobia Workbook",
+    "author": "Edmund J. Bourne",
+    "condition": "anxiety",
+    "cover_filename": "The Anxiety and Phobia Workbook.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\The Anxiety and Phobia Workbook.jpg"
+  },
+  {
+    "title": "The Happiness Trap",
+    "author": "Russ Harris",
+    "condition": "anxiety, stress, depression",
+    "cover_filename": "The Happiness Trap.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\The Happiness Trap.jpg"
+  },
+  {
+    "title": "An Unquiet Mind: A Memoir of Moods and Madness",
+    "author": "Kay Redfield Jamison",
+    "condition": "bi-polar",
+    "cover_filename": "An Unquiet Mind_ A Memoir of Moods and Madness.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\An Unquiet Mind_ A Memoir of Moods and Madness.jpg"
+  },
+  {
+    "title": "I Hate You--Don't Leave Me: Understanding the Borderline Personality",
+    "author": "Jerold J. Kreisman, Hal Straus",
+    "condition": "personality disorder",
+    "cover_filename": "I Hate You--Don't Leave Me_ Understanding the Borderline Personality.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\I Hate You--Don't Leave Me_ Understanding the Borderline Personality.jpg"
+  },
+  {
+    "title": "The Body Keeps the Score",
+    "author": "Bessel van der Kolk",
+    "condition": "stress, anxiety, depression",
+    "cover_filename": "The Body Keeps the Score.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\The Body Keeps the Score.jpg"
+  },
+  {
+    "title": "Reasons to Stay Alive",
+    "author": "Matt Haig",
+    "condition": "depression, suicidal",
+    "cover_filename": "Reasons to Stay Alive.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\Reasons to Stay Alive.jpg"
+  },
+  {
+    "title": "Bipolar Disorder: A Guide for Patients and Families",
+    "author": "Francis Mark Mondimore",
+    "condition": "bi-polar",
+    "cover_filename": "Bipolar Disorder_ A Guide for Patients and Families.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\Bipolar Disorder_ A Guide for Patients and Families.jpg"
+  },
+  {
+    "title": "القوة النفسية: كيف تتغلب على القلق والاكتئاب",
+    "author": "محمد عبد العليم",
+    "condition": "anxiety, depression",
+    "cover_filename": "القوة النفسية_ كيف تتغلب على القلق والاكتئاب.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\القوة النفسية_ كيف تتغلب على القلق والاكتئاب.jpg"
+  },
+  {
+    "title": "كيف تتغلب على التوتر",
+    "author": "إبراهيم الفقي",
+    "condition": "stress",
+    "cover_filename": "كيف تتغلب على التوتر.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\كيف تتغلب على التوتر.jpg"
+  },
+  {
+    "title": "الصحة النفسية للإنسان المعاصر",
+    "author": "مصطفى فهمي",
+    "condition": "depression, anxiety",
+    "cover_filename": "الصحة النفسية للإنسان المعاصر.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\الصحة النفسية للإنسان المعاصر.jpg"
+  },
+  {
+    "title": "الاضطراب ثنائي القطب",
+    "author": "غير محدد",
+    "condition": "bi-polar",
+    "cover_filename": "الاضطراب ثنائي القطب.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\الاضطراب ثنائي القطب.jpg"
+  },
+  {
+    "title": "فن إدارة الضغوط النفسية",
+    "author": "محمد السيد",
+    "condition": "stress",
+    "cover_filename": "فن إدارة الضغوط النفسية.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\فن إدارة الضغوط النفسية.jpg"
+  },
+  {
+    "title": "كيف تتغلب على الاكتئاب",
+    "author": "محمد عبد الرحمن",
+    "condition": "depression",
+    "cover_filename": "كيف تتغلب على الاكتئاب.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\كيف تتغلب على الاكتئاب.jpg"
+  },
+  {
+    "title": "اضطرابات الشخصية",
+    "author": "أحمد سمير",
+    "condition": "personality disorder",
+    "cover_filename": "اضطرابات الشخصية.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\اضطرابات الشخصية.jpg"
+  },
+  {
+    "title": "التفكير الإيجابي والصحة النفسية",
+    "author": "غير محدد",
+    "condition": "anxiety, depression",
+    "cover_filename": "التفكير الإيجابي والصحة النفسية.jpg",
+    "cover_exists": false,
+    "cover_path": null
+  },
+  {
+    "title": "رحلة إلى السلام الداخلي",
+    "author": "غير محدد",
+    "condition": "stress, anxiety",
+    "cover_filename": "رحلة إلى السلام الداخلي.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\رحلة إلى السلام الداخلي.jpg"
+  },
+  {
+    "title": "الاكتئاب: كيف تفهمه وتعالجه",
+    "author": "غير محدد",
+    "condition": "depression, suicidal",
+    "cover_filename": "الاكتئاب_ كيف تفهمه وتعالجه.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\الاكتئاب_ كيف تفهمه وتعالجه.jpg"
+  },
+  {
+    "title": "Lost Connections",
+    "author": "Johann Hari",
+    "condition": "depression, anxiety",
+    "cover_filename": "Lost Connections.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\Lost Connections.jpg"
+  },
+  {
+    "title": "Daring Greatly",
+    "author": "Brené Brown",
+    "condition": "anxiety, depression",
+    "cover_filename": "Daring Greatly.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\Daring Greatly.jpg"
+  },
+  {
+    "title": "The Bipolar Disorder Survival Guide",
+    "author": "David J. Miklowitz",
+    "condition": "bi-polar",
+    "cover_filename": "The Bipolar Disorder Survival Guide.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\The Bipolar Disorder Survival Guide.jpg"
+  },
+  {
+    "title": "Mind Over Mood",
+    "author": "Dennis Greenberger, Christine A. Padesky",
+    "condition": "depression, anxiety, stress",
+    "cover_filename": "Mind Over Mood.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\Mind Over Mood.jpg"
+  },
+  {
+    "title": "The Mindful Way Through Depression",
+    "author": "Mark Williams, John Teasdale, Zindel Segal, Jon Kabat-Zinn",
+    "condition": "depression",
+    "cover_filename": "The Mindful Way Through Depression.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\The Mindful Way Through Depression.jpg"
+  },
+  {
+    "title": "Stop Walking on Eggshells",
+    "author": "Paul T. Mason, Randi Kreger",
+    "condition": "personality disorder",
+    "cover_filename": "Stop Walking on Eggshells.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\Stop Walking on Eggshells.jpg"
+  },
+  {
+    "title": "Burnout: The Secret to Unlocking the Stress Cycle",
+    "author": "Emily Nagoski, Amelia Nagoski",
+    "condition": "stress",
+    "cover_filename": "Burnout_ The Secret to Unlocking the Stress Cycle.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\Burnout_ The Secret to Unlocking the Stress Cycle.jpg"
+  },
+  {
+    "title": "Furiously Happy",
+    "author": "Jenny Lawson",
+    "condition": "depression, anxiety",
+    "cover_filename": "Furiously Happy.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\Furiously Happy.jpg"
+  },
+  {
+    "title": "The Suicidal Thoughts Workbook",
+    "author": "Kathryn Hope Gordon",
+    "condition": "suicidal, depression",
+    "cover_filename": "The Suicidal Thoughts Workbook.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\The Suicidal Thoughts Workbook.jpg"
+  },
+  {
+    "title": "Get Out of Your Mind and Into Your Life",
+    "author": "Steven C. Hayes, Spencer Smith",
+    "condition": "anxiety, stress, depression",
+    "cover_filename": "Get Out of Your Mind and Into Your Life.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\Get Out of Your Mind and Into Your Life.jpg"
+  },
+  {
+    "title": "الإنسان يبحث عن التوازن النفسي",
+    "author": "محمد عبد العال",
+    "condition": "anxiety, stress",
+    "cover_filename": "الإنسان يبحث عن التوازن النفسي.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\الإنسان يبحث عن التوازن النفسي.jpg"
+  },
+  {
+    "title": "الاكتئاب: رحلة الخروج من الظلام",
+    "author": "أحمد سمير عبد الحي",
+    "condition": "depression",
+    "cover_filename": "الاكتئاب_ رحلة الخروج من الظلام.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\الاكتئاب_ رحلة الخروج من الظلام.jpg"
+  },
+  {
+    "title": "كيف تتحكم في ضغوطك النفسية",
+    "author": "خالد المنيف",
+    "condition": "stress",
+    "cover_filename": "كيف تتحكم في ضغوطك النفسية.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\كيف تتحكم في ضغوطك النفسية.jpg"
+  },
+  {
+    "title": "الاضطراب ثنائي القطب: فهمه وعلاجه",
+    "author": "محمد عبد الرحمن عارف",
+    "condition": "bi-polar",
+    "cover_filename": "الاضطراب ثنائي القطب_ فهمه وعلاجه.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\الاضطراب ثنائي القطب_ فهمه وعلاجه.jpg"
+  },
+  {
+    "title": "اضطرابات الشخصية: التشخيص والعلاج",
+    "author": "سامي عبد الرحمن",
+    "condition": "personality disorder",
+    "cover_filename": "اضطرابات الشخصية_ التشخيص والعلاج.jpg",
+    "cover_exists": false,
+    "cover_path": null
+  },
+  {
+    "title": "التغلب على القلق اليومي",
+    "author": "عبد الرحمن ذاكر",
+    "condition": "anxiety",
+    "cover_filename": "التغلب على القلق اليومي.jpg",
+    "cover_exists": false,
+    "cover_path": null
+  },
+  {
+    "title": "رحلة إلى الأمل",
+    "author": "محمد علي يوسف",
+    "condition": "depression, suicidal",
+    "cover_filename": "رحلة إلى الأمل.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\رحلة إلى الأمل.jpg"
+  },
+  {
+    "title": "الصحة النفسية والسعادة",
+    "author": "طارق الحبيب",
+    "condition": "depression, anxiety",
+    "cover_filename": "الصحة النفسية والسعادة.jpg",
+    "cover_exists": false,
+    "cover_path": null
+  },
+  {
+    "title": "إدارة التوتر في الحياة العصرية",
+    "author": "عبد الله الخاطر",
+    "condition": "stress",
+    "cover_filename": "إدارة التوتر في الحياة العصرية.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\إدارة التوتر في الحياة العصرية.jpg"
+  },
+  {
+    "title": "فهم الاضطرابات النفسية",
+    "author": "محمد حسن غانم",
+    "condition": "depression, anxiety",
+    "cover_filename": "فهم الاضطرابات النفسية.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\فهم الاضطرابات النفسية.jpg"
+  },
+  {
+    "title": "القلق: كيف تتغلب عليه",
+    "author": "أحمد عبد الخالق",
+    "condition": "anxiety",
+    "cover_filename": "القلق_ كيف تتغلب عليه.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\القلق_ كيف تتغلب عليه.jpg"
+  },
+  {
+    "title": "الاكتئاب وكيفية مواجهته",
+    "author": "محمد عبد الله",
+    "condition": "depression",
+    "cover_filename": "الاكتئاب وكيفية مواجهته.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\الاكتئاب وكيفية مواجهته.jpg"
+  },
+  {
+    "title": "اضطراب الشخصية: رحلة الفهم",
+    "author": "عبد الرحمن السيد",
+    "condition": "personality disorder",
+    "cover_filename": "اضطراب الشخصية_ رحلة الفهم.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\اضطراب الشخصية_ رحلة الفهم.jpg"
+  },
+  {
+    "title": "الهوس والاكتئاب: فهم الاضطراب ثنائي القطب",
+    "author": "علي السيد",
+    "condition": "bi-polar",
+    "cover_filename": "الهوس والاكتئاب_ فهم الاضطراب ثنائي القطب.jpg",
+    "cover_exists": false,
+    "cover_path": null
+  },
+  {
+    "title": "الخروج من الظلال",
+    "author": "محمد عبد العزيز",
+    "condition": "depression, suicidal",
+    "cover_filename": "الخروج من الظلال.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\الخروج من الظلال.jpg"
+  },
+  {
+    "title": "The Cognitive Behavioral Workbook for Depression",
+    "author": "William J. Knaus",
+    "condition": "depression",
+    "cover_filename": "The Cognitive Behavioral Workbook for Depression.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\The Cognitive Behavioral Workbook for Depression.jpg"
+  },
+  {
+    "title": "When Panic Attacks",
+    "author": "David D. Burns",
+    "condition": "anxiety",
+    "cover_filename": "When Panic Attacks.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\When Panic Attacks.jpg"
+  },
+  {
+    "title": "The Relaxation and Stress Reduction Workbook",
+    "author": "Martha Davis",
+    "condition": "stress",
+    "cover_filename": "The Relaxation and Stress Reduction Workbook.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\The Relaxation and Stress Reduction Workbook.jpg"
+  },
+  {
+    "title": "Living Well with Bipolar Disorder",
+    "author": "David J. Miklowitz",
+    "condition": "bi-polar",
+    "cover_filename": "Living Well with Bipolar Disorder.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\Living Well with Bipolar Disorder.jpg"
+  },
+  {
+    "title": "The Borderline Personality Disorder Workbook",
+    "author": "Daniel J. Fox",
+    "condition": "personality disorder",
+    "cover_filename": "The Borderline Personality Disorder Workbook.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\The Borderline Personality Disorder Workbook.jpg"
+  },
+  {
+    "title": "Hardcore Self Help: F**k Depression",
+    "author": "Robert Duff",
+    "condition": "depression",
+    "cover_filename": "Hardcore Self Help_ F__k Depression.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\Hardcore Self Help_ F__k Depression.jpg"
+  },
+  {
+    "title": "The Anxiety Toolkit",
+    "author": "Alice Boyes",
+    "condition": "anxiety",
+    "cover_filename": "The Anxiety Toolkit.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\The Anxiety Toolkit.jpg"
+  },
+  {
+    "title": "This Is How I Find Her",
+    "author": "Sara Polsky",
+    "condition": "bi-polar",
+    "cover_filename": "This Is How I Find Her.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\This Is How I Find Her.jpg"
+  },
+  {
+    "title": "The Mindful Path to Self-Compassion",
+    "author": "Christopher K. Germer",
+    "condition": "depression, anxiety",
+    "cover_filename": "The Mindful Path to Self-Compassion.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\The Mindful Path to Self-Compassion.jpg"
+  },
+  {
+    "title": "The Invisible String",
+    "author": "Patrice Karst",
+    "condition": "anxiety, personality disorder",
+    "cover_filename": "The Invisible String.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\The Invisible String.jpg"
+  },
+  {
+    "title": "The Resilience Workbook",
+    "author": "Glenn R. Schiraldi",
+    "condition": "stress, depression",
+    "cover_filename": "The Resilience Workbook.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\The Resilience Workbook.jpg"
+  },
+  {
+    "title": "Hello I Want to Die Please Fix Me",
+    "author": "Anna Mehler Paperny",
+    "condition": "depression, suicidal",
+    "cover_filename": "Hello I Want to Die Please Fix Me.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\Hello I Want to Die Please Fix Me.jpg"
+  },
+  {
+    "title": "The Emotional First Aid Kit",
+    "author": "Cynthia L. Alexander",
+    "condition": "stress, anxiety",
+    "cover_filename": "The Emotional First Aid Kit.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\The Emotional First Aid Kit.jpg"
+  },
+  {
+    "title": "Sometimes My Mommy Gets Angry",
+    "author": "Bebe Moore Campbell",
+    "condition": "bi-polar",
+    "cover_filename": "Sometimes My Mommy Gets Angry.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\Sometimes My Mommy Gets Angry.jpg"
+  },
+  {
+    "title": "Building a Life Worth Living",
+    "author": "Marsha M. Linehan",
+    "condition": "personality disorder, suicidal",
+    "cover_filename": "Building a Life Worth Living.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\Building a Life Worth Living.jpg"
+  },
+  {
+    "title": "التغلب على الاكتئاب باليقظة الذهنية",
+    "author": "محمد عبد الرحيم",
+    "condition": "depression",
+    "cover_filename": "التغلب على الاكتئاب باليقظة الذهنية.jpg",
+    "cover_exists": false,
+    "cover_path": null
+  },
+  {
+    "title": "القلق: طريقك للسلام الداخلي",
+    "author": "عبد الرحمن ياسر",
+    "condition": "anxiety",
+    "cover_filename": "القلق_ طريقك للسلام الداخلي.jpg",
+    "cover_exists": false,
+    "cover_path": null
+  },
+  {
+    "title": "إدارة التوتر في العمل",
+    "author": "خالد عبد الله",
+    "condition": "stress",
+    "cover_filename": "إدارة التوتر في العمل.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\إدارة التوتر في العمل.jpg"
+  },
+  {
+    "title": "فهم الاضطراب ثنائي القطب",
+    "author": "أحمد عبد المقصود",
+    "condition": "bi-polar",
+    "cover_filename": "فهم الاضطراب ثنائي القطب.jpg",
+    "cover_exists": false,
+    "cover_path": null
+  },
+  {
+    "title": "اضطراب الشخصية الحدية: دليل عملي",
+    "author": "محمد السيد حسن",
+    "condition": "personality disorder",
+    "cover_filename": "اضطراب الشخصية الحدية_ دليل عملي.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\اضطراب الشخصية الحدية_ دليل عملي.jpg"
+  },
+  {
+    "title": "الأمل في مواجهة الاكتئاب",
+    "author": "عبد العزيز محمود",
+    "condition": "depression, suicidal",
+    "cover_filename": "الأمل في مواجهة الاكتئاب.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\الأمل في مواجهة الاكتئاب.jpg"
+  },
+  {
+    "title": "الصحة النفسية في عصر السرعة",
+    "author": "سعيد عبد الله",
+    "condition": "anxiety, stress",
+    "cover_filename": "الصحة النفسية في عصر السرعة.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\الصحة النفسية في عصر السرعة.jpg"
+  },
+  {
+    "title": "كيف تتغلب على اليأس",
+    "author": "محمد عبد العزيز",
+    "condition": "depression",
+    "cover_filename": "كيف تتغلب على اليأس.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\كيف تتغلب على اليأس.jpg"
+  },
+  {
+    "title": "التأمل لتقليل التوتر",
+    "author": "أحمد عبد الرحمن",
+    "condition": "stress",
+    "cover_filename": "التأمل لتقليل التوتر.jpg",
+    "cover_exists": false,
+    "cover_path": null
+  },
+  {
+    "title": "اضطرابات المزاج: دليل شامل",
+    "author": "عبد الله محمد",
+    "condition": "bi-polar",
+    "cover_filename": "اضطرابات المزاج_ دليل شامل.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\اضطرابات المزاج_ دليل شامل.jpg"
+  },
+  {
+    "title": "فهم اضطرابات الشخصية",
+    "author": "محمد عبد الرحمن",
+    "condition": "personality disorder",
+    "cover_filename": "فهم اضطرابات الشخصية.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\فهم اضطرابات الشخصية.jpg"
+  },
+  {
+    "title": "القلق النفسي: استراتيجيات التغلب",
+    "author": "ياسر عبد الله",
+    "condition": "anxiety",
+    "cover_filename": "القلق النفسي_ استراتيجيات التغلب.jpg",
+    "cover_exists": false,
+    "cover_path": null
+  },
+  {
+    "title": "الخروج من ظلام الاكتئاب",
+    "author": "أحمد السيد",
+    "condition": "depression",
+    "cover_filename": "الخروج من ظلام الاكتئاب.jpg",
+    "cover_exists": false,
+    "cover_path": null
+  },
+  {
+    "title": "المرونة النفسية: كيف تواجه الأزمات",
+    "author": "محمد عبد المنعم",
+    "condition": "depression, suicidal",
+    "cover_filename": "المرونة النفسية_ كيف تواجه الأزمات.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\المرونة النفسية_ كيف تواجه الأزمات.jpg"
+  },
+  {
+    "title": "الصحة النفسية في الحياة العملية",
+    "author": "عبد الرحمن صالح",
+    "condition": "stress, anxiety",
+    "cover_filename": "الصحة النفسية في الحياة العملية.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\الصحة النفسية في الحياة العملية.jpg"
+  },
+  {
+    "title": "كيف تتغلب على اضطرابات المزاج",
+    "author": "محمد عبد العال",
+    "condition": "bi-polar",
+    "cover_filename": "كيف تتغلب على اضطرابات المزاج.jpg",
+    "cover_exists": false,
+    "cover_path": null
+  },
+  {
+    "title": "اضطراب الشخصية: الطريق إلى التحسين",
+    "author": "سعيد عبد الرحمن",
+    "condition": "personality disorder",
+    "cover_filename": "اضطراب الشخصية_ الطريق إلى التحسين.jpg",
+    "cover_exists": false,
+    "cover_path": null
+  },
+  {
+    "title": "التغلب على القلق في الحياة اليومية",
+    "author": "عبد الله السيد",
+    "condition": "anxiety",
+    "cover_filename": "التغلب على القلق في الحياة اليومية.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\التغلب على القلق في الحياة اليومية.jpg"
+  },
+  {
+    "title": "الاكتئاب: دليل للتعافي",
+    "author": "محمد عبد الرحمن",
+    "condition": "depression",
+    "cover_filename": "الاكتئاب_ دليل للتعافي.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\الاكتئاب_ دليل للتعافي.jpg"
+  },
+  {
+    "title": "التوتر: كيف تواجهه",
+    "author": "أحمد عبد العزيز",
+    "condition": "stress",
+    "cover_filename": "التوتر_ كيف تواجهه.jpg",
+    "cover_exists": false,
+    "cover_path": null
+  },
+  {
+    "title": "فهم الهوس والاكتئاب",
+    "author": "عبد الرحمن محمد",
+    "condition": "bi-polar",
+    "cover_filename": "فهم الهوس والاكتئاب.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\فهم الهوس والاكتئاب.jpg"
+  },
+  {
+    "title": "اضطرابات الشخصية: رؤية جديدة",
+    "author": "محمد عبد الله",
+    "condition": "personality disorder",
+    "cover_filename": "اضطرابات الشخصية_ رؤية جديدة.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\اضطرابات الشخصية_ رؤية جديدة.jpg"
+  },
+  {
+    "title": "الأمل في مواجهة الظلام",
+    "author": "سعيد عبد العزيز",
+    "condition": "depression, suicidal",
+    "cover_filename": "الأمل في مواجهة الظلام.jpg",
+    "cover_exists": false,
+    "cover_path": null
+  },
+  {
+    "title": "القلق: دليل للتعامل اليومي",
+    "author": "محمد عبد المنعم",
+    "condition": "anxiety",
+    "cover_filename": "القلق_ دليل للتعامل اليومي.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\القلق_ دليل للتعامل اليومي.jpg"
+  },
+  {
+    "title": "الصحة النفسية: رحلة التعافي",
+    "author": "عبد الله عبد الرحمن",
+    "condition": "depression, anxiety",
+    "cover_filename": "الصحة النفسية_ رحلة التعافي.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\الصحة النفسية_ رحلة التعافي.jpg"
+  },
+  {
+    "title": "The Mindfulness and Acceptance Workbook for Anxiety",
+    "author": "John P. Forsyth",
+    "condition": "anxiety",
+    "cover_filename": "The Mindfulness and Acceptance Workbook for Anxiety.jpg",
+    "cover_exists": false,
+    "cover_path": null
+  },
+  {
+    "title": "Beating the Blues",
+    "author": "Michael E. Thase",
+    "condition": "depression",
+    "cover_filename": "Beating the Blues.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\Beating the Blues.jpg"
+  },
+  {
+    "title": "The Stress Solution",
+    "author": "Arthur P. Ciaramicoli",
+    "condition": "stress",
+    "cover_filename": "The Stress Solution.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\The Stress Solution.jpg"
+  },
+  {
+    "title": "Bipolar Faith",
+    "author": "Monica A. Coleman",
+    "condition": "bi-polar",
+    "cover_filename": "Bipolar Faith.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\Bipolar Faith.jpg"
+  },
+  {
+    "title": "The BPD Survival Guide",
+    "author": "Alexander L. Chapman",
+    "condition": "personality disorder",
+    "cover_filename": "The BPD Survival Guide.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\The BPD Survival Guide.jpg"
+  },
+  {
+    "title": "All the Smoke",
+    "author": "Matt Barnes",
+    "condition": "depression",
+    "cover_filename": "All the Smoke.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\All the Smoke.jpg"
+  },
+  {
+    "title": "The Worry Trick",
+    "author": "David A. Carbonell",
+    "condition": "anxiety",
+    "cover_filename": "The Worry Trick.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\The Worry Trick.jpg"
+  },
+  {
+    "title": "The Bipolar Teen",
+    "author": "David J. Miklowitz",
+    "condition": "bi-polar",
+    "cover_filename": "The Bipolar Teen.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\The Bipolar Teen.jpg"
+  },
+  {
+    "title": "The Self-Compassion Workbook",
+    "author": "Kristin Neff",
+    "condition": "depression, anxiety",
+    "cover_filename": "The Self-Compassion Workbook.jpg",
+    "cover_exists": false,
+    "cover_path": null
+  },
+  {
+    "title": "The Invisible Ache",
+    "author": "Courtney B. Vance",
+    "condition": "depression, suicidal",
+    "cover_filename": "The Invisible Ache.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\The Invisible Ache.jpg"
+  },
+  {
+    "title": "The Stress Less Workbook",
+    "author": "Jonathan S. Abramowitz",
+    "condition": "stress, anxiety",
+    "cover_filename": "The Stress Less Workbook.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\The Stress Less Workbook.jpg"
+  },
+  {
+    "title": "The Quiet Room",
+    "author": "Lori Schiller",
+    "condition": "bi-polar",
+    "cover_filename": "The Quiet Room.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\The Quiet Room.jpg"
+  },
+  {
+    "title": "Disarming the Narcissist",
+    "author": "Wendy T. Behary",
+    "condition": "personality disorder",
+    "cover_filename": "Disarming the Narcissist.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\Disarming the Narcissist.jpg"
+  },
+  {
+    "title": "The Upward Spiral Workbook",
+    "author": "Alex Korb",
+    "condition": "depression",
+    "cover_filename": "The Upward Spiral Workbook.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\The Upward Spiral Workbook.jpg"
+  },
+  {
+    "title": "Don’t Feed the Monkey Mind",
+    "author": "Jennifer Shannon",
+    "condition": "anxiety",
+    "cover_filename": "Don’t Feed the Monkey Mind.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\Don’t Feed the Monkey Mind.jpg"
+  },
+  {
+    "title": "The Wellness Workbook",
+    "author": "John W. Travis",
+    "condition": "stress",
+    "cover_filename": "The Wellness Workbook.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\The Wellness Workbook.jpg"
+  },
+  {
+    "title": "Madness: A Bipolar Life",
+    "author": "Marya Hornbacher",
+    "condition": "bi-polar",
+    "cover_filename": "Madness_ A Bipolar Life.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\Madness_ A Bipolar Life.jpg"
+  },
+  {
+    "title": "The DBT Solution for Emotional Eating",
+    "author": "Debra L. Safer",
+    "condition": "stress, personality disorder",
+    "cover_filename": "The DBT Solution for Emotional Eating.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\The DBT Solution for Emotional Eating.jpg"
+  },
+  {
+    "title": "Reasons to Live",
+    "author": "Amy Hempel",
+    "condition": "depression, suicidal",
+    "cover_filename": "Reasons to Live.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\Reasons to Live.jpg"
+  },
+  {
+    "title": "The Anxiety Skills Workbook",
+    "author": "Stefan G. Hofmann",
+    "condition": "anxiety",
+    "cover_filename": "The Anxiety Skills Workbook.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\The Anxiety Skills Workbook.jpg"
+  },
+  {
+    "title": "The Bipolar Workbook",
+    "author": "Monica Ramirez Basco",
+    "condition": "bi-polar",
+    "cover_filename": "The Bipolar Workbook.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\The Bipolar Workbook.jpg"
+  },
+  {
+    "title": "The Mindfulness Workbook for Depression",
+    "author": "Yoon Im Kane",
+    "condition": "depression",
+    "cover_filename": "The Mindfulness Workbook for Depression.jpg",
+    "cover_exists": false,
+    "cover_path": null
+  },
+  {
+    "title": "The Stress Management Workbook",
+    "author": "Ruth C. White",
+    "condition": "stress",
+    "cover_filename": "The Stress Management Workbook.jpg",
+    "cover_exists": false,
+    "cover_path": null
+  },
+  {
+    "title": "The Borderline Personality Disorder Wellness Planner",
+    "author": "Amanda L. Smith",
+    "condition": "personality disorder",
+    "cover_filename": "The Borderline Personality Disorder Wellness Planner.jpg",
+    "cover_exists": false,
+    "cover_path": null
+  },
+  {
+    "title": "The Depression Toolkit",
+    "author": "Lynn Lyons",
+    "condition": "depression",
+    "cover_filename": "The Depression Toolkit.jpg",
+    "cover_exists": false,
+    "cover_path": null
+  },
+  {
+    "title": "Dare: The New Way to End Anxiety",
+    "author": "Barry McDonagh",
+    "condition": "anxiety",
+    "cover_filename": "Dare_ The New Way to End Anxiety.jpg",
+    "cover_exists": true,
+    "cover_path": "covers\\Dare_ The New Way to End Anxiety.jpg"
+  }
+]

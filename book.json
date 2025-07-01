@@ -1,0 +1,852 @@
+{
+    "books":
+[
+    {
+        "title": "شيطان الظهيرة: أطلس الاكتئاب",
+        "author": "أندرو سولومون",
+        "description": "كتاب شامل يستعرض الاكتئاب من منظور شخصي وعلمي وثقافي، مع مناقشة تجربة الكاتب الشخصية مع الاكتئاب الشديد وأفكار الانتحار، مما يساعد القراء على فهم هذا الاضطراب بعمق.",
+        "condition": "depression, suicidal",
+        "url": "https://www.noor-book.com/book/review/شيطان-الظهيرة-أطلس-الاكتئاب"
+    },
+    {
+        "title": "عالج نفسك من الاكتئاب والقلق",
+        "author": "غير محدد",
+        "description": "كتاب يقدم تمارين ونصائح عملية مستندة إلى العلاج المعرفي السلوكي للتعامل مع الاكتئاب والقلق، مع التركيز على تغيير الأفكار السلبية.",
+        "condition": "depression, anxiety",
+        "url": "https://www.noor-book.com/book/review/عالج-نفسك-من-الاكتئاب-والقلق"
+    },
+    {
+        "title": "الاكتئاب وسنينه",
+        "author": "عادل أبو الحسن محمد",
+        "description": "يتناول هذا الكتاب الاكتئاب عبر الفئات العمرية المختلفة، مع التركيز على أسبابه مثل التغيرات الهرمونية وتأثيره على النساء بشكل خاص.",
+        "condition": "depression",
+        "url": "https://www.4readlib.com/book/الاكتئاب-وسنينه"
+    },
+    {
+        "title": "عالج نفسك من القلق والتوتر",
+        "author": "أبو الفداء محمد عزت",
+        "description": "كتاب يشرح مخاطر القلق والتوتر ويقدم استراتيجيات عملية للتعامل مع ضغوط الحياة، مما يساعد على تحقيق حياة أكثر سعادة.",
+        "condition": "anxiety, stress",
+        "url": "https://www.alroqey.com/book/عالج-نفسك-من-القلق-والتوتر"
+    },
+    {
+        "title": "مبادئ التحليل النفسي",
+        "author": "محمد فؤاد جلال",
+        "description": "كتاب تمهيدي يشرح أساسيات التحليل النفسي، بما في ذلك الاضطرابات النفسية مثل القلق والاكتئاب، بأسلوب مبسط مناسب للمبتدئين.",
+        "condition": "anxiety, depression",
+        "url": "https://www.noor-book.com/book/review/مبادئ-التحليل-النفسي"
+    },
+    {
+        "title": "الصحة النفسية والتوافق المجتمعي",
+        "author": "أحمد عكاشة",
+        "description": "يتناول هذا الكتاب مفاهيم الصحة النفسية، مع التركيز على الاضطرابات مثل الاكتئاب والقلق وكيفية تحقيق التوازن النفسي.",
+        "condition": "depression, anxiety",
+        "url": "https://www.noor-book.com/author/أحمد-عكاشة"
+    },
+    {
+        "title": "الأمل المكتسب: قوة الإيجابية للتغلب على الاكتئاب",
+        "author": "غير محدد",
+        "description": "يقدم هذا الكتاب نصائح وتمارين لتعزيز التفكير الإيجابي والتغلب على الاكتئاب من خلال تحديد السمات الإيجابية وتقليل الاجترار.",
+        "condition": "depression",
+        "url": "https://blog.arabtherapy.com/post/4-books-for-depression"
+    },
+    {
+        "title": "غير عالق: دليلك لرحلة المراحل السبع للخروج من الاكتئاب",
+        "author": "غير محدد",
+        "description": "كتاب يقدم خطة من سبع خطوات لمعالجة الاكتئاب، مع التركيز على تحسين الصحة النفسية في الحياة اليومية.",
+        "condition": "depression",
+        "url": "https://blog.arabtherapy.com/post/4-books-for-depression"
+    },
+    {
+        "title": "التوتر والقلق والاكتئاب",
+        "author": "غير محدد",
+        "description": "كتاب يركز على أعراض التوتر والقلق والاكتئاب، مع استراتيجيات عملية للتعامل مع هذه الحالات.",
+        "condition": "stress, anxiety, depression",
+        "url": "https://www.noor-book.com/book/review/التوتر-والقلق-والاكتئاب"
+    },
+    {
+        "title": "كتاب طبيب العائلة: الاكتئاب",
+        "author": "غير محدد",
+        "description": "كتاب يقدم نصائح طبية وعملية لفهم الاكتئاب وعلاجه، مع التركيز على الأعراض وطرق التدخل.",
+        "condition": "depression",
+        "url": "https://books-library.net/free-2854073187"
+    },
+    {
+        "title": "The Noonday Demon: An Atlas of Depression",
+        "author": "Andrew Solomon",
+        "description": "A comprehensive exploration of depression, blending personal narrative, scientific research, and cultural perspectives, addressing severe depression and suicidal thoughts.",
+        "condition": "depression, suicidal",
+        "url": "https://www.amazon.com/Noonday-Demon-Atlas-Depression/dp/1501123882"
+    },
+    {
+        "title": "Feeling Good: The New Mood Therapy",
+        "author": "David D. Burns",
+        "description": "A bestselling book offering cognitive behavioral therapy techniques to manage depression, with practical exercises to challenge negative thoughts.",
+        "condition": "depression",
+        "url": "https://www.amazon.com/Feeling-Good-New-Mood-Therapy/dp/0380731762"
+    },
+    {
+        "title": "The Upward Spiral",
+        "author": "Alex Korb",
+        "description": "This book uses neuroscience to explain how small lifestyle changes can create an upward spiral of improved mood and mental health, particularly for depression.",
+        "condition": "depression",
+        "url": "https://www.amazon.com/Upward-Spiral-Neuroscience-Reverse-Depression/dp/1626251207"
+    },
+    {
+        "title": "The Anxiety and Phobia Workbook",
+        "author": "Edmund J. Bourne",
+        "description": "A practical guide offering strategies to manage anxiety disorders, including panic attacks and racing thoughts, with exercises for relaxation and coping.",
+        "condition": "anxiety",
+        "url": "https://www.amazon.com/Anxiety-Phobia-Workbook-Edmund-Bourne/dp/1684034833"
+    },
+    {
+        "title": "The Happiness Trap",
+        "author": "Russ Harris",
+        "description": "Based on Acceptance and Commitment Therapy (ACT), this book helps readers manage anxiety, stress, and depression by accepting emotions without over-identifying with them.",
+        "condition": "anxiety, stress, depression",
+        "url": "https://www.amazon.com/Happiness-Trap-Stop-Struggling-Start/dp/1590305841"
+    },
+    {
+        "title": "An Unquiet Mind: A Memoir of Moods and Madness",
+        "author": "Kay Redfield Jamison",
+        "description": "A personal and professional account of living with bipolar disorder, exploring manic and depressive episodes and offering insights into mood swings.",
+        "condition": "bi-polar",
+        "url": "https://www.amazon.com/Unquiet-Mind-Memoir-Moods-Madness/dp/0679763309"
+    },
+    {
+        "title": "I Hate You--Don't Leave Me: Understanding the Borderline Personality",
+        "author": "Jerold J. Kreisman, Hal Straus",
+        "description": "A guide to understanding borderline personality disorder, addressing fear of abandonment, mood instability, and trust issues with practical advice.",
+        "condition": "personality disorder",
+        "url": "https://www.amazon.com/Hate-You-Dont-Leave-Understanding/dp/0399536213"
+    },
+    {
+        "title": "The Body Keeps the Score",
+        "author": "Bessel van der Kolk",
+        "description": "Explores how trauma contributes to stress, anxiety, and depression, offering insights into healing through body-based therapies.",
+        "condition": "stress, anxiety, depression",
+        "url": "https://www.amazon.com/Body-Keeps-Score-Healing-Trauma/dp/0143127748"
+    },
+    {
+        "title": "Reasons to Stay Alive",
+        "author": "Matt Haig",
+        "description": "A memoir and self-help book addressing depression and suicidal thoughts, offering hope and practical strategies for coping.",
+        "condition": "depression, suicidal",
+        "url": "https://www.amazon.com/Reasons-Stay-Alive-Matt-Haig/dp/0143128728"
+    },
+    {
+        "title": "Bipolar Disorder: A Guide for Patients and Families",
+        "author": "Francis Mark Mondimore",
+        "description": "A comprehensive guide to understanding and managing bipolar disorder, covering mood swings, mania, and treatment options.",
+        "condition": "bi-polar",
+        "url": "https://www.amazon.com/Bipolar-Disorder-Patients-Families-Health/dp/1421412063"
+    },
+    {
+        "title": "القوة النفسية: كيف تتغلب على القلق والاكتئاب",
+        "author": "محمد عبد العليم",
+        "description": "كتاب يقدم استراتيجيات عملية للتغلب على القلق والاكتئاب من خلال تقنيات اليقظة الذهنية وإعادة صياغة الأفكار السلبية.",
+        "condition": "anxiety, depression",
+        "url": "https://www.noor-book.com/book/review/القوة-النفسية"
+    },
+    {
+        "title": "كيف تتغلب على التوتر",
+        "author": "إبراهيم الفقي",
+        "description": "يقدم هذا الكتاب نصائح عملية لإدارة التوتر والضغوط اليومية، مع التركيز على تقنيات التنفس والتفكير الإيجابي.",
+        "condition": "stress",
+        "url": "https://www.noor-book.com/book/review/كيف-تتغلب-على-التوتر"
+    },
+    {
+        "title": "الصحة النفسية للإنسان المعاصر",
+        "author": "مصطفى فهمي",
+        "description": "يتناول هذا الكتاب تحديات الصحة النفسية في العصر الحديث، مع التركيز على الاكتئاب والقلق وكيفية تحقيق التوازن النفسي.",
+        "condition": "depression, anxiety",
+        "url": "https://www.noor-book.com/book/review/الصحة-النفسية-للإنسان-المعاصر"
+    },
+    {
+        "title": "الاضطراب ثنائي القطب",
+        "author": "غير محدد",
+        "description": "كتاب يشرح الاضطراب ثنائي القطب، مع التركيز على أعراض الهوس والاكتئاب وكيفية إدارتها من خلال العلاج والدعم.",
+        "condition": "bi-polar",
+        "url": "https://www.noor-book.com/book/review/الاضطراب-ثنائي-القطب"
+    },
+    {
+        "title": "فن إدارة الضغوط النفسية",
+        "author": "محمد السيد",
+        "description": "يقدم هذا الكتاب أساليب عملية لإدارة الضغوط النفسية، مع التركيز على تقنيات الاسترخاء والتخطيط للحد من التوتر.",
+        "condition": "stress",
+        "url": "https://www.4readlib.com/book/فن-إدارة-الضغوط-النفسية"
+    },
+    {
+        "title": "كيف تتغلب على الاكتئاب",
+        "author": "محمد عبد الرحمن",
+        "description": "كتاب يقدم خطوات عملية للتعامل مع الاكتئاب، مع التركيز على تغيير نمط الحياة وتحسين الصحة النفسية.",
+        "condition": "depression",
+        "url": "https://www.noor-book.com/book/review/كيف-تتغلب-على-الاكتئاب"
+    },
+    {
+        "title": "اضطرابات الشخصية",
+        "author": "أحمد سمير",
+        "description": "يتناول هذا الكتاب اضطرابات الشخصية مثل اضطراب الشخصية الحدية، مع شرح للأعراض وكيفية التعامل معها.",
+        "condition": "personality disorder",
+        "url": "https://www.noor-book.com/book/review/اضطرابات-الشخصية"
+    },
+    {
+        "title": "التفكير الإيجابي والصحة النفسية",
+        "author": "غير محدد",
+        "description": "كتاب يركز على كيفية استخدام التفكير الإيجابي للتغلب على القلق والاكتئاب، مع تمارين عملية يومية.",
+        "condition": "anxiety, depression",
+        "url": "https://blog.arabtherapy.com/post/positive-thinking-books"
+    },
+    {
+        "title": "رحلة إلى السلام الداخلي",
+        "author": "غير محدد",
+        "description": "يقدم هذا الكتاب تمارين تأمل ويقظة ذهنية للتخلص من التوتر والقلق، مع التركيز على تحقيق التوازن النفسي.",
+        "condition": "stress, anxiety",
+        "url": "https://www.noor-book.com/book/review/رحلة-إلى-السلام-الداخلي"
+    },
+    {
+        "title": "الاكتئاب: كيف تفهمه وتعالجه",
+        "author": "غير محدد",
+        "description": "كتاب يشرح أسباب الاكتئاب ويقدم نصائح للتعامل معه، مع التركيز على دعم المرضى الذين يعانون من أفكار انتحارية.",
+        "condition": "depression, suicidal",
+        "url": "https://www.4readlib.com/book/الاكتئاب-كيف-تفهمه-وتعالجه"
+    },
+    {
+        "title": "Lost Connections",
+        "author": "Johann Hari",
+        "description": "Explores the root causes of depression and anxiety, such as disconnection from community and purpose, offering new perspectives on healing.",
+        "condition": "depression, anxiety",
+        "url": "https://www.amazon.com/Lost-Connections-Uncovering-Depression-Anxiety/dp/1632868318"
+    },
+    {
+        "title": "Daring Greatly",
+        "author": "Brené Brown",
+        "description": "Focuses on embracing vulnerability to overcome shame and anxiety, promoting emotional resilience and self-acceptance.",
+        "condition": "anxiety, depression",
+        "url": "https://www.amazon.com/Daring-Greatly-Courage-Vulnerable-Transforms/dp/1592408419"
+    },
+    {
+        "title": "The Bipolar Disorder Survival Guide",
+        "author": "David J. Miklowitz",
+        "description": "A practical guide for managing bipolar disorder, covering mood swings, mania, and strategies for stability and treatment.",
+        "condition": "bi-polar",
+        "url": "https://www.amazon.com/Bipolar-Disorder-Survival-Guide-Third/dp/1462534988"
+    },
+    {
+        "title": "Mind Over Mood",
+        "author": "Dennis Greenberger, Christine A. Padesky",
+        "description": "A cognitive behavioral therapy workbook to address depression, anxiety, and stress through practical exercises and worksheets.",
+        "condition": "depression, anxiety, stress",
+        "url": "https://www.amazon.com/Mind-Over-Mood-Second-Changing/dp/1462520421"
+    },
+    {
+        "title": "The Mindful Way Through Depression",
+        "author": "Mark Williams, John Teasdale, Zindel Segal, Jon Kabat-Zinn",
+        "description": "Combines mindfulness techniques with cognitive therapy to help readers manage depression and prevent relapse.",
+        "condition": "depression",
+        "url": "https://www.amazon.com/Mindful-Way-Through-Depression-Unhappiness/dp/1593851286"
+    },
+    {
+        "title": "Stop Walking on Eggshells",
+        "author": "Paul T. Mason, Randi Kreger",
+        "description": "A guide for understanding and coping with borderline personality disorder, addressing mood instability and fear of abandonment.",
+        "condition": "personality disorder",
+        "url": "https://www.amazon.com/Stop-Walking-Eggshells-Borderline-Personality/dp/1684036895"
+    },
+    {
+        "title": "Burnout: The Secret to Unlocking the Stress Cycle",
+        "author": "Emily Nagoski, Amelia Nagoski",
+        "description": "Explores how to manage stress and prevent burnout, offering practical tools to complete the stress cycle and improve mental health.",
+        "condition": "stress",
+        "url": "https://www.amazon.com/Burnout-Secret-Unlocking-Stress-Cycle/dp/198481706X"
+    },
+    {
+        "title": "Furiously Happy",
+        "author": "Jenny Lawson",
+        "description": "A humorous memoir about living with depression and anxiety, offering hope and encouragement through personal stories.",
+        "condition": "depression, anxiety",
+        "url": "https://www.amazon.com/Furiously-Happy-Funny-Awful-Things/dp/1250077001"
+    },
+    {
+        "title": "The Suicidal Thoughts Workbook",
+        "author": "Kathryn Hope Gordon",
+        "description": "A CBT-based workbook with practical exercises to manage suicidal thoughts and build resilience, designed for sensitive self-help.",
+        "condition": "suicidal, depression",
+        "url": "https://www.amazon.com/Suicidal-Thoughts-Workbook-Cognitive-Behavioral-Techniques/dp/1684037026"
+    },
+    {
+        "title": "Get Out of Your Mind and Into Your Life",
+        "author": "Steven C. Hayes, Spencer Smith",
+        "description": "Based on Acceptance and Commitment Therapy (ACT), this book helps readers manage anxiety, stress, and depression through mindfulness and values-based action.",
+        "condition": "anxiety, stress, depression",
+        "url": "https://www.amazon.com/Get-Out-Your-Mind-Into/dp/1572244259"
+    },
+    {
+        "title": "الإنسان يبحث عن التوازن النفسي",
+        "author": "محمد عبد العال",
+        "description": "كتاب يركز على تحقيق التوازن النفسي من خلال إدارة القلق والتوتر باستخدام تقنيات اليقظة الذهنية.",
+        "condition": "anxiety, stress",
+        "url": "https://www.noor-book.com/book/review/الإنسان-يبحث-عن-التوازن-النفسي"
+    },
+    {
+        "title": "الاكتئاب: رحلة الخروج من الظلام",
+        "author": "أحمد سمير عبد الحي",
+        "description": "يتناول الاكتئاب من منظور علمي وعملي، مع استراتيجيات للتغلب على اليأس وفقدان الاهتمام.",
+        "condition": "depression",
+        "url": "https://www.4readlib.com/book/الاكتئاب-رحلة-الخروج-من-الظلام"
+    },
+    {
+        "title": "كيف تتحكم في ضغوطك النفسية",
+        "author": "خالد المنيف",
+        "description": "يقدم الكتاب أساليب لإدارة الضغوط النفسية، مع التركيز على التخطيط وتقنيات الاسترخاء لتقليل التوتر.",
+        "condition": "stress",
+        "url": "https://www.noor-book.com/book/review/كيف-تتحكم-في-ضغوطك-النفسية"
+    },
+    {
+        "title": "الاضطراب ثنائي القطب: فهمه وعلاجه",
+        "author": "محمد عبد الرحمن عارف",
+        "description": "يشرح الاضطراب ثنائي القطب، مع التركيز على إدارة تقلبات المزاج والهوس بمساعدة العلاج النفسي.",
+        "condition": "bi-polar",
+        "url": "https://www.noor-book.com/book/review/الاضطراب-ثنائي-القطب-فهمه-وعلاجه"
+    },
+    {
+        "title": "اضطرابات الشخصية: التشخيص والعلاج",
+        "author": "سامي عبد الرحمن",
+        "description": "يتناول اضطرابات الشخصية مثل الحدية، مع نصائح للتعامل مع عدم الاستقرار العاطفي ومشاكل الهوية.",
+        "condition": "personality disorder",
+        "url": "https://www.4readlib.com/book/اضطرابات-الشخصية-التشخيص-والعلاج"
+    },
+    {
+        "title": "التغلب على القلق اليومي",
+        "author": "عبد الرحمن ذاكر",
+        "description": "كتاب عملي يقدم تمارين لتقليل القلق اليومي والأفكار المتسارعة باستخدام العلاج المعرفي السلوكي.",
+        "condition": "anxiety",
+        "url": "https://www.noor-book.com/book/review/التغلب-على-القلق-اليومي"
+    },
+    {
+        "title": "رحلة إلى الأمل",
+        "author": "محمد علي يوسف",
+        "description": "يتناول الكتاب مواجهة الأفكار الانتحارية والاكتئاب من خلال بناء الأمل وتعزيز المرونة النفسية.",
+        "condition": "depression, suicidal",
+        "url": "https://www.4readlib.com/book/رحلة-إلى-الأمل"
+    },
+    {
+        "title": "الصحة النفسية والسعادة",
+        "author": "طارق الحبيب",
+        "description": "يقدم نصائح لتحسين الصحة النفسية والتغلب على الاكتئاب والقلق من خلال التفكير الإيجابي.",
+        "condition": "depression, anxiety",
+        "url": "https://www.noor-book.com/book/review/الصحة-النفسية-والسعادة"
+    },
+    {
+        "title": "إدارة التوتر في الحياة العصرية",
+        "author": "عبد الله الخاطر",
+        "description": "كتاب يركز على إدارة التوتر في بيئة العمل والحياة اليومية باستخدام تقنيات التأمل والتنظيم.",
+        "condition": "stress",
+        "url": "https://www.4readlib.com/book/إدارة-التوتر-في-الحياة-العصرية"
+    },
+    {
+        "title": "فهم الاضطرابات النفسية",
+        "author": "محمد حسن غانم",
+        "description": "يشرح الاضطرابات النفسية مثل الاكتئاب والقلق بعمق، مع نصائح للدعم والعلاج النفسي.",
+        "condition": "depression, anxiety",
+        "url": "https://www.noor-book.com/book/review/فهم-الاضطرابات-النفسية"
+    },
+    {
+        "title": "القلق: كيف تتغلب عليه",
+        "author": "أحمد عبد الخالق",
+        "description": "يقدم الكتاب استراتيجيات للتعامل مع القلق، مع التركيز على التنفس والتأمل لتقليل الأعراض.",
+        "condition": "anxiety",
+        "url": "https://www.4readlib.com/book/القلق-كيف-تتغلب-عليه"
+    },
+    {
+        "title": "الاكتئاب وكيفية مواجهته",
+        "author": "محمد عبد الله",
+        "description": "كتاب يقدم خطوات عملية لفهم الاكتئاب والتغلب عليه من خلال تغيير نمط الحياة.",
+        "condition": "depression",
+        "url": "https://www.noor-book.com/book/review/الاكتئاب-وكيفية-مواجهته"
+    },
+    {
+        "title": "اضطراب الشخصية: رحلة الفهم",
+        "author": "عبد الرحمن السيد",
+        "description": "يتناول اضطرابات الشخصية مع التركيز على قضايا الثقة والهوية، ويقدم نصائح للتحسين.",
+        "condition": "personality disorder",
+        "url": "https://www.4readlib.com/book/اضطراب-الشخصية-رحلة-الفهم"
+    },
+    {
+        "title": "الهوس والاكتئاب: فهم الاضطراب ثنائي القطب",
+        "author": "علي السيد",
+        "description": "يشرح الاضطراب ثنائي القطب بعمق، مع استراتيجيات لإدارة الهوس وتقلبات المزاج.",
+        "condition": "bi-polar",
+        "url": "https://www.noor-book.com/book/review/الهوس-والاكتئاب"
+    },
+    {
+        "title": "الخروج من الظلال",
+        "author": "محمد عبد العزيز",
+        "description": "كتاب يساعد على مواجهة الاكتئاب والأفكار الانتحارية من خلال استراتيجيات بناء الأمل.",
+        "condition": "depression, suicidal",
+        "url": "https://www.4readlib.com/book/الخروج-من-الظلال"
+    },
+    {
+        "title": "The Cognitive Behavioral Workbook for Depression",
+        "author": "William J. Knaus",
+        "description": "A workbook using CBT techniques to address depression, helping readers overcome feelings of hopelessness and worthlessness.",
+        "condition": "depression",
+        "url": "https://www.amazon.com/Cognitive-Behavioral-Workbook-Depression-Step/dp/1608823806"
+    },
+    {
+        "title": "When Panic Attacks",
+        "author": "David D. Burns",
+        "description": "Offers practical CBT tools to manage anxiety and panic attacks, addressing racing thoughts and nervousness.",
+        "condition": "anxiety",
+        "url": "https://www.amazon.com/When-Panic-Attacks-Drug-Free-Anxiety/dp/076792083X"
+    },
+    {
+        "title": "The Relaxation and Stress Reduction Workbook",
+        "author": "Martha Davis",
+        "description": "A comprehensive guide with exercises like meditation and breathing to reduce stress and prevent burnout.",
+        "condition": "stress",
+        "url": "https://www.amazon.com/Relaxation-Stress-Reduction-Workbook-Seventh/dp/1684033349"
+    },
+    {
+        "title": "Living Well with Bipolar Disorder",
+        "author": "David J. Miklowitz",
+        "description": "A practical guide to managing bipolar disorder, addressing manic episodes and mood swings with strategies for stability.",
+        "condition": "bi-polar",
+        "url": "https://www.amazon.com/Living-Well-Bipolar-Disorder-Strategies/dp/1606235427"
+    },
+    {
+        "title": "The Borderline Personality Disorder Workbook",
+        "author": "Daniel J. Fox",
+        "description": "A workbook with exercises to manage BPD symptoms like fear of abandonment and mood instability using DBT techniques.",
+        "condition": "personality disorder",
+        "url": "https://www.amazon.com/Borderline-Personality-Disorder-Workbook-Integrative/dp/1684032733"
+    },
+    {
+        "title": "Hardcore Self Help: F**k Depression",
+        "author": "Robert Duff",
+        "description": "A straightforward guide to managing depression with practical, no-nonsense advice for overcoming low motivation.",
+        "condition": "depression",
+        "url": "https://www.amazon.com/Hardcore-Self-Help-F-Depression/dp/1533242410"
+    },
+    {
+        "title": "The Anxiety Toolkit",
+        "author": "Alice Boyes",
+        "description": "Provides strategies to manage anxiety, including overthinking and worry, with practical tools for daily life.",
+        "condition": "anxiety",
+        "url": "https://www.amazon.com/Anxiety-Toolkit-Strategies-Overthinking-Stress/dp/0399169253"
+    },
+    {
+        "title": "This Is How I Find Her",
+        "author": "Sara Polsky",
+        "description": "A novel exploring the impact of a loved one’s bipolar disorder, offering insights into mood swings and family dynamics.",
+        "condition": "bi-polar",
+        "url": "https://www.amazon.com/This-How-Find-Her/dp/0807578797"
+    },
+    {
+        "title": "The Mindful Path to Self-Compassion",
+        "author": "Christopher K. Germer",
+        "description": "Combines mindfulness and self-compassion to address depression and anxiety, helping readers manage negative emotions.",
+        "condition": "depression, anxiety",
+        "url": "https://www.amazon.com/Mindful-Path-Self-Compassion-Destructive-Emotions/dp/1593859759"
+    },
+    {
+        "title": "The Invisible String",
+        "author": "Patrice Karst",
+        "description": "A heartfelt book addressing anxiety and fear of abandonment, suitable for all ages to foster emotional connection.",
+        "condition": "anxiety, personality disorder",
+        "url": "https://www.amazon.com/Invisible-String-Patrice-Karst/dp/031648623X"
+    },
+    {
+        "title": "The Resilience Workbook",
+        "author": "Glenn R. Schiraldi",
+        "description": "Offers exercises to build resilience against stress and depression, focusing on coping with overwhelm and burnout.",
+        "condition": "stress, depression",
+        "url": "https://www.amazon.com/Resilience-Workbook-Essential-Strategies-Stress/dp/1626259402"
+    },
+    {
+        "title": "Hello I Want to Die Please Fix Me",
+        "author": "Anna Mehler Paperny",
+        "description": "A memoir exploring depression and suicidal thoughts, offering insights into treatment and recovery with a candid approach.",
+        "condition": "depression, suicidal",
+        "url": "https://www.amazon.com/Hello-Want-Die-Please-Fix/dp/1615194924"
+    },
+    {
+        "title": "The Emotional First Aid Kit",
+        "author": "Cynthia L. Alexander",
+        "description": "A guide to managing stress and anxiety with practical tools for emotional self-care in daily life.",
+        "condition": "stress, anxiety",
+        "url": "https://www.amazon.com/Emotional-First-Aid-Kit-Practical/dp/0972122303"
+    },
+    {
+        "title": "Sometimes My Mommy Gets Angry",
+        "author": "Bebe Moore Campbell",
+        "description": "A children’s book addressing a parent’s bipolar disorder, helping readers understand mood swings and emotional instability.",
+        "condition": "bi-polar",
+        "url": "https://www.amazon.com/Sometimes-My-Mommy-Gets-Angry/dp/0142403598"
+    },
+    {
+        "title": "Building a Life Worth Living",
+        "author": "Marsha M. Linehan",
+        "description": "A memoir and guide by the creator of DBT, addressing borderline personality disorder and suicidal thoughts with practical strategies.",
+        "condition": "personality disorder, suicidal",
+        "url": "https://www.amazon.com/Building-Life-Worth-Living-Memoir/dp/0812994612"
+    },
+    {
+        "title": "التغلب على الاكتئاب باليقظة الذهنية",
+        "author": "محمد عبد الرحيم",
+        "description": "كتاب يقدم تمارين اليقظة الذهنية للتغلب على الاكتئاب، مع التركيز على تقليل الأفكار السلبية.",
+        "condition": "depression",
+        "url": "https://www.noor-book.com/book/review/التغلب-على-الاكتئاب-باليقظة-الذهنية"
+    },
+    {
+        "title": "القلق: طريقك للسلام الداخلي",
+        "author": "عبد الرحمن ياسر",
+        "description": "يوفر استراتيجيات عملية لإدارة القلق، بما في ذلك تقنيات التنفس وإعادة صياغة الأفكار المتسارعة.",
+        "condition": "anxiety",
+        "url": "https://www.4readlib.com/book/القلق-طريقك-للسلام-الداخلي"
+    },
+    {
+        "title": "إدارة التوتر في العمل",
+        "author": "خالد عبد الله",
+        "description": "كتاب يركز على تقليل التوتر في بيئة العمل من خلال تقنيات إدارة الوقت والاسترخاء.",
+        "condition": "stress",
+        "url": "https://www.noor-book.com/book/review/إدارة-التوتر-في-العمل"
+    },
+    {
+        "title": "فهم الاضطراب ثنائي القطب",
+        "author": "أحمد عبد المقصود",
+        "description": "يشرح الاضطراب ثنائي القطب، مع نصائح لإدارة الهوس وتقلبات المزاج بمساعدة العلاج.",
+        "condition": "bi-polar",
+        "url": "https://www.4readlib.com/book/فهم-الاضطراب-ثنائي-القطب"
+    },
+    {
+        "title": "اضطراب الشخصية الحدية: دليل عملي",
+        "author": "محمد السيد حسن",
+        "description": "يتناول اضطراب الشخصية الحدية، مع استراتيجيات للتعامل مع الخوف من التخلي وعدم الاستقرار.",
+        "condition": "personality disorder",
+        "url": "https://www.noor-book.com/book/review/اضطراب-الشخصية-الحدية-دليل-عملي"
+    },
+    {
+        "title": "الأمل في مواجهة الاكتئاب",
+        "author": "عبد العزيز محمود",
+        "description": "كتاب يساعد على مواجهة الاكتئاب والأفكار الانتحارية من خلال تعزيز الأمل والمرونة النفسية.",
+        "condition": "depression, suicidal",
+        "url": "https://www.4readlib.com/book/الأمل-في-مواجهة-الاكتئاب"
+    },
+    {
+        "title": "الصحة النفسية في عصر السرعة",
+        "author": "سعيد عبد الله",
+        "description": "يركز على تحسين الصحة النفسية في الحياة العصرية، مع التركيز على القلق والتوتر.",
+        "condition": "anxiety, stress",
+        "url": "https://www.noor-book.com/book/review/الصحة-النفسية-في-عصر-السرعة"
+    },
+    {
+        "title": "كيف تتغلب على اليأس",
+        "author": "محمد عبد العزيز",
+        "description": "يقدم خطوات عملية للتغلب على الشعور باليأس وفقدان الاهتمام، مع التركيز على العلاج المعرفي.",
+        "condition": "depression",
+        "url": "https://www.4readlib.com/book/كيف-تتغلب-على-اليأس"
+    },
+    {
+        "title": "التأمل لتقليل التوتر",
+        "author": "أحمد عبد الرحمن",
+        "description": "يقدم تمارين تأمل لتقليل التوتر والشعور بالإرهاق، مع نصائح لتحقيق السلام الداخلي.",
+        "condition": "stress",
+        "url": "https://www.noor-book.com/book/review/التأمل-لتقليل-التوتر"
+    },
+    {
+        "title": "اضطرابات المزاج: دليل شامل",
+        "author": "عبد الله محمد",
+        "description": "يشرح اضطرابات المزاج مثل الاضطراب ثنائي القطب، مع استراتيجيات لإدارة الهوس والاكتئاب.",
+        "condition": "bi-polar",
+        "url": "https://www.4readlib.com/book/اضطرابات-المزاج-دليل-شامل"
+    },
+    {
+        "title": "فهم اضطرابات الشخصية",
+        "author": "محمد عبد الرحمن",
+        "description": "يتناول اضطرابات الشخصية، مع التركيز على قضايا الهوية والثقة، ويقدم نصائح عملية.",
+        "condition": "personality disorder",
+        "url": "https://www.noor-book.com/book/review/فهم-اضطرابات-الشخصية"
+    },
+    {
+        "title": "القلق النفسي: استراتيجيات التغلب",
+        "author": "ياسر عبد الله",
+        "description": "يوفر الكتاب أدوات لإدارة القلق، مع التركيز على تقنيات التنفس وتقليل الأفكار المتسارعة.",
+        "condition": "anxiety",
+        "url": "https://www.4readlib.com/book/القلق-النفسي-استراتيجيات-التغلب"
+    },
+    {
+        "title": "الخروج من ظلام الاكتئاب",
+        "author": "أحمد السيد",
+        "description": "كتاب يقدم خطوات للتغلب على الاكتئاب، مع التركيز على بناء الأمل والتفاؤل.",
+        "condition": "depression",
+        "url": "https://www.noor-book.com/book/review/الخروج-من-ظلام-الاكتئاب"
+    },
+    {
+        "title": "المرونة النفسية: كيف تواجه الأزمات",
+        "author": "محمد عبد المنعم",
+        "description": "يركز على بناء المرونة النفسية لمواجهة الاكتئاب والأفكار الانتحارية.",
+        "condition": "depression, suicidal",
+        "url": "https://www.4readlib.com/book/المرونة-النفسية-كيف-تواجه-الأزمات"
+    },
+    {
+        "title": "الصحة النفسية في الحياة العملية",
+        "author": "عبد الرحمن صالح",
+        "description": "يقدم نصائح لإدارة التوتر والقلق في الحياة العملية، مع تمارين يومية.",
+        "condition": "stress, anxiety",
+        "url": "https://www.noor-book.com/book/review/الصحة-النفسية-في-الحياة-العملية"
+    },
+    {
+        "title": "كيف تتغلب على اضطرابات المزاج",
+        "author": "محمد عبد العال",
+        "description": "يشرح اضطرابات المزاج مثل الاضطراب ثنائي القطب، مع نصائح لتحقيق الاستقرار العاطفي.",
+        "condition": "bi-polar",
+        "url": "https://www.4readlib.com/book/كيف-تتغلب-على-اضطرابات-المزاج"
+    },
+    {
+        "title": "اضطراب الشخصية: الطريق إلى التحسين",
+        "author": "سعيد عبد الرحمن",
+        "description": "يتناول اضطرابات الشخصية، مع استراتيجيات للتعامل مع عدم الاستقرار العاطفي.",
+        "condition": "personality disorder",
+        "url": "https://www.noor-book.com/book/review/اضطراب-الشخصية-الطريق-إلى-التحسين"
+    },
+    {
+        "title": "التغلب على القلق في الحياة اليومية",
+        "author": "عبد الله السيد",
+        "description": "يقدم الكتاب تمارين عملية لتقليل القلق والأفكار المتسارعة في الحياة اليومية.",
+        "condition": "anxiety",
+        "url": "https://www.4readlib.com/book/التغلب-على-القلق-في-الحياة-اليومية"
+    },
+    {
+        "title": "الاكتئاب: دليل للتعافي",
+        "author": "محمد عبد الرحمن",
+        "description": "يوفر خطوات عملية لفهم الاكتئاب والتعافي منه، مع التركيز على تغيير الأفكار السلبية.",
+        "condition": "depression",
+        "url": "https://www.noor-book.com/book/review/الاكتئاب-دليل-للتعافي"
+    },
+    {
+        "title": "التوتر: كيف تواجهه",
+        "author": "أحمد عبد العزيز",
+        "description": "يقدم الكتاب استراتيجيات لإدارة التوتر، مع التركيز على تقنيات الاسترخاء والتخطيط.",
+        "condition": "stress",
+        "url": "https://www.4readlib.com/book/التوتر-كيف-تواجهه"
+    },
+    {
+        "title": "فهم الهوس والاكتئاب",
+        "author": "عبد الرحمن محمد",
+        "description": "يشرح الاضطراب ثنائي القطب، مع نصائح لإدارة تقلبات المزاج والهوس.",
+        "condition": "bi-polar",
+        "url": "https://www.noor-book.com/book/review/فهم-الهوس-والاكتئاب"
+    },
+    {
+        "title": "اضطرابات الشخصية: رؤية جديدة",
+        "author": "محمد عبد الله",
+        "description": "يتناول اضطرابات الشخصية، مع التركيز على قضايا الثقة والهوية، ويقدم حلولاً عملية.",
+        "condition": "personality disorder",
+        "url": "https://www.4readlib.com/book/اضطرابات-الشخصية-رؤية-جديدة"
+    },
+    {
+        "title": "الأمل في مواجهة الظلام",
+        "author": "سعيد عبد العزيز",
+        "description": "كتاب يساعد على مواجهة الأفكار الانتحارية والاكتئاب من خلال بناء الأمل.",
+        "condition": "depression, suicidal",
+        "url": "https://www.noor-book.com/book/review/الأمل-في-مواجهة-الظلام"
+    },
+    {
+        "title": "القلق: دليل للتعامل اليومي",
+        "author": "محمد عبد المنعم",
+        "description": "يقدم الكتاب أدوات لإدارة القلق اليومي، مع التركيز على تقليل الشعور بالتوتر.",
+        "condition": "anxiety",
+        "url": "https://www.4readlib.com/book/القلق-دليل-للتعامل-اليومي"
+    },
+    {
+        "title": "الصحة النفسية: رحلة التعافي",
+        "author": "عبد الله عبد الرحمن",
+        "description": "يركز على تحسين الصحة النفسية من خلال إدارة الاكتئاب والقلق بتقنيات عملية.",
+        "condition": "depression, anxiety",
+        "url": "https://www.noor-book.com/book/review/الصحة-النفسية-رحلة-التعافي"
+    },
+    {
+        "title": "The Mindfulness and Acceptance Workbook for Anxiety",
+        "author": "John P. Forsyth",
+        "description": "A workbook using ACT to manage anxiety, helping readers accept emotions and reduce worry.",
+        "condition": "anxiety",
+        "url": "https://www.amazon.com/Mindfulness-Acceptance-Workbook-Anxiety-Distress/dp/1608821439"
+    },
+    {
+        "title": "Beating the Blues",
+        "author": "Michael E. Thase",
+        "description": "A guide to overcoming depression with CBT techniques, addressing feelings of hopelessness and low motivation.",
+        "condition": "depression",
+        "url": "https://www.amazon.com/Beating-Blues-Overcome-Depression-Prevention/dp/0195304535"
+    },
+    {
+        "title": "The Stress Solution",
+        "author": "Arthur P. Ciaramicoli",
+        "description": "Offers practical strategies to manage stress and prevent burnout through empathy and mindfulness.",
+        "condition": "stress",
+        "url": "https://www.amazon.com/Stress-Solution-Practical-Emotional-Resilience/dp/1608684083"
+    },
+    {
+        "title": "Bipolar Faith",
+        "author": "Monica A. Coleman",
+        "description": "A memoir exploring living with bipolar disorder, addressing mood swings and spiritual resilience.",
+        "condition": "bi-polar",
+        "url": "https://www.amazon.com/Bipolar-Faith-Journey-Depression-Mania/dp/1506408591"
+    },
+    {
+        "title": "The BPD Survival Guide",
+        "author": "Alexander L. Chapman",
+        "description": "A guide to managing borderline personality disorder, addressing fear of abandonment and emotional instability.",
+        "condition": "personality disorder",
+        "url": "https://www.amazon.com/Borderline-Personality-Disorder-Survival-Guide/dp/1572245077"
+    },
+    {
+        "title": "All the Smoke",
+        "author": "Matt Barnes",
+        "description": "A memoir addressing mental health challenges, including depression, with insights into resilience and recovery.",
+        "condition": "depression",
+        "url": "https://www.amazon.com/All-Smoke-Unfiltered-Resilience-Redemption/dp/1982181567"
+    },
+    {
+        "title": "The Worry Trick",
+        "author": "David A. Carbonell",
+        "description": "Provides strategies to manage chronic worry and anxiety, addressing racing thoughts with humor and practicality.",
+        "condition": "anxiety",
+        "url": "https://www.amazon.com/Worry-Trick-Brain-Tricks-Anxiety/dp/1626253188"
+    },
+    {
+        "title": "The Bipolar Teen",
+        "author": "David J. Miklowitz",
+        "description": "A guide for parents and teens to manage bipolar disorder, addressing mood swings and impulsive behavior.",
+        "condition": "bi-polar",
+        "url": "https://www.amazon.com/Bipolar-Teen-Parents-Help-Your/dp/1593853181"
+    },
+    {
+        "title": "The Self-Compassion Workbook",
+        "author": "Kristin Neff",
+        "description": "Uses self-compassion techniques to address depression and anxiety, helping readers build emotional resilience.",
+        "condition": "depression, anxiety",
+        "url": "https://www.amazon.com/Self-Compassion-Workbook-Practical-Exercises-Self-Love/dp/1641522976"
+    },
+    {
+        "title": "The Invisible Ache",
+        "author": "Courtney B. Vance",
+        "description": "A memoir addressing depression and suicidal thoughts, offering hope and strategies for recovery.",
+        "condition": "depression, suicidal",
+        "url": "https://www.amazon.com/Invisible-Ache-Black-Mental-Wellness/dp/153872135X"
+    },
+    {
+        "title": "The Stress Less Workbook",
+        "author": "Jonathan S. Abramowitz",
+        "description": "A workbook with CBT exercises to manage stress and anxiety, addressing overwhelm and pressure.",
+        "condition": "stress, anxiety",
+        "url": "https://www.amazon.com/Stress-Less-Workbook-Strategies-Overwhelm/dp/1609184718"
+    },
+    {
+        "title": "The Quiet Room",
+        "author": "Lori Schiller",
+        "description": "A memoir about living with schizoaffective disorder, addressing mood swings and mental health challenges.",
+        "condition": "bi-polar",
+        "url": "https://www.amazon.com/Quiet-Room-Memoir-Madness/dp/0446671339"
+    },
+    {
+        "title": "Disarming the Narcissist",
+        "author": "Wendy T. Behary",
+        "description": "A guide to understanding and managing narcissistic personality disorder, addressing manipulative behaviors.",
+        "condition": "personality disorder",
+        "url": "https://www.amazon.com/Disarming-Narcissist-Surviving-Thriving-Difficult/dp/1608827607"
+    },
+    {
+        "title": "The Upward Spiral Workbook",
+        "author": "Alex Korb",
+        "description": "A workbook using neuroscience-based exercises to manage depression and improve mood.",
+        "condition": "depression",
+        "url": "https://www.amazon.com/Upward-Spiral-Workbook-Neuroscience-Based-Depression/dp/1684032423"
+    },
+    {
+        "title": "Don’t Feed the Monkey Mind",
+        "author": "Jennifer Shannon",
+        "description": "Offers CBT strategies to manage anxiety and overthinking, helping readers calm racing thoughts.",
+        "condition": "anxiety",
+        "url": "https://www.amazon.com/Dont-Feed-Monkey-Mind-Anxiety/dp/1626255067"
+    },
+    {
+        "title": "The Wellness Workbook",
+        "author": "John W. Travis",
+        "description": "A holistic guide to managing stress and improving mental health through lifestyle changes.",
+        "condition": "stress",
+        "url": "https://www.amazon.com/Wellness-Workbook-Third-Holistic-Transformation/dp/1587612135"
+    },
+    {
+        "title": "Madness: A Bipolar Life",
+        "author": "Marya Hornbacher",
+        "description": "A memoir detailing the author’s experience with bipolar disorder, addressing manic episodes and recovery.",
+        "condition": "bi-polar",
+        "url": "https://www.amazon.com/Madness-Bipolar-Marya-Hornbacher/dp/0547237804"
+    },
+    {
+        "title": "The DBT Solution for Emotional Eating",
+        "author": "Debra L. Safer",
+        "description": "Uses DBT to address emotional eating linked to stress and mood instability, offering practical exercises.",
+        "condition": "stress, personality disorder",
+        "url": "https://www.amazon.com/DBT-Solution-Emotional-Eating-Dialectical/dp/1462520928"
+    },
+    {
+        "title": "Reasons to Live",
+        "author": "Amy Hempel",
+        "description": "A collection of stories addressing depression and suicidal thoughts, offering hope through narrative.",
+        "condition": "depression, suicidal",
+        "url": "https://www.amazon.com/Reasons-Live-Stories-Amy-Hempel/dp/0060976721"
+    },
+    {
+        "title": "The Anxiety Skills Workbook",
+        "author": "Stefan G. Hofmann",
+        "description": "A workbook with evidence-based exercises to manage anxiety and panic attacks.",
+        "condition": "anxiety",
+        "url": "https://www.amazon.com/Anxiety-Skills-Workbook-Evidence-Based-Strategies/dp/1684034523"
+    },
+    {
+        "title": "The Bipolar Workbook",
+        "author": "Monica Ramirez Basco",
+        "description": "A workbook with tools to manage bipolar disorder, addressing mood swings and impulsive behavior.",
+        "condition": "bi-polar",
+        "url": "https://www.amazon.com/Bipolar-Workbook-Second-Tools-Managing/dp/1462520235"
+    },
+    {
+        "title": "The Mindfulness Workbook for Depression",
+        "author": "Yoon Im Kane",
+        "description": "Uses mindfulness techniques to address depression, helping readers manage negative thoughts.",
+        "condition": "depression",
+        "url": "https://www.amazon.com/Mindfulness-Workbook-Depression-Effective-Techniques/dp/1641525800"
+    },
+    {
+        "title": "The Stress Management Workbook",
+        "author": "Ruth C. White",
+        "description": "Offers practical exercises to manage stress and prevent burnout, with a focus on daily coping strategies.",
+        "condition": "stress",
+        "url": "https://www.amazon.com/Stress-Management-Workbook-Techniques-Everyday/dp/1641521740"
+    },
+    {
+        "title": "The Borderline Personality Disorder Wellness Planner",
+        "author": "Amanda L. Smith",
+        "description": "A planner with DBT-based exercises to manage BPD symptoms like mood instability and trust issues.",
+        "condition": "personality disorder",
+        "url": "https://www.amazon.com/Borderline-Personality-Disorder-Wellness-Planner/dp/1647397650"
+    },
+    {
+        "title": "The Depression Toolkit",
+        "author": "Lynn Lyons",
+        "description": "A guide with quick strategies to manage depression, addressing feelings of emptiness and low motivation.",
+        "condition": "depression",
+        "url": "https://www.amazon.com/Depression-Toolkit-Strategies-Managing-Monster/dp/1683735315"
+    },
+    {
+        "title": "Dare: The New Way to End Anxiety",
+        "author": "Barry McDonagh",
+        "description": "A practical guide to overcoming anxiety and panic attacks using acceptance-based techniques.",
+        "condition": "anxiety",
+        "url": "https://www.amazon.com/Dare-Anxiety-Stop-Panic-Attacks/dp/0956596258"
+    }
+]
+}

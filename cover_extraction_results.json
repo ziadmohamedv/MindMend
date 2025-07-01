@@ -1,0 +1,936 @@
+[
+  {
+    "title": "شيطان الظهيرة: أطلس الاكتئاب",
+    "author": "أندرو سولومون",
+    "status": "not_found",
+    "amazon_url": null,
+    "cover_image": null
+  },
+  {
+    "title": "عالج نفسك من الاكتئاب والقلق",
+    "author": "غير محدد",
+    "status": "not_found",
+    "amazon_url": null,
+    "cover_image": null
+  },
+  {
+    "title": "الاكتئاب وسنينه",
+    "author": "عادل أبو الحسن محمد",
+    "status": "not_found",
+    "amazon_url": null,
+    "cover_image": null
+  },
+  {
+    "title": "عالج نفسك من القلق والتوتر",
+    "author": "أبو الفداء محمد عزت",
+    "status": "not_found",
+    "amazon_url": null,
+    "cover_image": null
+  },
+  {
+    "title": "مبادئ التحليل النفسي",
+    "author": "محمد فؤاد جلال",
+    "status": "not_found",
+    "amazon_url": null,
+    "cover_image": null
+  },
+  {
+    "title": "الصحة النفسية والتوافق المجتمعي",
+    "author": "أحمد عكاشة",
+    "status": "not_found",
+    "amazon_url": null,
+    "cover_image": null
+  },
+  {
+    "title": "الأمل المكتسب: قوة الإيجابية للتغلب على الاكتئاب",
+    "author": "غير محدد",
+    "status": "not_found",
+    "amazon_url": null,
+    "cover_image": null
+  },
+  {
+    "title": "غير عالق: دليلك لرحلة المراحل السبع للخروج من الاكتئاب",
+    "author": "غير محدد",
+    "status": "not_found",
+    "amazon_url": null,
+    "cover_image": null
+  },
+  {
+    "title": "التوتر والقلق والاكتئاب",
+    "author": "غير محدد",
+    "status": "not_found",
+    "amazon_url": null,
+    "cover_image": null
+  },
+  {
+    "title": "كتاب طبيب العائلة: الاكتئاب",
+    "author": "غير محدد",
+    "status": "not_found",
+    "amazon_url": null,
+    "cover_image": null
+  },
+  {
+    "title": "The Noonday Demon: An Atlas of Depression",
+    "author": "Andrew Solomon",
+    "status": "no_cover",
+    "amazon_url": "https://www.amazon.com/Noonday-Demon-Atlas-Depression/dp/1501123882",
+    "cover_image": null
+  },
+  {
+    "title": "Feeling Good: The New Mood Therapy",
+    "author": "David D. Burns",
+    "status": "no_cover",
+    "amazon_url": "https://www.amazon.com/Feeling-Good-New-Mood-Therapy/dp/0380731762",
+    "cover_image": null
+  },
+  {
+    "title": "The Upward Spiral",
+    "author": "Alex Korb",
+    "status": "no_cover",
+    "amazon_url": "https://www.amazon.com/Upward-Spiral-Neuroscience-Reverse-Depression/dp/1626251207",
+    "cover_image": null
+  },
+  {
+    "title": "The Anxiety and Phobia Workbook",
+    "author": "Edmund J. Bourne",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/Anxiety-Phobia-Workbook-Edmund-Bourne/dp/1684034833",
+    "cover_image": "covers\\The Anxiety and Phobia Workbook.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/51jSBl4YuRL._SX500_SY445_.jpg"
+  },
+  {
+    "title": "The Happiness Trap",
+    "author": "Russ Harris",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/Happiness-Trap-Stop-Struggling-Start/dp/1590305841",
+    "cover_image": "covers\\The Happiness Trap.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/41ti8k2+OOL._SX500_SX342_.jpg"
+  },
+  {
+    "title": "An Unquiet Mind: A Memoir of Moods and Madness",
+    "author": "Kay Redfield Jamison",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/Unquiet-Mind-Memoir-Moods-Madness/dp/0679763309",
+    "cover_image": "covers\\An Unquiet Mind_ A Memoir of Moods and Madness.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/31P2tewWyFL._SX500_SX342_.jpg"
+  },
+  {
+    "title": "I Hate You--Don't Leave Me: Understanding the Borderline Personality",
+    "author": "Jerold J. Kreisman, Hal Straus",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/Hate-You-Dont-Leave-Understanding/dp/0399536213",
+    "cover_image": "covers\\I Hate You--Don't Leave Me_ Understanding the Borderline Personality.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/41Zvp-2XaqL._SX500_SX342_.jpg"
+  },
+  {
+    "title": "The Body Keeps the Score",
+    "author": "Bessel van der Kolk",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/Body-Keeps-Score-Healing-Trauma/dp/0143127748",
+    "cover_image": "covers\\The Body Keeps the Score.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/41gOE+HnOfL._SX500_SX342_.jpg"
+  },
+  {
+    "title": "Reasons to Stay Alive",
+    "author": "Matt Haig",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/Reasons-Stay-Alive-Matt-Haig/dp/0143128728",
+    "cover_image": "covers\\Reasons to Stay Alive.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/41JvnAFwOzL._SX500_SX342_.jpg"
+  },
+  {
+    "title": "Bipolar Disorder: A Guide for Patients and Families",
+    "author": "Francis Mark Mondimore",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/Bipolar-Disorder-Patients-Families-Health/dp/1421412063",
+    "cover_image": "covers\\Bipolar Disorder_ A Guide for Patients and Families.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/516QIXIO1aL._SX500_SX342_.jpg"
+  },
+  {
+    "title": "القوة النفسية: كيف تتغلب على القلق والاكتئاب",
+    "author": "محمد عبد العليم",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/%D9%88%D8%A7%D9%84%D9%85%D8%AE%D8%A7%D8%B7%D8%A8%D8%A7%D8%AA-Paperback-Attitudes-Conversations-Abdul-Jabbar/dp/B0B2LVY736/ref=sr_1_1?dib=eyJ2IjoiMSJ9.bGrPEfxh6upy6TkaUkKOW_jFmnx-c6PxJ7Esagk-xylRpkjADgrM0NOJbHP_-SxIOwyaiTMbqxS7zL3cacjuGkINbQQEdXVdw6Ja4XWnhKQJrsVR1CwMTj3fov35n6XAf3HKk4CCnkOV7BDNjtmgo9sivT2uKKZuC3bu9yebJ7U.jf0w9DE026SU0zcUndTbhA5w0JliZQK4tdEdH8wvv40&dib_tag=se&keywords=%D8%A7%D9%84%D9%82%D9%88%D8%A9+%D8%A7%D9%84%D9%86%D9%81%D8%B3%D9%8A%D8%A9%3A+%D9%83%D9%8A%D9%81+%D8%AA%D8%AA%D8%BA%D9%84%D8%A8+%D8%B9%D9%84%D9%89+%D8%A7%D9%84%D9%82%D9%84%D9%82+%D9%88%D8%A7%D9%84%D8%A7%D9%83%D8%AA%D8%A6%D8%A7%D8%A8+%D9%85%D8%AD%D9%85%D8%AF+%D8%B9%D8%A8%D8%AF+%D8%A7%D9%84%D8%B9%D9%84%D9%8A%D9%85&qid=1750412728&s=books&sr=1-1",
+    "cover_image": "covers\\القوة النفسية_ كيف تتغلب على القلق والاكتئاب.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/81GA8SYY2DL.__AC_SX500_SY300_QL70_ML2_.jpg"
+  },
+  {
+    "title": "كيف تتغلب على التوتر",
+    "author": "إبراهيم الفقي",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/%D8%A7%D9%84%D8%A7%D8%B5%D8%AF%D9%82%D8%A7%D8%A1-Friends-Carnegie-Arabic-Paperback/dp/B09K6D21P9/ref=sr_1_1?dib=eyJ2IjoiMSJ9.qjomflf1DHI14u8uTvwUKg.3V_rxDTCIbGxiH7t9uuZ52NUFUEJl_MTIN5rLbYHhgk&dib_tag=se&keywords=%D9%83%D9%8A%D9%81+%D8%AA%D8%AA%D8%BA%D9%84%D8%A8+%D8%B9%D9%84%D9%89+%D8%A7%D9%84%D8%AA%D9%88%D8%AA%D8%B1+%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85+%D8%A7%D9%84%D9%81%D9%82%D9%8A&qid=1750412733&s=books&sr=1-1",
+    "cover_image": "covers\\كيف تتغلب على التوتر.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/41sRK4zLc+L._SX500_SX342_.jpg"
+  },
+  {
+    "title": "الصحة النفسية للإنسان المعاصر",
+    "author": "مصطفى فهمي",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/%D9%86%D8%B5%D9%8A%D8%A8%D9%8A%D9%86-Arabic-Paperback-Mustafa-Alkutub/dp/B084RQ3TFG/ref=sr_1_1?dib=eyJ2IjoiMSJ9.GUosJsWppQrwHpePLHW1zi_E5HEE7jxaLfA7iAE8XEEopChGmtB9L2ZTOL2Prc3Z.PZpg-xSfg0CJb-2Mx9iL5f8UuW6wBhUHbqpsuxhVkjc&dib_tag=se&keywords=%D8%A7%D9%84%D8%B5%D8%AD%D8%A9+%D8%A7%D9%84%D9%86%D9%81%D8%B3%D9%8A%D8%A9+%D9%84%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86+%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%B5%D8%B1+%D9%85%D8%B5%D8%B7%D9%81%D9%89+%D9%81%D9%87%D9%85%D9%8A&qid=1750412738&s=books&sr=1-1",
+    "cover_image": "covers\\الصحة النفسية للإنسان المعاصر.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/41N+Zs2m1ES._SX500_SX342_.jpg"
+  },
+  {
+    "title": "الاضطراب ثنائي القطب",
+    "author": "غير محدد",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/%E2%80%AB%D9%84%D9%8A%D8%AB%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%A8-%D8%A7%D9%84%D9%88%D8%AC%D8%AF%D8%A7%D9%86%D9%8A-%D8%AB%D9%86%D8%A7%D8%A6%D9%8A-Arabic-ebook/dp/B0785WY1LH/ref=sr_1_1?dib=eyJ2IjoiMSJ9.vFVoWwhI01QDXH0NPIONdg.UIlworyqvJzMZh2XfvDWNmnrREJU55l6Ct0jd1JclA8&dib_tag=se&keywords=%D8%A7%D9%84%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%A8+%D8%AB%D9%86%D8%A7%D8%A6%D9%8A+%D8%A7%D9%84%D9%82%D8%B7%D8%A8&qid=1750412744&s=books&sr=1-1",
+    "cover_image": "covers\\الاضطراب ثنائي القطب.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/51SPDbt52TL._SX500_SX342_.jpg"
+  },
+  {
+    "title": "فن إدارة الضغوط النفسية",
+    "author": "محمد السيد",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/Interview-Agnostic-Mustafa-Mahmoud-Paperback/dp/B08GJRN2V7/ref=sr_1_1?dib=eyJ2IjoiMSJ9.K2zFIuOKym5rcn9DZAh2mw.YTE2qa6hfrLdwHYv14p1zhWYbrp-kQ6s7Yp_LCq7R1I&dib_tag=se&keywords=%D9%81%D9%86+%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9+%D8%A7%D9%84%D8%B6%D8%BA%D9%88%D8%B7+%D8%A7%D9%84%D9%86%D9%81%D8%B3%D9%8A%D8%A9+%D9%85%D8%AD%D9%85%D8%AF+%D8%A7%D9%84%D8%B3%D9%8A%D8%AF&qid=1750412749&s=books&sr=1-1",
+    "cover_image": "covers\\فن إدارة الضغوط النفسية.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/31Z4RSGefbL._SX500_SX342_.jpg"
+  },
+  {
+    "title": "كيف تتغلب على الاكتئاب",
+    "author": "محمد عبد الرحمن",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A3%D9%88%D9%84%D8%A7%D8%AF-%D8%AD%D8%A7%D8%B1%D8%AA%D9%86%D8%A7-Paperback-Neighborhood/dp/B096KWQY1N/ref=sr_1_1?dib=eyJ2IjoiMSJ9.g3oba9UjN0UDKkjiDyskVVaaJ0OdZZhOdMzJr69wTkVIJ0RzWl5NnvOrYd0RVMSas3hxgQqJgt-lWtUNB0i0KdjuKltSJR5qViOYbQcUFho.9UdGdYjBCl_EhXKMGvzcHJPCdyVZXwXbxmMRx4jpkcs&dib_tag=se&keywords=%D9%83%D9%8A%D9%81+%D8%AA%D8%AA%D8%BA%D9%84%D8%A8+%D8%B9%D9%84%D9%89+%D8%A7%D9%84%D8%A7%D9%83%D8%AA%D8%A6%D8%A7%D8%A8+%D9%85%D8%AD%D9%85%D8%AF+%D8%B9%D8%A8%D8%AF+%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86&qid=1750412754&s=books&sr=1-1",
+    "cover_image": "covers\\كيف تتغلب على الاكتئاب.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/51JxZutX8aS._SX500_SY445_.jpg"
+  },
+  {
+    "title": "اضطرابات الشخصية",
+    "author": "أحمد سمير",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/%D9%84%D9%84%D9%85%D8%A8%D8%AA%D8%AF%D8%A6%D9%8A%D9%86-Paperback-Killing-Beginners-Alshoroq/dp/B0BX9DF9VB/ref=sr_1_1?dib=eyJ2IjoiMSJ9.7MtFXdOmXQgyBPBtZx9uIQ.zR3Ur-PcL9S2Ri5D7LQOW20ZjJVOJfRQ_o5Hjjl7PNo&dib_tag=se&keywords=%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%A8%D8%A7%D8%AA+%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9+%D8%A3%D8%AD%D9%85%D8%AF+%D8%B3%D9%85%D9%8A%D8%B1&qid=1750412760&s=books&sr=1-1",
+    "cover_image": "covers\\اضطرابات الشخصية.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/41Jh17vjX0L._SX500_SX342_.jpg"
+  },
+  {
+    "title": "التفكير الإيجابي والصحة النفسية",
+    "author": "غير محدد",
+    "status": "no_cover",
+    "amazon_url": "https://www.amazon.comhttps://aax-us-iad.amazon.com/x/c/JASv623MvBmWLgYljR70Vq0AAAGXjLsrtgEAAAH2AQBvbm9fdHhuX2JpZDcgICBvbm9fdHhuX2ltcDIgICC7onu_/clv1_CEuOPUxokZA0iHrVcMRr2SjbUSBUYIsonpY40xyUzdxv8X8vqnPVbfw18nHz9hvWjq0yzpNb3XTPsunPomQceWJAcTubHdujPHM8e2twdH2BArxDpwYOLZEdHEepsoWmXJOUalC7tdMeWEwmgVz7bV1AckwCRMN0CRVmUax7QwuP3u3MgFIzS1q5d5TuNOspGHpbasDVlJ1bT2hxC9tUMuUFm8yvmtV0DgjzOKVy-i0Vs7d2vLK7GWsuqRqJ-0hcN3jpMffPnUdL6EdDGuhOfzG2dSOUkhLNCd7m6b_pSZUgD1ig-I6A-jeRfQn4G5G-zPY6_uxUTfHnk5-AN_ywOfl01btLWjUjkpU4wfVsPpln11Z5KUuF8SGc1Mkhf2DhajFjnWCBnjspnyr1AoykS24BZM7zucVmVbcmG3VHnlJ_MfhRt19KAG1Hvpd3Q2koAbqwOvPKm_u0cBUSbzW9h64seRWsqluyb3Ntfr0lnYSUFltD_aimrxnddUtzPorrnvZ40wtDKa0unBuDhQ2HzTTvcRl2QnddGximBg3wEK3_Lx68CwRd3khEWEv4Sj_iavomu_54Xjy4jKdeicYpBDSaDgNozSlg2fwasLeDvB86l6-_4pY7dnDQw12mQ4fmLzoEFPcCEx5_4ehEBpJ5uBMn0_nFPjAkZlYrvM5_68QzGmt5SiCBkEg1jjPsYOFY9FwS0X9F6cocxM18FF-TA2Uw_7T7GcG6-JnqJ2o2BAD3rg_yTIxg3jVp7sUbZebOsohNRwPjjlDD3Dj4AXXHMiM9mgf6U1Vonf5Ma8pQYAqY_FQxM-tOuhtjtp6VS0CZeMeZXz926QrElchTfuFSlqr4qV8Su9uvIr3VsuKQrlOC4DjI5U8PxSvOkl6uhR7XuNAFjO4NtzPJMe4xQNomA_uJ8sqIwUpaPCAKMwvNljrXiTV3P1M6YmxtaBbsyUKhvBmhdeqey5K8gcn60G7mdo4XE72BWLzUy1iPVgh9G94EaDR7R2hjWYvryRDwPC0XAiWfqqJ__RU8Ip8__5OfxztinwRJCtCHkQpE8JhWlDtqfWC9ZbCaLQa-V7hDespGTHa_eo_zTQg9K5uAZ8XdvdPlZQ7v7qRZReMpWTVfG--lDUizC9lUtVVtGaWKuNjotu4-T9zMhTIOL81zql9XZlogYtnPXH6HILcps4b9_peVxD-l2lnY55cHlk5gefQpMVeoLFrT9HOwYyoCrVjjPNe2x9BV5rJL3TiBxKxnCG_SDXEzdGGo8Um_lhkLI5XgSp8fjvGCQmHMSK54bKBOtmIsjZlzsKTg9TWPlkCxA_3WQcprQP6HnOQQjySdqdUkG4QBYCOJ00LspP0qXAMd85Hb1tgXo3p4Ye9KP8NQlZE1uXqWDAiVudqHKX-jTo1lITKJVXqtZiHyejAHZ7ScariqvhOLNWlqy5lQxvL0vWdJaTF__pMIF-EBfyXwCga9wytSPGH8pbi3rQnGNyr3TWaW-QqNfvoJ96EO6uor714ZqXyeInuAK3t74uUDsPLcg2_SRiV5WsJPM8yFfvEjHhfjl9HMHHzZClOgNpYmmtadxf-R0P-LT4g7VI0wgPU3XMX4Nku2zrvwYvjFGHwEeB1l6efy1dh50KTdhzJicFM9Ay9b8P9PMsAXy6ruhWZqp22L06h6E0t9lRON7VFJ1OhXHm-wKQh5ZO8t_osyXqvrKNo4tpXqT3lais6xsOSxveZ4aOietxwYs2Sesc9Maz_0zCoarTzYoY5RL3fCiBWGotngy_sSYowS41LzJJoejqUa1xf7mrljJ_JkTrt-9xUQBs75GT2ts5vAU2z9obqLObOo4-A67vDPE5fIxsgWPPGpA8MvpdtBr5D7Qss/https://www.amazon.com/Sacred-Path-Islam-Building-Relationship/dp/1733213910/ref=sxbs_sbv_search_btf?content-id=amzn1.sym.37132d36-da68-4ed0-8d23-842f0825e4d6%3Aamzn1.sym.37132d36-da68-4ed0-8d23-842f0825e4d6&cv_ct_cx=%D8%A7%D9%84%D8%AA%D9%81%D9%83%D9%8A%D8%B1+%D8%A7%D9%84%D8%A5%D9%8A%D8%AC%D8%A7%D8%A8%D9%8A+%D9%88%D8%A7%D9%84%D8%B5%D8%AD%D8%A9+%D8%A7%D9%84%D9%86%D9%81%D8%B3%D9%8A%D8%A9&keywords=%D8%A7%D9%84%D8%AA%D9%81%D9%83%D9%8A%D8%B1+%D8%A7%D9%84%D8%A5%D9%8A%D8%AC%D8%A7%D8%A8%D9%8A+%D9%88%D8%A7%D9%84%D8%B5%D8%AD%D8%A9+%D8%A7%D9%84%D9%86%D9%81%D8%B3%D9%8A%D8%A9&pd_rd_i=1733213910&pd_rd_r=2d9b0914-eb98-4d9d-a095-879081aa06b7&pd_rd_w=Hgz4u&pd_rd_wg=ZjIa3&pf_rd_p=37132d36-da68-4ed0-8d23-842f0825e4d6&pf_rd_r=Z9QKFGZWJRWQETJSTVRH&qid=1750412765&s=books&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=1-1-a61ee601-6e56-4862-a8a2-1d3da5a5406f",
+    "cover_image": null
+  },
+  {
+    "title": "رحلة إلى السلام الداخلي",
+    "author": "غير محدد",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/%E2%80%AB%D8%B1%D8%AD%D9%84%D8%A9-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84-%D8%A7%D9%84%D8%AA%D8%B4%D8%A7%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%E2%80%AC-ebook/dp/B0F7J1S2Z6/ref=sr_1_1?dib=eyJ2IjoiMSJ9.kf4o3Zh6qS0uohVCBsJMte32qEkVTiaFahOiwW9J88P1oGlYIOxue_43hiOmVgIJhc23_2yGYXItTWcPdIBLRaVO8kL23SE9rrEzhFyMY4w.r71k3WMLt9M982JMicZezRCxTaIiAmuvgWnUIoylYP8&dib_tag=se&keywords=%D8%B1%D8%AD%D9%84%D8%A9+%D8%A5%D9%84%D9%89+%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85+%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A&qid=1750412767&s=books&sr=1-1",
+    "cover_image": "covers\\رحلة إلى السلام الداخلي.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/317176Bn12L._SX500_SX342_.jpg"
+  },
+  {
+    "title": "الاكتئاب: كيف تفهمه وتعالجه",
+    "author": "غير محدد",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D8%A7%D9%88%D9%8A-Arabic-Paperback-Prophet-Sharqawi/dp/B09WZ8SX8W/ref=sr_1_1?dib=eyJ2IjoiMSJ9.sihRcLs8VPL9moJYri24zA.z6hnVLnhUjpD9IOZt8EbkFsfx1nPlw0yiTrb4e-pDI4&dib_tag=se&keywords=%D8%A7%D9%84%D8%A7%D9%83%D8%AA%D8%A6%D8%A7%D8%A8%3A+%D9%83%D9%8A%D9%81+%D8%AA%D9%81%D9%87%D9%85%D9%87+%D9%88%D8%AA%D8%B9%D8%A7%D9%84%D8%AC%D9%87&qid=1750412775&s=books&sr=1-1",
+    "cover_image": "covers\\الاكتئاب_ كيف تفهمه وتعالجه.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/415WTZnsX4L._SX500_SX342_.jpg"
+  },
+  {
+    "title": "Lost Connections",
+    "author": "Johann Hari",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/Lost-Connections-Uncovering-Depression-Anxiety/dp/1632868318",
+    "cover_image": "covers\\Lost Connections.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/41e-VlVMCxL._SX500_SX342_.jpg"
+  },
+  {
+    "title": "Daring Greatly",
+    "author": "Brené Brown",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/Daring-Greatly-Courage-Vulnerable-Transforms/dp/1592408419",
+    "cover_image": "covers\\Daring Greatly.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/41UjqAwGVBL._SX500_SX342_.jpg"
+  },
+  {
+    "title": "The Bipolar Disorder Survival Guide",
+    "author": "David J. Miklowitz",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/Bipolar-Disorder-Survival-Guide-Third/dp/1462534988",
+    "cover_image": "covers\\The Bipolar Disorder Survival Guide.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/51VltqJ5jHL._SX500_SX342_.jpg"
+  },
+  {
+    "title": "Mind Over Mood",
+    "author": "Dennis Greenberger, Christine A. Padesky",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/Mind-Over-Mood-Second-Changing/dp/1462520421",
+    "cover_image": "covers\\Mind Over Mood.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/51-K7GVGvCL._SX500_SY445_.jpg"
+  },
+  {
+    "title": "The Mindful Way Through Depression",
+    "author": "Mark Williams, John Teasdale, Zindel Segal, Jon Kabat-Zinn",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/Mindful-Way-Through-Depression-Unhappiness/dp/1593851286",
+    "cover_image": "covers\\The Mindful Way Through Depression.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/51-eJTqw81L._SX500_SX342_.jpg"
+  },
+  {
+    "title": "Stop Walking on Eggshells",
+    "author": "Paul T. Mason, Randi Kreger",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/Stop-Walking-Eggshells-Borderline-Personality/dp/1684036895",
+    "cover_image": "covers\\Stop Walking on Eggshells.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/51mdijSXWzL._SX500_SX342_.jpg"
+  },
+  {
+    "title": "Burnout: The Secret to Unlocking the Stress Cycle",
+    "author": "Emily Nagoski, Amelia Nagoski",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/Burnout-Secret-Unlocking-Stress-Cycle/dp/198481706X",
+    "cover_image": "covers\\Burnout_ The Secret to Unlocking the Stress Cycle.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/41UR6cSuB6L._SX500_SX342_.jpg"
+  },
+  {
+    "title": "Furiously Happy",
+    "author": "Jenny Lawson",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/Furiously-Happy-Funny-Awful-Things/dp/1250077001",
+    "cover_image": "covers\\Furiously Happy.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/61a2pUIojSL._SX500_SX342_.jpg"
+  },
+  {
+    "title": "The Suicidal Thoughts Workbook",
+    "author": "Kathryn Hope Gordon",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/Suicidal-Thoughts-Workbook-Cognitive-Behavioral-Techniques/dp/1684037026",
+    "cover_image": "covers\\The Suicidal Thoughts Workbook.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/51mDOdFxrbL._SX500_SY445_.jpg"
+  },
+  {
+    "title": "Get Out of Your Mind and Into Your Life",
+    "author": "Steven C. Hayes, Spencer Smith",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/Get-Out-Your-Mind-Into/dp/1572244259",
+    "cover_image": "covers\\Get Out of Your Mind and Into Your Life.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/51MetJZYlXL._SX500_SY445_.jpg"
+  },
+  {
+    "title": "الإنسان يبحث عن التوازن النفسي",
+    "author": "محمد عبد العال",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/%D8%A7%D9%84%D9%86%D9%81%D8%B3%D9%8A-%D8%A7%D9%84%D8%B5%D8%AD%D9%88%D9%87-Arabic-Paperback-Psychiatry/dp/B095X6MKL1/ref=sr_1_1?dib=eyJ2IjoiMSJ9.D5X_Cz2e2353FdwmGIYm3g.4Xd1K8Q3ozqlJHw4aiDU8xtNYE7BakJysFsp6Efr5Ss&dib_tag=se&keywords=%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86+%D9%8A%D8%A8%D8%AD%D8%AB+%D8%B9%D9%86+%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B2%D9%86+%D8%A7%D9%84%D9%86%D9%81%D8%B3%D9%8A+%D9%85%D8%AD%D9%85%D8%AF+%D8%B9%D8%A8%D8%AF+%D8%A7%D9%84%D8%B9%D8%A7%D9%84&qid=1750412835&s=books&sr=1-1",
+    "cover_image": "covers\\الإنسان يبحث عن التوازن النفسي.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/41oSJX9zYJL._SX500_SX342_.jpg"
+  },
+  {
+    "title": "الاكتئاب: رحلة الخروج من الظلام",
+    "author": "أحمد سمير عبد الحي",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D8%A7%D9%88%D9%8A-Arabic-Paperback-Prophet-Sharqawi/dp/B09WZ8SX8W/ref=sr_1_1?dib=eyJ2IjoiMSJ9.NLehlwQ9bzcpKVPZYvl67lKKjZFj9p_MVkKoJrs15QtezYvYaObGjuYgWcfqTwOt9V3A1WJZgFUyBY4O7uUyULypfJEBT9-R2W8ZH_3tmp94r_2qiyZx9zi9q8Jasf3IqdD_pN-4PlrDOxmJ37JkLg.GTs2PezInc9HG7Vy-2SXy0LxA26ZEuemn665BL5LRj4&dib_tag=se&keywords=%D8%A7%D9%84%D8%A7%D9%83%D8%AA%D8%A6%D8%A7%D8%A8%3A+%D8%B1%D8%AD%D9%84%D8%A9+%D8%A7%D9%84%D8%AE%D8%B1%D9%88%D8%AC+%D9%85%D9%86+%D8%A7%D9%84%D8%B8%D9%84%D8%A7%D9%85+%D8%A3%D8%AD%D9%85%D8%AF+%D8%B3%D9%85%D9%8A%D8%B1+%D8%B9%D8%A8%D8%AF+%D8%A7%D9%84%D8%AD%D9%8A&qid=1750412840&s=books&sr=1-1",
+    "cover_image": "covers\\الاكتئاب_ رحلة الخروج من الظلام.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/415WTZnsX4L._SX500_SX342_.jpg"
+  },
+  {
+    "title": "كيف تتحكم في ضغوطك النفسية",
+    "author": "خالد المنيف",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/%D8%A7%D9%84%D8%A7%D8%B5%D8%AF%D9%82%D8%A7%D8%A1-Friends-Carnegie-Arabic-Paperback/dp/B09K6D21P9/ref=sr_1_1?dib=eyJ2IjoiMSJ9.qjomflf1DHI14u8uTvwUKg.3V_rxDTCIbGxiH7t9uuZ52NUFUEJl_MTIN5rLbYHhgk&dib_tag=se&keywords=%D9%83%D9%8A%D9%81+%D8%AA%D8%AA%D8%AD%D9%83%D9%85+%D9%81%D9%8A+%D8%B6%D8%BA%D9%88%D8%B7%D9%83+%D8%A7%D9%84%D9%86%D9%81%D8%B3%D9%8A%D8%A9+%D8%AE%D8%A7%D9%84%D8%AF+%D8%A7%D9%84%D9%85%D9%86%D9%8A%D9%81&qid=1750412846&s=books&sr=1-1",
+    "cover_image": "covers\\كيف تتحكم في ضغوطك النفسية.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/41sRK4zLc+L._SX500_SX342_.jpg"
+  },
+  {
+    "title": "الاضطراب ثنائي القطب: فهمه وعلاجه",
+    "author": "محمد عبد الرحمن عارف",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A3%D9%88%D9%84%D8%A7%D8%AF-%D8%AD%D8%A7%D8%B1%D8%AA%D9%86%D8%A7-Paperback-Neighborhood/dp/B096KWQY1N/ref=sr_1_1?dib=eyJ2IjoiMSJ9.g3oba9UjN0UDKkjiDyskVRQIiW-EA_ov9dbPdU-k3pjjlbOYtQaHCTB7m8aw368r99BhJXqLDH6US2WgZI1xBoz3ikQEHGr-DbXJXd4DOVI.o2YL5d7cfnoaR3t3C4xfvDcddFum4GpQmdFdzMvwT78&dib_tag=se&keywords=%D8%A7%D9%84%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%A8+%D8%AB%D9%86%D8%A7%D8%A6%D9%8A+%D8%A7%D9%84%D9%82%D8%B7%D8%A8%3A+%D9%81%D9%87%D9%85%D9%87+%D9%88%D8%B9%D9%84%D8%A7%D8%AC%D9%87+%D9%85%D8%AD%D9%85%D8%AF+%D8%B9%D8%A8%D8%AF+%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86+%D8%B9%D8%A7%D8%B1%D9%81&qid=1750412851&s=books&sr=1-1",
+    "cover_image": "covers\\الاضطراب ثنائي القطب_ فهمه وعلاجه.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/51JxZutX8aS._SX500_SY445_.jpg"
+  },
+  {
+    "title": "اضطرابات الشخصية: التشخيص والعلاج",
+    "author": "سامي عبد الرحمن",
+    "status": "no_cover",
+    "amazon_url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=468556",
+    "cover_image": null
+  },
+  {
+    "title": "التغلب على القلق اليومي",
+    "author": "عبد الرحمن ذاكر",
+    "status": "no_cover",
+    "amazon_url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=468556",
+    "cover_image": null
+  },
+  {
+    "title": "رحلة إلى الأمل",
+    "author": "محمد علي يوسف",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/Thousand-Nights-Books-%D8%B3%D9%84%D8%B3%D9%84%D8%A9-%D9%88%D9%84%D9%8A%D9%84%D8%A9/dp/B075JRRC3C/ref=sr_1_1?dib=eyJ2IjoiMSJ9.UvKJ_iZp6-zNtm6dKoXKlqxGJmbKhUoR4Qt62tInpCkd6vYqYhyygo6YRlY3EVz2.uV6rUef-an9iBEPetKL5ebJanSPWCG9aysSD-ghHe2k&dib_tag=se&keywords=%D8%B1%D8%AD%D9%84%D8%A9+%D8%A5%D9%84%D9%89+%D8%A7%D9%84%D8%A3%D9%85%D9%84+%D9%85%D8%AD%D9%85%D8%AF+%D8%B9%D9%84%D9%8A+%D9%8A%D9%88%D8%B3%D9%81&qid=1750412862&s=books&sr=1-1",
+    "cover_image": "covers\\رحلة إلى الأمل.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/71yS1U0Q0xL.__AC_SX500_SY300_QL70_ML2_.jpg"
+  },
+  {
+    "title": "الصحة النفسية والسعادة",
+    "author": "طارق الحبيب",
+    "status": "no_cover",
+    "amazon_url": "https://www.amazon.comhttps://aax-us-iad.amazon.com/x/c/JLyPayf884hhthX1lCufkHcAAAGXjLy66AEAAAH2AQBvbm9fdHhuX2JpZDYgICBvbm9fdHhuX2ltcDIgICBPeL3O/clv1_CEuOPUxokZA0iHrVRMZ82QCWUmJ6fZVvmpk4yB_Xstp5139biW3Vbfw18nHz9hvWjq0yzpNb3XTPsunPomQceVZCZjuzUNjhEm4iPG9_dGaCQcNFsSAOLZEdHEepsoWmXJOUalC7tdMeWEwmgVz7bV1AckwCRMN0CRVmUax7QwuP3u3MgFIzS1q5d5TuNOspGHpbasDVlJ1bT2hxC9tUMuUFm8yvmtV0DgjzOKVy-i0Vs7d2vLK7GWsuqRqJ-0hcN3jpMffPnUdL6EdDGuhOfzG2cSOVuBLNCd7m6b_pSZUgD1ig-I6A-jeRfQnNG4n-zPAf4exuVcniz5DINPyGOftKzrhSYBcxo784wfVsPpln11Z5KUuF8SGc1Mkhf2DhajFjnWCBnjspnyr1AoykS24BZM7zucVmVbcmG3VHnlJ_MfhRt19KAG1Hvpd3Q2koAbqwOvPKm_u0cBUSbzW9h64seRWsqluyb3Ntfr0lnYSUFltD_aimrxnddUtzPorrnvZ40wtDKa0unBuDhQ2HzTTvcRl2QnddGximBg3wEK3_Lx68CwRd3khEWEv4Sj_iavomu_54Xjy4jKdeicYpBDSaDgNozSlg2fwasLeDvB86l6-_4pY7dnDQw12mQ4fmLzoEFPcCEx5_4ehEBpJ5uBMn0_nFPjAkZlYrvM5_68QzGmt5SiCBkEg1jjPsYOFY9FwS0X9F6cocxM18FF-TA2Uw_7T7GcG6-JnqJ2o2BAD3rg_yTIxg3jVp7sUbZebOsohNRwPjjlDD3Dj4AXXHMiM9mgf6U1Vonf5Ma8pQYAqY_FQxM-tOuhtjtp6VS0CZeMeZXz926QrElchTfuFSlqr4qV8Su9uvIr3VsuKQrlOC4DjI5U8PxSvOkl6uhR7XuNAFjO4NtzPJMe4xQNomA_uJ8sqIwUpaPCAKMwvNljrXiTV3P1M6YmxtaBbsyUKhvBmhdeqey5K8gcn60G7mdo4XE72BWLzUy1iPVgh9G94EaDR7R2hjWYvryRDwPC0XAiWfqqJ__RU8Ip8__5OfxztinwRJCtCHkQpE8JhWlDtqfWC9ZbCaLQa-V7hDespGTHa_eo_zTQg9K5uAZ8XdvdPlZQ7v7qRZReMpWTVfG--lDUizC9lUtVVtGaWKuNjotu4-T9zMhTIOL81zql9XZlogYtnPXH6HILcps4b9_peVxD-l2lnY55cHlk5gefQpMVeoLFrT9HOwYyoCrVjjPNe2x9BV5rJL3TiBxKxnCG_SDXEzdGGo8Um_lhkLI5XgSp8fjvGCQmHMSK54bKBOtmIsjZlzsKTg9TWPlkCxA_3WQcprQP6HnOQQjySdqdUkG4QBYCOJ00LspP0qXAMd85Hb1tgXo3p4Ye9KP8NQlZE1uXqWDAiVudqHKX-jTo1lITKJVXqtZiHyejAHZ7ScariqvhOLNWlqy5lQxvL0vWdJaTF__pMIF-EBfyXwCga9wytSPGH8pbi3rQnGNyr3TWaW-QqNfvoJ96EO6uor714ZqXyeInuAK3t74uUDsPLcg2_SRiV5WsJPM8yFfvEjHhfjl9HMHHzZClOgNpYmmtadxf-R0P-LT4g7VI0wgPU3XMX4Nku2zrvwYvjFGHwEeB1l6efy1dh50KTdhzJicFM9Ay9b8P9PMsAXy6ruhWZqp22L06h6E0t9lROO7VZJ1OhXHm-wKQh8Zu8o_515WPr3b90ip4L2QHQss4yxqe-nquJrf7fcth1a_WKXsZNOdGL20SFT9TqG6YpDKC7emxLiosDr_ewWcZtPgl3lIOZkiLM-xRCg545yMvphfbZ44XhvJNPyz4m9Bz_IR3qyhZi2BrWswbdu080Bv5PCz5MvhD76rkeDvez4lT7muAzv/https://www.amazon.com/Sacred-Path-Islam-Building-Relationship/dp/1733213910/ref=sxbs_sbv_search_btf?content-id=amzn1.sym.37132d36-da68-4ed0-8d23-842f0825e4d6%3Aamzn1.sym.37132d36-da68-4ed0-8d23-842f0825e4d6&cv_ct_cx=%D8%A7%D9%84%D8%B5%D8%AD%D8%A9+%D8%A7%D9%84%D9%86%D9%81%D8%B3%D9%8A%D8%A9+%D9%88%D8%A7%D9%84%D8%B3%D8%B9%D8%A7%D8%AF%D8%A9+%D8%B7%D8%A7%D8%B1%D9%82+%D8%A7%D9%84%D8%AD%D8%A8%D9%8A%D8%A8&keywords=%D8%A7%D9%84%D8%B5%D8%AD%D8%A9+%D8%A7%D9%84%D9%86%D9%81%D8%B3%D9%8A%D8%A9+%D9%88%D8%A7%D9%84%D8%B3%D8%B9%D8%A7%D8%AF%D8%A9+%D8%B7%D8%A7%D8%B1%D9%82+%D8%A7%D9%84%D8%AD%D8%A8%D9%8A%D8%A8&pd_rd_i=1733213910&pd_rd_r=cee9c90b-547e-4e13-9c0f-c56f1b0fc06a&pd_rd_w=D2BIt&pd_rd_wg=Tw1Xv&pf_rd_p=37132d36-da68-4ed0-8d23-842f0825e4d6&pf_rd_r=QNM6EP88FSQD2KXM91HM&qid=1750412868&s=books&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=1-1-a61ee601-6e56-4862-a8a2-1d3da5a5406f",
+    "cover_image": null
+  },
+  {
+    "title": "إدارة التوتر في الحياة العصرية",
+    "author": "عبد الله الخاطر",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/Decorative-Calligraphy-Translation-Muslim-Gift/dp/B0CCZTBFKW/ref=sr_1_1?dib=eyJ2IjoiMSJ9.CD6fcWcKf1iBCcK8iI_BPQ.TNtzqKhwDoR4jXdG6imvHIiZicj7uz0fOexe0QyjB8A&dib_tag=se&keywords=%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9+%D8%A7%D9%84%D8%AA%D9%88%D8%AA%D8%B1+%D9%81%D9%8A+%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%A9+%D8%A7%D9%84%D8%B9%D8%B5%D8%B1%D9%8A%D8%A9+%D8%B9%D8%A8%D8%AF+%D8%A7%D9%84%D9%84%D9%87+%D8%A7%D9%84%D8%AE%D8%A7%D8%B7%D8%B1&qid=1750412869&s=books&sr=1-1",
+    "cover_image": "covers\\إدارة التوتر في الحياة العصرية.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/A1SVMZqlAjL.__AC_SX500_SX300_QL70_ML2_.jpg"
+  },
+  {
+    "title": "فهم الاضطرابات النفسية",
+    "author": "محمد حسن غانم",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D8%A7%D9%88%D9%8A-Arabic-Paperback-Prophet-Sharqawi/dp/B09WZ8SX8W/ref=sr_1_1?dib=eyJ2IjoiMSJ9.rGg_Btq2VKtnZJXlJrxWiWYbG7ROysGdHTybg8M1aH0CcjHoJuQhYQxulokLVmGS5dYqE-Y-ZD1hb06ZwJC8IQ.Sck2KbI8_IIrUAxwmHGYRXhETNHdD1RhTeC9f64PnLg&dib_tag=se&keywords=%D9%81%D9%87%D9%85+%D8%A7%D9%84%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%A8%D8%A7%D8%AA+%D8%A7%D9%84%D9%86%D9%81%D8%B3%D9%8A%D8%A9+%D9%85%D8%AD%D9%85%D8%AF+%D8%AD%D8%B3%D9%86+%D8%BA%D8%A7%D9%86%D9%85&qid=1750412875&s=books&sr=1-1",
+    "cover_image": "covers\\فهم الاضطرابات النفسية.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/415WTZnsX4L._SX500_SX342_.jpg"
+  },
+  {
+    "title": "القلق: كيف تتغلب عليه",
+    "author": "أحمد عبد الخالق",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D9%8A-%D8%A7%D9%84%D9%83%D8%AA%D8%A8%E2%80%8E-Arabic-Paperback-Khairy/dp/B095STM69K/ref=sr_1_1?dib=eyJ2IjoiMSJ9.VGzKxRkcXMURzn66Ue3tMzn_myEYO2FX_XEHwkLYE-HGjHj071QN20LucGBJIEps._PVX1Uc4fScOtVnYxPvuVOIOVDdeXfAOmyeJ4cZ8WDA&dib_tag=se&keywords=%D8%A7%D9%84%D9%82%D9%84%D9%82%3A+%D9%83%D9%8A%D9%81+%D8%AA%D8%AA%D8%BA%D9%84%D8%A8+%D8%B9%D9%84%D9%8A%D9%87+%D8%A3%D8%AD%D9%85%D8%AF+%D8%B9%D8%A8%D8%AF+%D8%A7%D9%84%D8%AE%D8%A7%D9%84%D9%82&qid=1750412880&s=books&sr=1-1",
+    "cover_image": "covers\\القلق_ كيف تتغلب عليه.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/71A2KHwQQUL.__AC_SX500_SY300_QL70_ML2_.jpg"
+  },
+  {
+    "title": "الاكتئاب وكيفية مواجهته",
+    "author": "محمد عبد الله",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D8%A7%D9%88%D9%8A-Arabic-Paperback-Prophet-Sharqawi/dp/B09WZ8SX8W/ref=sr_1_1?dib=eyJ2IjoiMSJ9.R77ceW5sqv-fS-TnigiG0CheRH6ZZoIky0tGFPuYns1DoMJ0wNb1_b4JR2qH_7xVq8JbCDlNsX6MUrhrFDPWQmH3imKTmnySBiXYa2kRnZzkIRlwQQrXCxjkDuWmrDr6zNNdi3vvrC-xIxQ8k5q6blm9i2k0GVrxRAhQL6tVuicUTCduxzUQWomR-EfN3ZPch3V7-fF2h8o5YH1yFngbgf5K5D0aJHmqjPgnLOAJCsg.JrkYZANzyt5hxTh80FfgXgqGd9nkNkL6ZHaWOWZEF4I&dib_tag=se&keywords=%D8%A7%D9%84%D8%A7%D9%83%D8%AA%D8%A6%D8%A7%D8%A8+%D9%88%D9%83%D9%8A%D9%81%D9%8A%D8%A9+%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%AA%D9%87+%D9%85%D8%AD%D9%85%D8%AF+%D8%B9%D8%A8%D8%AF+%D8%A7%D9%84%D9%84%D9%87&qid=1750412886&s=books&sr=1-1",
+    "cover_image": "covers\\الاكتئاب وكيفية مواجهته.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/415WTZnsX4L._SX500_SX342_.jpg"
+  },
+  {
+    "title": "اضطراب الشخصية: رحلة الفهم",
+    "author": "عبد الرحمن السيد",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/%D8%A7%D9%84%D8%AE%D9%84%D9%81%D8%A7%D8%A1-%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D8%A7%D9%88%D9%89-Paperback-Caliphs-Sharqawi/dp/B089GY1DYV/ref=sr_1_1?dib=eyJ2IjoiMSJ9.WhH7q5C2G0Vo5-0DwYhOmA.rmkrZlRx3iidPsMbejL7YXBUdKmz4_z91UAwtqMvVMo&dib_tag=se&keywords=%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%A8+%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9%3A+%D8%B1%D8%AD%D9%84%D8%A9+%D8%A7%D9%84%D9%81%D9%87%D9%85+%D8%B9%D8%A8%D8%AF+%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86+%D8%A7%D9%84%D8%B3%D9%8A%D8%AF&qid=1750412892&s=books&sr=1-1",
+    "cover_image": "covers\\اضطراب الشخصية_ رحلة الفهم.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/71ktoVFYWKL.__AC_SX500_SY300_QL70_ML2_.jpg"
+  },
+  {
+    "title": "الهوس والاكتئاب: فهم الاضطراب ثنائي القطب",
+    "author": "علي السيد",
+    "status": "no_cover",
+    "amazon_url": "https://www.amazon.comhttps://aax-us-iad.amazon.com/x/c/JE08dCV9votAj1E-PI2ozcwAAAGXjL0sdQEAAAH2AQBvbm9fdHhuX2JpZDQgICBvbm9fdHhuX2ltcDIgICCpmB2N/clv1_CEuOPUxokZA0iHrVZts9mwDgGjV6CpENiatbpT6D9cVn4X9opGvVbfw18nHz9hvWjq0yzpNb3XTPsunP2mQceXRfJ3mzJpC2EhkmXnxNFwujFYRarxYOLZEdHEepyoSmXJOUalC7tdMeWEwmgVz7bV1AckwCRMN0CRVmUax7QwuP3u3MgFIzS1q5d5TuNOspGHpbasDVlJ1bT2hxC9tUMuUFm8yvmtV0DgjzOKVy-i0Vs7d2vLK7GWsuqRqJ-0hcN3jpMffPnUdL6EdDGuhOfzG2cSSUghLNCd7m6b_pSZUgD1ig-I6A-jeRfQn_NrD_4t4AzcRpFMn9ur3gMMeNUeJYzeF_XWRslpU4wfVsPpln11Z5KUuB8SGc8owib2TlaiFF0WC_oH8ppSr1AoykS24BZM7zucVmVbcmG3VHnlJ_MfhRt19KAG1Hvpd3Q2koAbqwOvPKm_u0cBUSbzW9h64seRWsqluyb3Ntfr0lnYSUFltD_aimrxnddUtzPorrnvZ40wtDKa0unBuDhQ2HzTTvcRl2QnddGximBg3wEK3_Lx68CwRd3khEWEv4Sj_iavomu_54Xjy4jKdeicYpBDSaDgNozSlg2fwasLeDvB86l6-_4pY7dnDQw12mQ4fmLzoEFPcCEx5_4ehEBpJ5uBMn0_nFPjAkZlYrvM5_68QzGmt5SiCBkEg1jjPsYOFY9FwS0X9F6cocxM18FF-TA2Uw_7T7GcG6-JnqJ2o2BAD3rg_yTIxg3jVp7sUbZebOsohNRwPjjlDD3Dj4AXXHMiM9mgf6U1Vonf5Ma8pQYAqY_FQxM-tOuhtjtp6VS0CZeMeZXz926QrElchTfuFSlqr4qV8Su9uvIr3VsuKQrlOC4DjI5U8PxSvOkl6uhR7XuNAFjO4NtzPJMe4xQNomA_uJ8sqIwUpaPCAKMwvNljrXiTV3P1M6YmxtaBbsyUKhvBmhdeqey5K8gcn60G7mdo4XE72BWLzUy1iPVgh9G94EaDR7R2hjWYvryRDwPC0XAiWfqqJ__RU8Ip8__5OfxztinwRJCtCHkQpE8JhWlDtqfWC9ZbCaLQa-V7hDespGTHa_eo_zTQg9K5uAZ8XdvdPlZQ7v7qRZReMpHwxqObOSDkyjC8luuVNHGaWKufXpgOM2bMLMvB8-IcFkkXEne2EOfpP2NlyFL4wxoYHHkZ6TxwKg8XPE7LwlqBJPUdUsHEmRFFj5i2SJRhgQrQfZSu-nz8BVuvxR8BeK25BjBGHCME9vc0ew_kyTkRMjConpSpAtkN63WlXMYoxxVcIIqE4r9YFPpKC94DWPkkeUH-TTc_hgaMfo3OQPkCaIw6IhHa4zZh2clVzDj7MoW2cBuoTUytwu_URId_F_Pu1t5dkjp0SLNwjmodqYMWCeUKhgNzHPVHrzQDTPaiAYZNC-TLG7mxmNNUNl4YcXxvaVgGNOXCl7w5wiE98DdzT2Mh6k_Q4oJnfFmL29og3PNyr3U1H8rTG4eMszxZkWwt04_2wshQDeF32lLWh7jLgonciDv07ORAhLdMJRbJ3mT-MSPg_bteP9AEKzAm-vfJwjkdy18PPN7Y-uPY9wK9UOgNxuWsKibnjD3Y7cSvDzKHMxPx50z__h7as516398mOcy_CcNQqwBzupyDdQvFxfHYuTfwXPN1v2yKIkeXmPtiQRnaM3VF-KttyG3sYJAQTs50t3BayeCiZ3wYkEiXkddSBx0zobcNftsAMY4THf78hTdH6rknsD9iqW9sFLNS6W2F6mj5uQz-gcdJtP23bWWtolss0YwQ-4-O46NulndcRfxhclFdLphgqZNNyPETPbtImWDN2jxYcNmME2UPSzs71Csh4sWvdxE6sb5MDWPXUeZs1cxuUkFuKuadN_QjJg3BFenRO6X9feo6F5zKSbSLWjcJ7mL0P_Cw/https://www.amazon.com/Meditaciones-Completos-Traducci%C3%B3n-Detallados-Estoicismo/dp/B0DPTC45Q3/ref=sxbs_sbv_search_btf?content-id=amzn1.sym.37132d36-da68-4ed0-8d23-842f0825e4d6%3Aamzn1.sym.37132d36-da68-4ed0-8d23-842f0825e4d6&cv_ct_cx=%D8%A7%D9%84%D9%87%D9%88%D8%B3+%D9%88%D8%A7%D9%84%D8%A7%D9%83%D8%AA%D8%A6%D8%A7%D8%A8%3A+%D9%81%D9%87%D9%85+%D8%A7%D9%84%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%A8+%D8%AB%D9%86%D8%A7%D8%A6%D9%8A+%D8%A7%D9%84%D9%82%D8%B7%D8%A8+%D8%B9%D9%84%D9%8A+%D8%A7%D9%84%D8%B3%D9%8A%D8%AF&keywords=%D8%A7%D9%84%D9%87%D9%88%D8%B3+%D9%88%D8%A7%D9%84%D8%A7%D9%83%D8%AA%D8%A6%D8%A7%D8%A8%3A+%D9%81%D9%87%D9%85+%D8%A7%D9%84%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%A8+%D8%AB%D9%86%D8%A7%D8%A6%D9%8A+%D8%A7%D9%84%D9%82%D8%B7%D8%A8+%D8%B9%D9%84%D9%8A+%D8%A7%D9%84%D8%B3%D9%8A%D8%AF&pd_rd_i=B0DPTC45Q3&pd_rd_r=ff0d4fcd-1855-497f-b6b3-8dbdfe67673d&pd_rd_w=DHjet&pd_rd_wg=mNIzr&pf_rd_p=37132d36-da68-4ed0-8d23-842f0825e4d6&pf_rd_r=RQSSTXCSJWYGJ17G1YJQ&qid=1750412897&s=books&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=1-1-a61ee601-6e56-4862-a8a2-1d3da5a5406f",
+    "cover_image": null
+  },
+  {
+    "title": "الخروج من الظلال",
+    "author": "محمد عبد العزيز",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D9%8A-%D8%A7%D9%84%D9%83%D8%AA%D8%A8%E2%80%8E-Arabic-Paperback-Khairy/dp/B095STM69K/ref=sr_1_1?dib=eyJ2IjoiMSJ9.annRs9mXzqN1gxg2KRt5zeVpKCPAg6XjDYn7_ZEC0YrDlrC1uuLALT0Iz1RPvPGw.Ms86urqvnpmCrL6lV-ZsD62BpVaIsqkNqm2J8Qnx7CM&dib_tag=se&keywords=%D8%A7%D9%84%D8%AE%D8%B1%D9%88%D8%AC+%D9%85%D9%86+%D8%A7%D9%84%D8%B8%D9%84%D8%A7%D9%84+%D9%85%D8%AD%D9%85%D8%AF+%D8%B9%D8%A8%D8%AF+%D8%A7%D9%84%D8%B9%D8%B2%D9%8A%D8%B2&qid=1750412898&s=books&sr=1-1",
+    "cover_image": "covers\\الخروج من الظلال.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/71A2KHwQQUL.__AC_SX500_SY300_QL70_ML2_.jpg"
+  },
+  {
+    "title": "The Cognitive Behavioral Workbook for Depression",
+    "author": "William J. Knaus",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/Cognitive-Behavioral-Workbook-Depression-Step/dp/1608823806",
+    "cover_image": "covers\\The Cognitive Behavioral Workbook for Depression.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/51sM5NXy-8L._SX500_SY445_.jpg"
+  },
+  {
+    "title": "When Panic Attacks",
+    "author": "David D. Burns",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/When-Panic-Attacks-Drug-Free-Anxiety/dp/076792083X",
+    "cover_image": "covers\\When Panic Attacks.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/31wZEzNz31L._SX500_SX342_.jpg"
+  },
+  {
+    "title": "The Relaxation and Stress Reduction Workbook",
+    "author": "Martha Davis",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/Relaxation-Stress-Reduction-Workbook-Seventh/dp/1684033349",
+    "cover_image": "covers\\The Relaxation and Stress Reduction Workbook.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/51UZplmwzXL._SX500_SY445_.jpg"
+  },
+  {
+    "title": "Living Well with Bipolar Disorder",
+    "author": "David J. Miklowitz",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/Living-Well-Bipolar-Disorder-Strategies/dp/1606235427",
+    "cover_image": "covers\\Living Well with Bipolar Disorder.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/51L+G+lYWlL._SX500_SX342_.jpg"
+  },
+  {
+    "title": "The Borderline Personality Disorder Workbook",
+    "author": "Daniel J. Fox",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/Borderline-Personality-Disorder-Workbook-Integrative/dp/1684032733",
+    "cover_image": "covers\\The Borderline Personality Disorder Workbook.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/51NqKweBLRL._SX500_SY445_.jpg"
+  },
+  {
+    "title": "Hardcore Self Help: F**k Depression",
+    "author": "Robert Duff",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/Hardcore-Self-Help-F-Depression/dp/1533242410",
+    "cover_image": "covers\\Hardcore Self Help_ F__k Depression.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/513R8qMFd1L._SX500_SY445_.jpg"
+  },
+  {
+    "title": "The Anxiety Toolkit",
+    "author": "Alice Boyes",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/Anxiety-Toolkit-Strategies-Overthinking-Stress/dp/0399169253",
+    "cover_image": "covers\\The Anxiety Toolkit.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/41Yp6e+4IsL._SX500_SX342_.jpg"
+  },
+  {
+    "title": "This Is How I Find Her",
+    "author": "Sara Polsky",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/This-How-Find-Her/dp/0807578797",
+    "cover_image": "covers\\This Is How I Find Her.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/51mpSonJNWL._SX500_SX342_.jpg"
+  },
+  {
+    "title": "The Mindful Path to Self-Compassion",
+    "author": "Christopher K. Germer",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/Mindful-Path-Self-Compassion-Destructive-Emotions/dp/1593859759",
+    "cover_image": "covers\\The Mindful Path to Self-Compassion.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/51gGbStIrwL._SX500_SX342_.jpg"
+  },
+  {
+    "title": "The Invisible String",
+    "author": "Patrice Karst",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/Invisible-String-Patrice-Karst/dp/031648623X",
+    "cover_image": "covers\\The Invisible String.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/51g5duGRMsL._SX500_SY445_.jpg"
+  },
+  {
+    "title": "The Resilience Workbook",
+    "author": "Glenn R. Schiraldi",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/Resilience-Workbook-Essential-Strategies-Stress/dp/1626259402",
+    "cover_image": "covers\\The Resilience Workbook.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/51VVxRui+BL._SX500_SY445_.jpg"
+  },
+  {
+    "title": "Hello I Want to Die Please Fix Me",
+    "author": "Anna Mehler Paperny",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/Hello-Want-Die-Please-Fix/dp/1615194924",
+    "cover_image": "covers\\Hello I Want to Die Please Fix Me.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/41Jk2kzRUUL._SX500_SX342_.jpg"
+  },
+  {
+    "title": "The Emotional First Aid Kit",
+    "author": "Cynthia L. Alexander",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/Emotional-First-Aid-Kit-Practical/dp/0972122303",
+    "cover_image": "covers\\The Emotional First Aid Kit.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/51b9Eye3hEL._SX500_SX342_.jpg"
+  },
+  {
+    "title": "Sometimes My Mommy Gets Angry",
+    "author": "Bebe Moore Campbell",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/Sometimes-My-Mommy-Gets-Angry/dp/0142403598",
+    "cover_image": "covers\\Sometimes My Mommy Gets Angry.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/51X7EZ36AML._SX500_SY445_.jpg"
+  },
+  {
+    "title": "Building a Life Worth Living",
+    "author": "Marsha M. Linehan",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/Building-Life-Worth-Living-Memoir/dp/0812994612",
+    "cover_image": "covers\\Building a Life Worth Living.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/417w+4OGYCL._SX500_SX342_.jpg"
+  },
+  {
+    "title": "التغلب على الاكتئاب باليقظة الذهنية",
+    "author": "محمد عبد الرحيم",
+    "status": "no_cover",
+    "amazon_url": "https://www.amazon.com/%D8%A7%D9%84%D8%B9%D8%A8-%D9%88%D8%AA%D8%B9%D8%B1%D9%81-%D8%B9%D9%84%D9%89-%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%A7%D9%84%D8%A8%D9%84%D8%AF%D8%A7%D9%86/dp/B0CKBJRYFL/ref=sr_1_1?dib=eyJ2IjoiMSJ9.Ur4ISKxLPzVpWc4eOZ4mCHiZoWXEjfgLBglYGoJ9ZH0B9r0ZU1l4gIl-9WwBPnt9cAaEIL8HaZ1auwcmL54-42th3MomH-4w_vtqQr84ntp0tkr2DeZc0MLlp2LZhH8sqeiY43IGK7bLuFveaAzy9yQnLlSBHpOn0XsLCBMAKGAB752oMgiT8q5cqzLEG_qv.FXud96dviKskkS7f3isRIklWVPVA-npv5IkI7MvOUQE&dib_tag=se&keywords=%D8%A7%D9%84%D8%AA%D8%BA%D9%84%D8%A8+%D8%B9%D9%84%D9%89+%D8%A7%D9%84%D8%A7%D9%83%D8%AA%D8%A6%D8%A7%D8%A8+%D8%A8%D8%A7%D9%84%D9%8A%D9%82%D8%B8%D8%A9+%D8%A7%D9%84%D8%B0%D9%87%D9%86%D9%8A%D8%A9+%D9%85%D8%AD%D9%85%D8%AF+%D8%B9%D8%A8%D8%AF+%D8%A7%D9%84%D8%B1%D8%AD%D9%8A%D9%85&qid=1750412971&s=books&sr=1-1",
+    "cover_image": null
+  },
+  {
+    "title": "القلق: طريقك للسلام الداخلي",
+    "author": "عبد الرحمن ياسر",
+    "status": "no_cover",
+    "amazon_url": "https://www.amazon.comhttps://aax-us-iad.amazon.com/x/c/JPgBm8Nol0Ykz3uJaLWtYXkAAAGXjL5XwgEAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICCdM2Ax/clv1_CEuOPUxokZA0iHrVH84CyT2KQUBBU4YNucsD8iCDruN48X8_0mbVbfw18nHz9hvWjq0yzpNb3XTPsunPomQceQ1KGCuOTMvDKUAxXkwtT1y9Fd98sAYOLZEdHEepsoWmXJOUalC7tdMeWEwmgVz7bV1AckwCRMN0CRVmUax7QwuP3u3MgFIzS1q5d5TuNOspGHpbasDVlJ1bT2hxC9tUMuUFm8yvmtV0DgjzOKVy-i0Vs7d2vLK7GWsuqRqJ-0hcN3jpMffPnUdL6EdDGuhOfzG2fSKXghLNCd7m6b_pSZUgD1ig-I6A-jeRfQnlJaSD9vUT7ehWTerRqaHgPMWOEs8s7-FTYTk2kpU4wfVsPpln11Z5KUuF8SGc1Mkhf2DhajFjnWCBnjspnyr1AoykS24BZM7zucVmVbcmG3VHnlJ_MfhRt19KAG1Hvpd3Q2koAbqwOvPKm_u0cBUSbzW9h64seRWsqluyb3Ntfr0lnYSUFltD_aimrxnddUtzPorrnvZ40wtDKa0unBuDhQ2HzTTvcRl2QnddGximBg3wEK3_Lx68CwRd3khEWEv4Sj_iavomu_54Xjy4jKdeicYpBDSaDgNozSlg2fwasLeDvB86l6-_4pY7dnDQw12mQ4fmLzoEFPcCEx5_4ehEBpJ5uBMn0_nFPjAkZlYrvM5_68QzGmt5SiCBkEg1jjPsYOFY9FwS0X9F6cocxM18FF-TA2Uw_7T7GcG6-JnqJ2o2BAD3rg_yTIxg3jVp7sUbZebOsohNRwPjjlDD3Dj4AXXHMiM9mgf6U1Vonf5Ma8pQYAqY_FQxM-tOuhtjtp6VS0CZeMeZXz926QrElchTfuFSlqr4qV8Su9uvIr3VsuKQrlOC4DjI5U8PxSvOkl6uhR7XuNAFjO4NtzPJMe4xQNomA_uJ8sqIwUpaPCAKMwvNljrXiTV3P1M6YmxtaBbsyUKhvBmhdeqey5K8gcn60G7mdo4XE72BWLzUy1iPVgh9G94EaDR7R2hjWYvryRDwPC0XAiWfqqJ__RU8Ip8__5OfxztinwRJCtCHkQpE8JhWlDtqfWC9ZbCaLQa-V7hDespGTHa_eo_zTQg9K5uAZ8XdvdPlZQ7v7qRZReMpWTVfG--lDUizC9lUtVVtGaWKuNjotu4-T9zMhTIOL81zql9XZlogYtnPXH6HILcps4b9_peVxD-l2lnY55cHlk5gefQpMVeoLFrT9HOwYyoCrVjjPNe2x9BV5rJL3TiBxKxnCG_SDXEzdGGo8Um_lhkLI5XgSp8fjvGCQmHMSK54bKBOtmIsjZlzsKTg9TWPlkCxA_3WQcprQP6HnOQQjySdqdUkG4QBYCOJ00LspP0qXAMd85Hb1tgXo3p4Ye9KP8NQlZE1uXqWDAiVudqHKX-jTo1lITKJVXqtZiHyejAHZ7ScariqvhOLNWlqy5lQxvL0vWdJaTF__pMIF-EBfyXwCga9wytSPGH8pbi3rQnGNyr3TWaW-QqNfvoJ96EO6uor714ZqXyeInuAK3t74uUDsPLcg2_SRiV5WsJPM8yFfvEjHhfjl9HMHHzZClOgNpYmmtadxf-R0P-LT4g7VI0wgPU3XMX4Nku2zrvwYvjFGHwEeB1l6efy1dh50KTdhzJicFM9Ay9b8P9PMsAXy6ruhWZqp22L06h6E0t9lRON7VFJ1OhXHm-wKQh8Ze8t9osyXqvrKNo4tpXqT3lais6xsOSxveZ4aOietxwYs2Sesc9Maz_0zCoarTzYoY5RL3fCiBWGotngy_sSYowS41LzJJoejqUa1xf7mrljJ_JkTrt-9xUQBs75GT2ts5vAU2z9obqLObOo4-A67vDPE5fIxlsUrtRQcnc72kiMOMrqm9o/https://www.amazon.com/Sacred-Path-Islam-Building-Relationship/dp/1733213910/ref=sxbs_sbv_search_btf?content-id=amzn1.sym.37132d36-da68-4ed0-8d23-842f0825e4d6%3Aamzn1.sym.37132d36-da68-4ed0-8d23-842f0825e4d6&cv_ct_cx=%D8%A7%D9%84%D9%82%D9%84%D9%82%3A+%D8%B7%D8%B1%D9%8A%D9%82%D9%83+%D9%84%D9%84%D8%B3%D9%84%D8%A7%D9%85+%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A+%D8%B9%D8%A8%D8%AF+%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86+%D9%8A%D8%A7%D8%B3%D8%B1&keywords=%D8%A7%D9%84%D9%82%D9%84%D9%82%3A+%D8%B7%D8%B1%D9%8A%D9%82%D9%83+%D9%84%D9%84%D8%B3%D9%84%D8%A7%D9%85+%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A+%D8%B9%D8%A8%D8%AF+%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86+%D9%8A%D8%A7%D8%B3%D8%B1&pd_rd_i=1733213910&pd_rd_r=71536da5-a79f-4cd7-ba02-62196a7ad119&pd_rd_w=Nhf4S&pd_rd_wg=HLYHo&pf_rd_p=37132d36-da68-4ed0-8d23-842f0825e4d6&pf_rd_r=7DMVYHWZGVE93KY7JQ13&qid=1750412973&s=books&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=1-1-a61ee601-6e56-4862-a8a2-1d3da5a5406f",
+    "cover_image": null
+  },
+  {
+    "title": "إدارة التوتر في العمل",
+    "author": "خالد عبد الله",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/MashAllah-TabarakAllah-Calligraphy-Decorations-Housewarming/dp/B09LD7C7YM/ref=sr_1_1?dib=eyJ2IjoiMSJ9.XZ3yJQ3h2Ul6ifWS0UuBPbZHyoO1OBuaqfHX1NME6fvKT-dzzFeKSHxdSK1gQ4bLpw9yWVur9hzXaMDQpkqiDMcupeBV2awd3YEey1CjaDZPU4A6gyF7f4sY5K_155i1apP3bla25BbJoxyJX64RLepcJZ6vWTFOXM02tbzyXeiZbzx4FVWInCyh66LFWwbC5RzrA_BjbpsG1qIYkMBphOPV3Fi6RN9QE8AhiCrPX_U.Zyu_-p3uAhWYE18e2a27PjMJQz7hX-24U5BrqKL2v_M&dib_tag=se&keywords=%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9+%D8%A7%D9%84%D8%AA%D9%88%D8%AA%D8%B1+%D9%81%D9%8A+%D8%A7%D9%84%D8%B9%D9%85%D9%84+%D8%AE%D8%A7%D9%84%D8%AF+%D8%B9%D8%A8%D8%AF+%D8%A7%D9%84%D9%84%D9%87&qid=1750412975&s=books&sr=1-1",
+    "cover_image": "covers\\إدارة التوتر في العمل.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/71QxxL1zWFL.__AC_SX500_SY300_QL70_ML2_.jpg"
+  },
+  {
+    "title": "فهم الاضطراب ثنائي القطب",
+    "author": "أحمد عبد المقصود",
+    "status": "no_cover",
+    "amazon_url": "https://www.amazon.comhttps://aax-us-iad.amazon.com/x/c/JJ6ekZM7-pGl2BoPUq9pVA4AAAGXjL54LQEAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDIgICChs5T-/clv1_CEuOPUxokZA0iHrVXP9z-SHCXi54W4oEm5hWzibQ895Zx38lk2bVbfw18nHz9hvWjq0yzpNb3XTPsunPo2QceU57aRuSBNStEEg9V25-GmC7RoJBkTAOLZEdHEepsoWmXJOUalC7tdMeWEwmgVz7bV1AckwCRMN0CRVmUax7QwuP3u3MgFIzS1q5d5TuNOspGHpbasDVlJ1bT2hxC9tUMuUFm8yvmtV0DgjzOKVy-i0Vs7d2vLK7GWsuqRqJ-0hcN3jpMffPnUdL6EdDGuhOfzG2fSWXkhLNCd7m6b_pSZUgD1ig-I6A-jeRfQnLHqP5-vYEou1qf8vpqZvrNKO_VPgs9PB8cAcfnb84wfVsPpln11Z5KUuF8SGc1MkjUXyjaQ9Vk2CBnjspnyr1AoykS24BZM7zucVmVbcmG3VHnlJ_MfhRt19KAG1Hvpd3Q2koAbqwOvPKm_u0cBUSbzW9h64seRWsqluyb3Ntfr0lnYSUFltD_aimrxnddUtzPorrnvZ40wtDKa0unBuDhQ2HzTTvcRl2QnddGximBg3wEK3_Lx68CwRd3khEWEv4Sj_iavomu_54Xjy4jKdeicYpBDSaDgNozSlg2fwasLeDvB86l6-_4pY7dnDQw12mQ4fmLzoEFPcCEx5_4ehEBpJ5uBMn0_nFPjAkZlYrvM5_68QzGmt5SiCBkEg1jjPsYOFY9FwS0X9F6cocxM18FF-TA2Uw_7T7GcG6-JnqJ2o2BAD3rg_yTIxg3jVp7sUbZebOsohNRwPjjlDD3Dj4AXXHMiM9mgf6U1Vonf5Ma8pQYAqY_FQxM-tOuhtjtp6VS0CZeMeZXz926QrElchTfuFSlqr4qV8Su9uvIr3VsuKQrlOC4DjI5U8PxSvOkl6uhR7XuNAFjO4NtzPJMe4xQNomA_uJ8sqIwUpaPCAKMwvNljrXiTV3P1M6YmxtaBbsyUKhvBmhdeqey5K8gcn60G7mdo4XE72BWLzUy1iPVgh9G94EaDR7R2hjWYvryRDwPC0XAiWfqqJ__RU8Ip8__5OfxztinwRJCtCHkQpE8JhWlDtqfWC9ZbCaLQa-V7hDespGTHa_eo_zTQg9K5uAZ8XdvdPlZQ7v7qRZReMpWTVfG--lDUizC9lUtVVtGaWKuNjotu4-T9zMhTIOL81zql9XZlogYtnPXH6HILcps4b9_peVxD-l2lnY55cHlk5gefQpMVeoLFrT9HOwYyoCrVjjPNe2x9BV5rJL3TiBxKxnCG_SDXEzdGGo8Um_lhkLI5XgSp8fjvGCQmHMSK54bKBOtmIsjZlzsKTg9TWPlkCxA_3WQcprQP6HnOQQjySdqdUkG4QBYCOJ00LspP0qXAMd85Hb1tgXo3p4Ye9KP8NQlZE1uXqWDAiVudqHKX-jTo1lITKJVXqtZiHyejAHZ7ScariqvhOLNWlqy5lQxvL0vWdJaTF__pMIF-EBfyXwCga9wytSPGH8pbi3rQnGNyr3TWaW-QqNfvoJ96EO6uor714ZqXyeInuAK3t74uUDsPLcg2_SRiV5WsJPM8yFfvEjHhfjl9HMHHzZClOgNpYmmtadxf-R0P-LT4g7VI0wgPU3XMX4Nku2zrvwYvjFGHwEeB1l6efy1dh50KTdhjJCNRivF8Qkn8EgRlMiCLnDwydoN2AN1NIZNdbUOX_24yNQifRWA3C1MxJ6e_Aq-YsyXqvrKNo4tpXqT3lais6xsOSxveZ4aOietxwYs2Sesc9Maz_0zCoarTzYoY5RL3fCiBWGotngy_sSYowS41LzJJoejqUa1xf7mrljJ_JkTrt-9xUQBs75GT2ts5vAU2z9obqLObOo4-A67vDPE5fIxmOUIGSpwRyhgT1bgQjY8JQ/https://www.amazon.com/Sacred-Path-Islam-Building-Relationship/dp/1733213910/ref=sxbs_sbv_search_btf?content-id=amzn1.sym.37132d36-da68-4ed0-8d23-842f0825e4d6%3Aamzn1.sym.37132d36-da68-4ed0-8d23-842f0825e4d6&cv_ct_cx=%D9%81%D9%87%D9%85+%D8%A7%D9%84%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%A8+%D8%AB%D9%86%D8%A7%D8%A6%D9%8A+%D8%A7%D9%84%D9%82%D8%B7%D8%A8+%D8%A3%D8%AD%D9%85%D8%AF+%D8%B9%D8%A8%D8%AF+%D8%A7%D9%84%D9%85%D9%82%D8%B5%D9%88%D8%AF&keywords=%D9%81%D9%87%D9%85+%D8%A7%D9%84%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%A8+%D8%AB%D9%86%D8%A7%D8%A6%D9%8A+%D8%A7%D9%84%D9%82%D8%B7%D8%A8+%D8%A3%D8%AD%D9%85%D8%AF+%D8%B9%D8%A8%D8%AF+%D8%A7%D9%84%D9%85%D9%82%D8%B5%D9%88%D8%AF&pd_rd_i=1733213910&pd_rd_r=fad5a271-15e9-4b43-9a8e-a1a94c0e8773&pd_rd_w=4lpo5&pd_rd_wg=7paoh&pf_rd_p=37132d36-da68-4ed0-8d23-842f0825e4d6&pf_rd_r=VJZY050H846EE4YTFK0D&qid=1750412981&s=books&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=1-1-a61ee601-6e56-4862-a8a2-1d3da5a5406f",
+    "cover_image": null
+  },
+  {
+    "title": "اضطراب الشخصية الحدية: دليل عملي",
+    "author": "محمد السيد حسن",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A3%D9%88%D9%84%D8%A7%D8%AF-%D8%AD%D8%A7%D8%B1%D8%AA%D9%86%D8%A7-Paperback-Neighborhood/dp/B096KWQY1N/ref=sr_1_1?dib=eyJ2IjoiMSJ9.g3oba9UjN0UDKkjiDyskVWXuHyY-DXJqz6CekQsAxwigReRjGmvk5nuP4iKAJimFlHnT47ctLjIRAbYFaNYDVQ.1aaWSGfJkwRnqLHEghvQBWk1hJliL-ZEp_OzipheshM&dib_tag=se&keywords=%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%A8+%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9+%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%A9%3A+%D8%AF%D9%84%D9%8A%D9%84+%D8%B9%D9%85%D9%84%D9%8A+%D9%85%D8%AD%D9%85%D8%AF+%D8%A7%D9%84%D8%B3%D9%8A%D8%AF+%D8%AD%D8%B3%D9%86&qid=1750412983&s=books&sr=1-1",
+    "cover_image": "covers\\اضطراب الشخصية الحدية_ دليل عملي.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/51JxZutX8aS._SX500_SY445_.jpg"
+  },
+  {
+    "title": "الأمل في مواجهة الاكتئاب",
+    "author": "عبد العزيز محمود",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/Arabic-Paperback-Existence-Nothingness-Mustafa/dp/B09XR9RTLD/ref=sr_1_1?dib=eyJ2IjoiMSJ9.FywkMDpT-qjSdulmOolznOIYxGnD6N_XONgvz4ZtE13DlrC1uuLALT0Iz1RPvPGw.ZyjPrJkiJIcRV9TxDc3YKSnubxOlihqsr0iTfzcb1F0&dib_tag=se&keywords=%D8%A7%D9%84%D8%A3%D9%85%D9%84+%D9%81%D9%8A+%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9+%D8%A7%D9%84%D8%A7%D9%83%D8%AA%D8%A6%D8%A7%D8%A8+%D8%B9%D8%A8%D8%AF+%D8%A7%D9%84%D8%B9%D8%B2%D9%8A%D8%B2+%D9%85%D8%AD%D9%85%D9%88%D8%AF&qid=1750412988&s=books&sr=1-1",
+    "cover_image": "covers\\الأمل في مواجهة الاكتئاب.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/41RY779L5HL._SX500_SY445_.jpg"
+  },
+  {
+    "title": "الصحة النفسية في عصر السرعة",
+    "author": "سعيد عبد الله",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/MashAllah-TabarakAllah-Calligraphy-Decorations-Housewarming/dp/B09LD7C7YM/ref=sr_1_1?dib=eyJ2IjoiMSJ9.FwcI3_bwmXbhf1FvG5URhq_JP8Db5oLTDAeRDEWmrnnaYvfSrvM4xVD43amFhX653RIqOQNTMPR6t92xkO4l5Tc-fAL2EOx-Bt11ufutFFyvppSSl5KVE5JzYCHxw6pvQhXjJEGYBkQeC_xUcpWUJJ4NUflLwVDvcPw_Fk8tLq3QxYlRJNTfvsXPhKmO5nuAANE-RQGo5QelKxtb2ww1mfzxm8nFn9FiCGC9av-aDww.DLRt0m1ihYzqFVe3JIMxfgd7FQPnSAvORUODhC0J6gY&dib_tag=se&keywords=%D8%A7%D9%84%D8%B5%D8%AD%D8%A9+%D8%A7%D9%84%D9%86%D9%81%D8%B3%D9%8A%D8%A9+%D9%81%D9%8A+%D8%B9%D8%B5%D8%B1+%D8%A7%D9%84%D8%B3%D8%B1%D8%B9%D8%A9+%D8%B3%D8%B9%D9%8A%D8%AF+%D8%B9%D8%A8%D8%AF+%D8%A7%D9%84%D9%84%D9%87&qid=1750412994&s=books&sr=1-1",
+    "cover_image": "covers\\الصحة النفسية في عصر السرعة.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/71QxxL1zWFL.__AC_SX500_SY300_QL70_ML2_.jpg"
+  },
+  {
+    "title": "كيف تتغلب على اليأس",
+    "author": "محمد عبد العزيز",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/%D8%A7%D9%84%D8%B4%D9%88%D9%83%D9%88%D9%84%D8%A7-%D8%A7%D9%84%D9%87%D9%84%D8%A8%D8%A7%D9%88%D9%89-Paperback-Chocolate-Halbawy/dp/B0BTZ1X73B/ref=sr_1_1?dib=eyJ2IjoiMSJ9.Zb9-ZreEwbgqT74hcZLuwg.VDd_sxl7rtl4mAkQF_T-dvN0B09E_DQ-mBsXeq0i5jQ&dib_tag=se&keywords=%D9%83%D9%8A%D9%81+%D8%AA%D8%AA%D8%BA%D9%84%D8%A8+%D8%B9%D9%84%D9%89+%D8%A7%D9%84%D9%8A%D8%A3%D8%B3+%D9%85%D8%AD%D9%85%D8%AF+%D8%B9%D8%A8%D8%AF+%D8%A7%D9%84%D8%B9%D8%B2%D9%8A%D8%B2&qid=1750413000&s=books&sr=1-1",
+    "cover_image": "covers\\كيف تتغلب على اليأس.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/41gVRos+2cL._SX500_SX342_.jpg"
+  },
+  {
+    "title": "التأمل لتقليل التوتر",
+    "author": "أحمد عبد الرحمن",
+    "status": "no_cover",
+    "amazon_url": "https://www.amazon.comhttps://aax-us-iad.amazon.com/x/c/JGi_mnDjhLSbFps0-JKJ6JwAAAGXjL7TRQEAAAH2AQBvbm9fdHhuX2JpZDcgICBvbm9fdHhuX2ltcDEgICBpeeyu/clv1_CEuOPUxokZA0iHrVU8Noyin3Z11ncKEKsYU7qT-N8eRz4X872WTVbfw18nHz9hvWjq0yzpNb3XTPsunP0WQceUFHciiaMe3eD2MWWURjdweiG4B7uxYOLZEdHEepyoSmXJOUalC7tdMeWEwmgVz7bV1AckwCRMN0CRVmUax7QwuP3u3MgFIzS1q5d5TuNOspGHpbasDVlJ1bT2hxC9tUMuUFm8yvmtV0DgjzOKVy-i0Vs7d2vLK7GWsuqRqJ-0hcN3jpMffPnUdL6EdDGuhOfzGmV2aUqBLNCd7m6b_pSZUgD1ig-I6A-jeRfQnwJZW_9sw-xN0wc4njkb3pBMmsNONYyf98W2gvlpU4wfVsPpln11Z5KUuB8SGc9owhb2TkaQ9V1GC_oH8ppSr1AoykS24BZM7zucVmVbcmG3VHnlJ_MfhRt19KAG1Hvpd3Q2koAbqwOvPKm_u0cBUSbzW9h64seRWsqluyb3Ntfr0lnYSUFltD_aimrxnddUtzPorrnvZ40wtDKa0unBuDhQ2HzTTvcRl2QnddGximBg3wEK3_Lx68CwRd3khEWEv4Sj_iavomu_54Xjy4jKdeicYpBDSaDgNozSlg2fwasLeDvB86l6-_4pY7dnDQw12mQ4fmLzoEFPcCEx5_4ehEBpJ5uBMn0_nFPjAkZlYrvM5_68QzGmt5SiCBkEg1jjPsYOFY9FwS0X9F6cocxM18FF-TA2Uw_7T7GcG6-JnqJ2o2BAD3rg_yTIxg3jVp7sUbZebOsohNRwPjjlDD3Dj4AXXHMiM9mgf6U1Vonf5Ma8pQYAqY_FQxM-tOuhtjtp6VS0CZeMeZXz926QrElchTfuFSlqr4qV8Su9uvIr3VsuKQrlOC4DjI5U8PxSvOkl6uhR7XuNAFjO4NtzPJMe4xQNomA_uJ8sqIwUpaPCAKMwvNljrXiTV3P1M6YmxtaBbsyUKhvBmhdeqey5K8gcn60G7mdo4XE72BWLzUy1iPVgh9G94EaDR7R2hjWYvryRDwPC0XAiWfqqJ__RU8Ip8__5OfxztinwRJCtCHkQpE8JhWlDtqfWC9ZbCaLQa-V7hDespGTHa_eo_zTQg9K5uAZ8XdvdPlZQ7v7qRZReMpHwxqObOSDkyjC8luuVNHGaWKufXpgOM2bMLMvB8-IcFkkXEne2EOfpP2NlyFL4wxoYHHkZ6TxwKg8XPE7LwlqBJPUdUsHEmRFFj5i2SJRhgQrQfZSu-nz8BVuvxR8BeK25BjBGHCME9vc0ew_kyTkRMjConpSpAtkN63WlXMYoxxVcIIqE4r9YFPpKC94DWPkkeUH-TTc_hgaMfo3OQPkCaIw6IhHa4zZh2clVzDj7MoW2cBuoTUytwu_URId_F_Pu1t5dkjp0SLNwjmodqYMWCeUKhgNzHPVHrzQDTPaiAYZNC-TLG7mxmNNUNl4YcXxvaVgGNOXCl7w5wiE98DdzT2Mh6k_Q4oJnfFmL29og3PNyr3U1H8rTG4eMszxZkWwt04_2wshQDeF32lLWh7jLgonciDv07ORAhLdMJRbJ3mT-MSPg_bteP9AEKzAm-vfJwjkdy18PPN7Y-uPY9wK9UOgNxuWsKibnjD3Y7cSvDzKHMxPx50z__h7as516398mOcy_CcNQqwBzupyDdQvFxfHYuTfwXPN1v2yKIkeXmPtiQRnaM3VGCK7fmWiD3mMFqoPIk73GDtHEjANvPlGgMWVNP0BTiczzH3c3Vfwh2brdJPdmK0lGMB62LE9d8MPjnBhFmpl-TBwOgIHd1czGvXEsc9uJJWyw275b9yKvc4I8Rax1UkWdTuhl7aYunjeEKbh76rLZef8rUsmNokQsbvksFVthk5HMlLNZ4wp8_2BlODMKmRpFk4DAPPIrE0QBBClDJGvN6MOYa7fxVNGsWfqd1bIATNFZtN1iD-D2u8/https://www.amazon.com/Respiraci%C3%B3n-Superpoder-Mindfulness-tranquilidad-Superpower/dp/1959284002/ref=sxbs_sbv_search_btf?content-id=amzn1.sym.37132d36-da68-4ed0-8d23-842f0825e4d6%3Aamzn1.sym.37132d36-da68-4ed0-8d23-842f0825e4d6&cv_ct_cx=%D8%A7%D9%84%D8%AA%D8%A3%D9%85%D9%84+%D9%84%D8%AA%D9%82%D9%84%D9%8A%D9%84+%D8%A7%D9%84%D8%AA%D9%88%D8%AA%D8%B1+%D8%A3%D8%AD%D9%85%D8%AF+%D8%B9%D8%A8%D8%AF+%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86&keywords=%D8%A7%D9%84%D8%AA%D8%A3%D9%85%D9%84+%D9%84%D8%AA%D9%82%D9%84%D9%8A%D9%84+%D8%A7%D9%84%D8%AA%D9%88%D8%AA%D8%B1+%D8%A3%D8%AD%D9%85%D8%AF+%D8%B9%D8%A8%D8%AF+%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86&pd_rd_i=1959284002&pd_rd_r=d0376bbc-c9c7-4df8-b41a-ca74f44e1b89&pd_rd_w=Tpw8y&pd_rd_wg=LsGBw&pf_rd_p=37132d36-da68-4ed0-8d23-842f0825e4d6&pf_rd_r=ZPVY02KQJ4378QYX7ED4&qid=1750413005&s=books&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=1-1-a61ee601-6e56-4862-a8a2-1d3da5a5406f",
+    "cover_image": null
+  },
+  {
+    "title": "اضطرابات المزاج: دليل شامل",
+    "author": "عبد الله محمد",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/Flashcards-Verses-Language-Arabic-English/dp/B0DW26X482/ref=sr_1_1?dib=eyJ2IjoiMSJ9.rlMcvI23h0pOR9gTcpEijQWDQzA2pElnqDXpD0rXrYiOW3rNlGpUnr-0fVde6iomfKL9MQTCMmPjguTCXljgVoiEDrxLuTXrr4d1EjBHW0gJrsVR1CwMTj3fov35n6XAG0DABbBt38uDddQjO_nWtQ.KZRymFl8tDmx_zniiJOG2TNE-1VST0l6zUX9G_jY-lA&dib_tag=se&keywords=%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%A8%D8%A7%D8%AA+%D8%A7%D9%84%D9%85%D8%B2%D8%A7%D8%AC%3A+%D8%AF%D9%84%D9%8A%D9%84+%D8%B4%D8%A7%D9%85%D9%84+%D8%B9%D8%A8%D8%AF+%D8%A7%D9%84%D9%84%D9%87+%D9%85%D8%AD%D9%85%D8%AF&qid=1750413006&s=books&sr=1-1",
+    "cover_image": "covers\\اضطرابات المزاج_ دليل شامل.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/715d3--4rsL.__AC_SX500_SY300_QL70_ML2_.jpg"
+  },
+  {
+    "title": "فهم اضطرابات الشخصية",
+    "author": "محمد عبد الرحمن",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D8%A7%D9%88%D9%8A-Arabic-Paperback-Prophet-Sharqawi/dp/B09WZ8SX8W/ref=sr_1_1?dib=eyJ2IjoiMSJ9.lKd9X-keWPfEd3uFH5GTQH6wEuoCMfYQgbc7wP0aNI7jlbOYtQaHCTB7m8aw368r99BhJXqLDH6US2WgZI1xBnRSNefw6n93tzH-cyeF7S4.7YXWMNMEEOHdyHe6xIGsgxlXdcve6C6TbT2iny083Hs&dib_tag=se&keywords=%D9%81%D9%87%D9%85+%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%A8%D8%A7%D8%AA+%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9+%D9%85%D8%AD%D9%85%D8%AF+%D8%B9%D8%A8%D8%AF+%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86&qid=1750413012&s=books&sr=1-1",
+    "cover_image": "covers\\فهم اضطرابات الشخصية.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/415WTZnsX4L._SX500_SX342_.jpg"
+  },
+  {
+    "title": "القلق النفسي: استراتيجيات التغلب",
+    "author": "ياسر عبد الله",
+    "status": "no_cover",
+    "amazon_url": "https://www.amazon.comhttps://aax-us-iad.amazon.com/x/c/JHRQeQre6r2iwR49ZjbVPy0AAAGXjL8CwQEAAAH2AQBvbm9fdHhuX2JpZDUgICBvbm9fdHhuX2ltcDIgICBTNvDy/clv1_CEuOPUxokZA0iHrVVskHngnMH2llW54flJVe8BqWyqVR8X8x-GPVbfw18nHz9hvWjq0yzpNb3XTPsunPo2QceURNHXy6CpXqDUgpTGFzEl6HALs6mQYOLZEdHEepsoWmXJOUalC7tdMeWEwmgVz7bV1AckwCRMN0CRVmUax7QwuP3u3MgFIzS1q5d5TuNOspGHpbasDVlJ1bT2hxC9tUMuUFm8yvmtV0DgjzOKVy-i0Vs7d2vLK7GWsuqRqJ-0hcN3jpMffPnUdL6EdDGuhOfzGmV2mUghLNCd7m6b_pSZUgD1ig-I6A-jeRfQnzNbiI4c4-pMczY4vpqovyNdazGc9KiLlIZWQXkpU4wfVsPpln11Z5KUuF8SGc1MkjUXyjaQ9Vk2CBnjspnyr1AoykS24BZM7zucVmVbcmG3VHnlJ_MfhRt19KAG1Hvpd3Q2koAbqwOvPKm_u0cBUSbzW9h64seRWsqluyb3Ntfr0lnYSUFltD_aimrxnddUtzPorrnvZ40wtDKa0unBuDhQ2HzTTvcRl2QnddGximBg3wEK3_Lx68CwRd3khEWEv4Sj_iavomu_54Xjy4jKdeicYpBDSaDgNozSlg2fwasLeDvB86l6-_4pY7dnDQw12mQ4fmLzoEFPcCEx5_4ehEBpJ5uBMn0_nFPjAkZlYrvM5_68QzGmt5SiCBkEg1jjPsYOFY9FwS0X9F6cocxM18FF-TA2Uw_7T7GcG6-JnqJ2o2BAD3rg_yTIxg3jVp7sUbZebOsohNRwPjjlDD3Dj4AXXHMiM9mgf6U1Vonf5Ma8pQYAqY_FQxM-tOuhtjtp6VS0CZeMeZXz926QrElchTfuFSlqr4qV8Su9uvIr3VsuKQrlOC4DjI5U8PxSvOkl6uhR7XuNAFjO4NtzPJMe4xQNomA_uJ8sqIwUpaPCAKMwvNljrXiTV3P1M6YmxtaBbsyUKhvBmhdeqey5K8gcn60G7mdo4XE72BWLzUy1iPVgh9G94EaDR7R2hjWYvryRDwPC0XAiWfqqJ__RU8Ip8__5OfxztinwRJCtCHkQpE8JhWlDtqfWC9ZbCaLQa-V7hDespGTHa_eo_zTQg9K5uAZ8XdvdPlZQ7v7qRZReMpWTVfG--lDUizC9lUtVVtGaWKuNjotu4-T9zMhTIOL81zql9XZlogYtnPXH6HILcps4b9_peVxD-l2lnY55cHlk5gefQpMVeoLFrT9HOwYyoCrVjjPNe2x9BV5rJL3TiBxKxnCG_SDXEzdGGo8Um_lhkLI5XgSp8fjvGCQmHMSK54bKBOtmIsjZlzsKTg9TWPlkCxA_3WQcprQP6HnOQQjySdqdUkG4QBYCOJ00LspP0qXAMd85Hb1tgXo3p4Ye9KP8NQlZE1uXqWDAiVudqHKX-jTo1lITKJVXqtZiHyejAHZ7ScariqvhOLNWlqy5lQxvL0vWdJaTF__pMIF-EBfyXwCga9wytSPGH8pbi3rQnGNyr3TWaW-QqNfvoJ96EO6uor714ZqXyeInuAK3t74uUDsPLcg2_SRiV5WsJPM8yFfvEjHhfjl9HMHHzZClOgNpYmmtadxf-R0P-LT4g7VI0wgPU3XMX4Nku2zrvwYvjFGHwEeB1l6efy1dh50KTdhjJCNRivF8Qkn8EgRlMiCLnDwydoN2AN1NIZNdbUOX_24yNQifRWA3C1MxB5e_Ao-4syXqvrKNo4tpXqT3lais6xsOSxveZ4aOietxwYs2Sesc9Maz_0zCoarTzYoY5RL3fCiBWGotngy_sSYowS41LzJJoejqUa1xf7mrljJ_JkTrt-9xUQBs75GT2ts5vAU2z9obqLObOo4-A67vDPE5fIxpFl-xrc_tvGN5wUvvencYs/https://www.amazon.com/Sacred-Path-Islam-Building-Relationship/dp/1733213910/ref=sxbs_sbv_search_btf?content-id=amzn1.sym.37132d36-da68-4ed0-8d23-842f0825e4d6%3Aamzn1.sym.37132d36-da68-4ed0-8d23-842f0825e4d6&cv_ct_cx=%D8%A7%D9%84%D9%82%D9%84%D9%82+%D8%A7%D9%84%D9%86%D9%81%D8%B3%D9%8A%3A+%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A7%D8%AA+%D8%A7%D9%84%D8%AA%D8%BA%D9%84%D8%A8+%D9%8A%D8%A7%D8%B3%D8%B1+%D8%B9%D8%A8%D8%AF+%D8%A7%D9%84%D9%84%D9%87&keywords=%D8%A7%D9%84%D9%82%D9%84%D9%82+%D8%A7%D9%84%D9%86%D9%81%D8%B3%D9%8A%3A+%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A7%D8%AA+%D8%A7%D9%84%D8%AA%D8%BA%D9%84%D8%A8+%D9%8A%D8%A7%D8%B3%D8%B1+%D8%B9%D8%A8%D8%AF+%D8%A7%D9%84%D9%84%D9%87&pd_rd_i=1733213910&pd_rd_r=00abdfa3-7b98-4eb5-aab6-6c68ef925860&pd_rd_w=XNk9L&pd_rd_wg=LzPcH&pf_rd_p=37132d36-da68-4ed0-8d23-842f0825e4d6&pf_rd_r=9N7ZVXV2V5F69313J4RB&qid=1750413017&s=books&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=1-1-a61ee601-6e56-4862-a8a2-1d3da5a5406f",
+    "cover_image": null
+  },
+  {
+    "title": "الخروج من ظلام الاكتئاب",
+    "author": "أحمد السيد",
+    "status": "no_cover",
+    "amazon_url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=468556",
+    "cover_image": null
+  },
+  {
+    "title": "المرونة النفسية: كيف تواجه الأزمات",
+    "author": "محمد عبد المنعم",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/Interview-Agnostic-Mustafa-Mahmoud-Paperback/dp/B08GJRN2V7/ref=sr_1_1?dib=eyJ2IjoiMSJ9.K2zFIuOKym5rcn9DZAh2mw.YTE2qa6hfrLdwHYv14p1zhWYbrp-kQ6s7Yp_LCq7R1I&dib_tag=se&keywords=%D8%A7%D9%84%D9%85%D8%B1%D9%88%D9%86%D8%A9+%D8%A7%D9%84%D9%86%D9%81%D8%B3%D9%8A%D8%A9%3A+%D9%83%D9%8A%D9%81+%D8%AA%D9%88%D8%A7%D8%AC%D9%87+%D8%A7%D9%84%D8%A3%D8%B2%D9%85%D8%A7%D8%AA+%D9%85%D8%AD%D9%85%D8%AF+%D8%B9%D8%A8%D8%AF+%D8%A7%D9%84%D9%85%D9%86%D8%B9%D9%85&qid=1750413020&s=books&sr=1-1",
+    "cover_image": "covers\\المرونة النفسية_ كيف تواجه الأزمات.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/31Z4RSGefbL._SX500_SX342_.jpg"
+  },
+  {
+    "title": "الصحة النفسية في الحياة العملية",
+    "author": "عبد الرحمن صالح",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/Ayatul-Persian-Carpet-Islamic-%D8%A7%D9%84%DA%A9%D8%B1%D8%B3%D9%8A/dp/B0BZNXXTFM/ref=sr_1_1?dib=eyJ2IjoiMSJ9.9AOEhT6iNTJjzWFodNi6WtNcQBChBTpx0xzLHWTPqm3nkuJnRrl5ZEW8c6zFdfFFH-I7pIyB6vpGQHgHuIG5D1wAVUu8GXxRODOMP_oj_lY.ANMVX6_NzltEduC92LV5iSNO4JSGaz1drAsPD5-5x4U&dib_tag=se&keywords=%D8%A7%D9%84%D8%B5%D8%AD%D8%A9+%D8%A7%D9%84%D9%86%D9%81%D8%B3%D9%8A%D8%A9+%D9%81%D9%8A+%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%A9+%D8%A7%D9%84%D8%B9%D9%85%D9%84%D9%8A%D8%A9+%D8%B9%D8%A8%D8%AF+%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86+%D8%B5%D8%A7%D9%84%D8%AD&qid=1750413025&s=books&sr=1-1",
+    "cover_image": "covers\\الصحة النفسية في الحياة العملية.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/711IZCf42-L.__AC_SX500_SX300_QL70_ML2_.jpg"
+  },
+  {
+    "title": "كيف تتغلب على اضطرابات المزاج",
+    "author": "محمد عبد العال",
+    "status": "no_cover",
+    "amazon_url": "https://www.amazon.comhttps://aax-us-iad.amazon.com/x/c/JLoz8jpTNfd5iYcg5LGgZoMAAAGXjL83ZQEAAAH2AQBvbm9fdHhuX2JpZDcgICBvbm9fdHhuX2ltcDEgICDILod0/clv1_CEuOPUxokZA0iHrVR-UV0gXUZSkqCb8XtIYr9ieD3eZ6139SkmPVbfw18nHz9hvWjq0yzpNb3XTPsunPomQceVVhDzC2Eu-qQhoIREFgZ1i6Fax5siAOLZEdHEepsoWmXJOUalC7tdMeWEwmgVz7bV1AckwCRMN0CRVmUax7QwuP3u3MgFIzS1q5d5TuNOspGHpbasDVlJ1bT2hxC9tUMuUFm8yvmtV0DgjzOKVy-i0Vs7d2vLK7GWsuqRqJ-0hcN3jpMffPnUdL6EdDGuhOfzGmV2uXqBLNCd7m6b_pSZUgD1ig-I6A-jeRfQnNJ5Kays5J591UYIz9zcL6B9mwJMws8-FPW2A0o784wfVsPpln11Z5KUuF8SGc1Mkhf2DhajFjnWCBnjspnyr1AoykS24BZM7zucVmVbcmG3VHnlJ_MfhRt19KAG1Hvpd3Q2koAbqwOvPKm_u0cBUSbzW9h64seRWsqluyb3Ntfr0lnYSUFltD_aimrxnddUtzPorrnvZ40wtDKa0unBuDhQ2HzTTvcRl2QnddGximBg3wEK3_Lx68CwRd3khEWEv4Sj_iavomu_54Xjy4jKdeicYpBDSaDgNozSlg2fwasLeDvB86l6-_4pY7dnDQw12mQ4fmLzoEFPcCEx5_4ehEBpJ5uBMn0_nFPjAkZlYrvM5_68QzGmt5SiCBkEg1jjPsYOFY9FwS0X9F6cocxM18FF-TA2Uw_7T7GcG6-JnqJ2o2BAD3rg_yTIxg3jVp7sUbZebOsohNRwPjjlDD3Dj4AXXHMiM9mgf6U1Vonf5Ma8pQYAqY_FQxM-tOuhtjtp6VS0CZeMeZXz926QrElchTfuFSlqr4qV8Su9uvIr3VsuKQrlOC4DjI5U8PxSvOkl6uhR7XuNAFjO4NtzPJMe4xQNomA_uJ8sqIwUpaPCAKMwvNljrXiTV3P1M6YmxtaBbsyUKhvBmhdeqey5K8gcn60G7mdo4XE72BWLzUy1iPVgh9G94EaDR7R2hjWYvryRDwPC0XAiWfqqJ__RU8Ip8__5OfxztinwRJCtCHkQpE8JhWlDtqfWC9ZbCaLQa-V7hDespGTHa_eo_zTQg9K5uAZ8XdvdPlZQ7v7qRZReMpWTVfG--lDUizC9lUtVVtGaWKuNjotu4-T9zMhTIOL81zql9XZlogYtnPXH6HILcps4b9_peVxD-l2lnY55cHlk5gefQpMVeoLFrT9HOwYyoCrVjjPNe2x9BV5rJL3TiBxKxnCG_SDXEzdGGo8Um_lhkLI5XgSp8fjvGCQmHMSK54bKBOtmIsjZlzsKTg9TWPlkCxA_3WQcprQP6HnOQQjySdqdUkG4QBYCOJ00LspP0qXAMd85Hb1tgXo3p4Ye9KP8NQlZE1uXqWDAiVudqHKX-jTo1lITKJVXqtZiHyejAHZ7ScariqvhOLNWlqy5lQxvL0vWdJaTF__pMIF-EBfyXwCga9wytSPGH8pbi3rQnGNyr3TWaW-QqNfvoJ96EO6uor714ZqXyeInuAK3t74uUDsPLcg2_SRiV5WsJPM8yFfvEjHhfjl9HMHHzZClOgNpYmmtadxf-R0P-LT4g7VI0wgPU3XMX4Nku2zrvwYvjFGHwEeB1l6efy1dh50KTdhzJicFM9Ay9b8P9PMsAXy6ruhWZqp22L06h6E0t9lROO7VZJ1OhXHm-wKQh6ZO8o_pd5WPr3b90ip4L2QHQss4yxqe-nquJrf7fcth1a_WKXsZNOdGL20SFT9TqG6YpDKC7emxLiosDr_ewWcZtPgl3lIOZkiLM-xRCg545yMvphfbZ44XhvJNPyz4m9Bz_IR3qyhZi2BrWswbdu080Bv5PCz5MUHkmMRYEGfAuLdBt5g5oV/https://www.amazon.com/Sacred-Path-Islam-Building-Relationship/dp/1733213910/ref=sxbs_sbv_search_btf?content-id=amzn1.sym.37132d36-da68-4ed0-8d23-842f0825e4d6%3Aamzn1.sym.37132d36-da68-4ed0-8d23-842f0825e4d6&cv_ct_cx=%D9%83%D9%8A%D9%81+%D8%AA%D8%AA%D8%BA%D9%84%D8%A8+%D8%B9%D9%84%D9%89+%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%A8%D8%A7%D8%AA+%D8%A7%D9%84%D9%85%D8%B2%D8%A7%D8%AC+%D9%85%D8%AD%D9%85%D8%AF+%D8%B9%D8%A8%D8%AF+%D8%A7%D9%84%D8%B9%D8%A7%D9%84&keywords=%D9%83%D9%8A%D9%81+%D8%AA%D8%AA%D8%BA%D9%84%D8%A8+%D8%B9%D9%84%D9%89+%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%A8%D8%A7%D8%AA+%D8%A7%D9%84%D9%85%D8%B2%D8%A7%D8%AC+%D9%85%D8%AD%D9%85%D8%AF+%D8%B9%D8%A8%D8%AF+%D8%A7%D9%84%D8%B9%D8%A7%D9%84&pd_rd_i=1733213910&pd_rd_r=8601e3de-0e7a-4c37-b6bd-13219066965e&pd_rd_w=YjxbM&pd_rd_wg=nZuY8&pf_rd_p=37132d36-da68-4ed0-8d23-842f0825e4d6&pf_rd_r=2WZDYZW1M19J14C3936Y&qid=1750413030&s=books&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=1-1-a61ee601-6e56-4862-a8a2-1d3da5a5406f",
+    "cover_image": null
+  },
+  {
+    "title": "اضطراب الشخصية: الطريق إلى التحسين",
+    "author": "سعيد عبد الرحمن",
+    "status": "no_cover",
+    "amazon_url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=468556",
+    "cover_image": null
+  },
+  {
+    "title": "التغلب على القلق في الحياة اليومية",
+    "author": "عبد الله السيد",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D8%A7%D9%88%D9%8A-Arabic-Paperback-Prophet-Sharqawi/dp/B09WZ8SX8W/ref=sr_1_1?dib=eyJ2IjoiMSJ9.eUzyfG790iphYVsdMi6cYjPopyhcTlpczrh7x3LkX_Wh8Un0-lXlrsg1qKN6ZE7n3RIqOQNTMPR6t92xkO4l5Rl3JszFR0zw80NzeUJZNYZ4jDulrJq-jr8LaZdbdn8uPS1iJmgQawKvbaPNZi7ateK2N5MpzkwZeH_mHsN54vo-v1qoXxrfB04K-2nNuXRDmJzTsrF-EbnQiCn_Lf9loTx0aoH29yHGn6nNy2sH6IU.NmeQ3gS240QmgQ4-3g_zDHEDLQf7UKqKYWetHX5I8nw&dib_tag=se&keywords=%D8%A7%D9%84%D8%AA%D8%BA%D9%84%D8%A8+%D8%B9%D9%84%D9%89+%D8%A7%D9%84%D9%82%D9%84%D9%82+%D9%81%D9%8A+%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%A9+%D8%A7%D9%84%D9%8A%D9%88%D9%85%D9%8A%D8%A9+%D8%B9%D8%A8%D8%AF+%D8%A7%D9%84%D9%84%D9%87+%D8%A7%D9%84%D8%B3%D9%8A%D8%AF&qid=1750413034&s=books&sr=1-1",
+    "cover_image": "covers\\التغلب على القلق في الحياة اليومية.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/415WTZnsX4L._SX500_SX342_.jpg"
+  },
+  {
+    "title": "الاكتئاب: دليل للتعافي",
+    "author": "محمد عبد الرحمن",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D8%A7%D9%88%D9%8A-Arabic-Paperback-Prophet-Sharqawi/dp/B09WZ8SX8W/ref=sr_1_1?dib=eyJ2IjoiMSJ9.lQ2rtTRfGfwUc4UBovaQ57B-bwKGL8cGtJ_qSv2zlx_WPFal1StYM1sJh0CSBwsDCkwQHzBfK8wGUFL_z5jJcbKX4RtMPva6nM8S2F0fhaCm1-ZsOzO_flCB-y5DyaMLn-k0oFODkMb9l3EvZ-rwhEJH-j24o_6zYRMknNzYkeA.uYUJnylR-NI5TxiLfdL9i5ZC9erv7YM3K8xdgLiQlPA&dib_tag=se&keywords=%D8%A7%D9%84%D8%A7%D9%83%D8%AA%D8%A6%D8%A7%D8%A8%3A+%D8%AF%D9%84%D9%8A%D9%84+%D9%84%D9%84%D8%AA%D8%B9%D8%A7%D9%81%D9%8A+%D9%85%D8%AD%D9%85%D8%AF+%D8%B9%D8%A8%D8%AF+%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86&qid=1750413039&s=books&sr=1-1",
+    "cover_image": "covers\\الاكتئاب_ دليل للتعافي.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/415WTZnsX4L._SX500_SX342_.jpg"
+  },
+  {
+    "title": "التوتر: كيف تواجهه",
+    "author": "أحمد عبد العزيز",
+    "status": "no_cover",
+    "amazon_url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=468556",
+    "cover_image": null
+  },
+  {
+    "title": "فهم الهوس والاكتئاب",
+    "author": "عبد الرحمن محمد",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/Arabic-Paperback-Existence-Nothingness-Mustafa/dp/B09XR9RTLD/ref=sr_1_1?dib=eyJ2IjoiMSJ9.aqsC7KEQECHg12EoM_urxEOE7JpvxJerxI7ZvMPQdynDlrC1uuLALT0Iz1RPvPGw.Q68nnwFZOp08KuKXnnvkgW-e8naD6v8dtFFOpmiA2sg&dib_tag=se&keywords=%D9%81%D9%87%D9%85+%D8%A7%D9%84%D9%87%D9%88%D8%B3+%D9%88%D8%A7%D9%84%D8%A7%D9%83%D8%AA%D8%A6%D8%A7%D8%A8+%D8%B9%D8%A8%D8%AF+%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86+%D9%85%D8%AD%D9%85%D8%AF&qid=1750413048&s=books&sr=1-1",
+    "cover_image": "covers\\فهم الهوس والاكتئاب.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/41RY779L5HL._SX500_SY445_.jpg"
+  },
+  {
+    "title": "اضطرابات الشخصية: رؤية جديدة",
+    "author": "محمد عبد الله",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/Flashcards-Verses-Language-Arabic-English/dp/B0DW26X482/ref=sr_1_1?dib=eyJ2IjoiMSJ9.94ANHSgol14elssDI3r9w6b_Zw9UxrAHZd2OoozqhLtqHpOpOqABE8RBBHvnBjDVaYZ3yd_PyUcdiwu0ocPBfkUFq_dKBjY3GHZgzay2MbTo4VZkOxRYoeD49rW6rl923abgAc317J2eg_6BfaoSTcYaVWKbWQ_jOff0dS3LA9PW8XZk7lLhqPCpoJG_AZtCqj0cMFzDpYzptZ_wN3VDPg.B-l_D69SO2DCsPG0OOAomYGT-EtV3G0_vfrMqO46o10&dib_tag=se&keywords=%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%A8%D8%A7%D8%AA+%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9%3A+%D8%B1%D8%A4%D9%8A%D8%A9+%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9+%D9%85%D8%AD%D9%85%D8%AF+%D8%B9%D8%A8%D8%AF+%D8%A7%D9%84%D9%84%D9%87&qid=1750413054&s=books&sr=1-1",
+    "cover_image": "covers\\اضطرابات الشخصية_ رؤية جديدة.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/715d3--4rsL.__AC_SX500_SY300_QL70_ML2_.jpg"
+  },
+  {
+    "title": "الأمل في مواجهة الظلام",
+    "author": "سعيد عبد العزيز",
+    "status": "no_cover",
+    "amazon_url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=468556",
+    "cover_image": null
+  },
+  {
+    "title": "القلق: دليل للتعامل اليومي",
+    "author": "محمد عبد المنعم",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/%D9%88%D8%A7%D9%84%D8%AC%D8%B3%D8%AF-Arabic-Paperback-Mustafa-Mahmoud/dp/B0B9C7TFDR/ref=sr_1_1?dib=eyJ2IjoiMSJ9.GqRsYqQ8n-VFFEvxp5gjzw.DwSrNkrCaxfrTyJoUzjdit-fqd17dtMsGy3b1HMlf8w&dib_tag=se&keywords=%D8%A7%D9%84%D9%82%D9%84%D9%82%3A+%D8%AF%D9%84%D9%8A%D9%84+%D9%84%D9%84%D8%AA%D8%B9%D8%A7%D9%85%D9%84+%D8%A7%D9%84%D9%8A%D9%88%D9%85%D9%8A+%D9%85%D8%AD%D9%85%D8%AF+%D8%B9%D8%A8%D8%AF+%D8%A7%D9%84%D9%85%D9%86%D8%B9%D9%85&qid=1750413062&s=books&sr=1-1",
+    "cover_image": "covers\\القلق_ دليل للتعامل اليومي.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/41wNocA5BqL._SX500_SY445_.jpg"
+  },
+  {
+    "title": "الصحة النفسية: رحلة التعافي",
+    "author": "عبد الله عبد الرحمن",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D8%A7%D9%88%D9%8A-Arabic-Paperback-Prophet-Sharqawi/dp/B09WZ8SX8W/ref=sr_1_1?dib=eyJ2IjoiMSJ9.g-16jstZyKcBf5snZCgojkYeznVjf6bjKcMf_8khZEKTNffEaCajLQVh4D_VjvbafxuslPOYADQAsHlYhpBH4w8HLjcjjUElm7lRcprDjeNxPodIRFe-d3q2adKoM53eeVSgGDI2vQe_7tgXmwhpyOZaOrrA3k3dmFDhMjhJ0S7QxYlRJNTfvsXPhKmO5nuAOS-wuOVDsWdVi234qUl-jHx_p-w56T5Oe1EZcr1Q8wQ.9iWG7iKBbudwxctrZTH4nugi7cr-G2PRPgqiadcru04&dib_tag=se&keywords=%D8%A7%D9%84%D8%B5%D8%AD%D8%A9+%D8%A7%D9%84%D9%86%D9%81%D8%B3%D9%8A%D8%A9%3A+%D8%B1%D8%AD%D9%84%D8%A9+%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%81%D9%8A+%D8%B9%D8%A8%D8%AF+%D8%A7%D9%84%D9%84%D9%87+%D8%B9%D8%A8%D8%AF+%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86&qid=1750413067&s=books&sr=1-1",
+    "cover_image": "covers\\الصحة النفسية_ رحلة التعافي.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/415WTZnsX4L._SX500_SX342_.jpg"
+  },
+  {
+    "title": "The Mindfulness and Acceptance Workbook for Anxiety",
+    "author": "John P. Forsyth",
+    "status": "no_cover",
+    "amazon_url": "https://www.amazon.com/Mindfulness-Acceptance-Workbook-Anxiety-Distress/dp/1608821439",
+    "cover_image": null
+  },
+  {
+    "title": "Beating the Blues",
+    "author": "Michael E. Thase",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/Beating-Blues-Overcome-Depression-Prevention/dp/0195304535",
+    "cover_image": "covers\\Beating the Blues.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/41ocGZjt6AL._SX500_SX342_.jpg"
+  },
+  {
+    "title": "The Stress Solution",
+    "author": "Arthur P. Ciaramicoli",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/Stress-Solution-Practical-Emotional-Resilience/dp/1608684083",
+    "cover_image": "covers\\The Stress Solution.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/415OgZScpJL._SX500_SX342_.jpg"
+  },
+  {
+    "title": "Bipolar Faith",
+    "author": "Monica A. Coleman",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/Bipolar-Faith-Journey-Depression-Mania/dp/1506408591",
+    "cover_image": "covers\\Bipolar Faith.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/41hHYW8nazL._SX500_SX342_.jpg"
+  },
+  {
+    "title": "The BPD Survival Guide",
+    "author": "Alexander L. Chapman",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/Borderline-Personality-Disorder-Survival-Guide/dp/1572245077",
+    "cover_image": "covers\\The BPD Survival Guide.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/41iFiOhzoKL._SX500_SX342_.jpg"
+  },
+  {
+    "title": "All the Smoke",
+    "author": "Matt Barnes",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/All-Smoke-Unfiltered-Resilience-Redemption/dp/1982181567",
+    "cover_image": "covers\\All the Smoke.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/41uWqRC8sTL._SX500_SX342_.jpg"
+  },
+  {
+    "title": "The Worry Trick",
+    "author": "David A. Carbonell",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/Worry-Trick-Brain-Tricks-Anxiety/dp/1626253188",
+    "cover_image": "covers\\The Worry Trick.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/41wyI9ifj0L._SX500_SX342_.jpg"
+  },
+  {
+    "title": "The Bipolar Teen",
+    "author": "David J. Miklowitz",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/Bipolar-Teen-Parents-Help-Your/dp/1593853181",
+    "cover_image": "covers\\The Bipolar Teen.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/41neqd29aiL._SX500_SX342_.jpg"
+  },
+  {
+    "title": "The Self-Compassion Workbook",
+    "author": "Kristin Neff",
+    "status": "no_cover",
+    "amazon_url": "https://www.amazon.com/Self-Compassion-Workbook-Practical-Exercises-Self-Love/dp/1641522976",
+    "cover_image": null
+  },
+  {
+    "title": "The Invisible Ache",
+    "author": "Courtney B. Vance",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/Invisible-Ache-Black-Mental-Wellness/dp/153872135X",
+    "cover_image": "covers\\The Invisible Ache.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/51zUqB+vLGL._SX500_SX342_.jpg"
+  },
+  {
+    "title": "The Stress Less Workbook",
+    "author": "Jonathan S. Abramowitz",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/Stress-Less-Workbook-Strategies-Overwhelm/dp/1609184718",
+    "cover_image": "covers\\The Stress Less Workbook.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/51VREyzkuuL._SX500_SX342_.jpg"
+  },
+  {
+    "title": "The Quiet Room",
+    "author": "Lori Schiller",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/Quiet-Room-Memoir-Madness/dp/0446671339",
+    "cover_image": "covers\\The Quiet Room.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/41m4ef27nRL._SX500_SX342_.jpg"
+  },
+  {
+    "title": "Disarming the Narcissist",
+    "author": "Wendy T. Behary",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/Disarming-Narcissist-Surviving-Thriving-Difficult/dp/1608827607",
+    "cover_image": "covers\\Disarming the Narcissist.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/41Nn02MeUNL._SX500_SY445_.jpg"
+  },
+  {
+    "title": "The Upward Spiral Workbook",
+    "author": "Alex Korb",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/Upward-Spiral-Workbook-Neuroscience-Based-Depression/dp/1684032423",
+    "cover_image": "covers\\The Upward Spiral Workbook.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/41gq7-GHqnL._SX500_SY445_.jpg"
+  },
+  {
+    "title": "Don’t Feed the Monkey Mind",
+    "author": "Jennifer Shannon",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/Dont-Feed-Monkey-Mind-Anxiety/dp/1626255067",
+    "cover_image": "covers\\Don’t Feed the Monkey Mind.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/41K0izuOfBL._SX500_SX342_.jpg"
+  },
+  {
+    "title": "The Wellness Workbook",
+    "author": "John W. Travis",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/Wellness-Workbook-Third-Holistic-Transformation/dp/1587612135",
+    "cover_image": "covers\\The Wellness Workbook.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/41e-qzNq12L._SX500_SY445_.jpg"
+  },
+  {
+    "title": "Madness: A Bipolar Life",
+    "author": "Marya Hornbacher",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/Madness-Bipolar-Marya-Hornbacher/dp/0547237804",
+    "cover_image": "covers\\Madness_ A Bipolar Life.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/41kXQGLtIuL._SX500_SX342_.jpg"
+  },
+  {
+    "title": "The DBT Solution for Emotional Eating",
+    "author": "Debra L. Safer",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/DBT-Solution-Emotional-Eating-Dialectical/dp/1462520928",
+    "cover_image": "covers\\The DBT Solution for Emotional Eating.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/41kzOpYT9EL._SX500_SX342_.jpg"
+  },
+  {
+    "title": "Reasons to Live",
+    "author": "Amy Hempel",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/Reasons-Live-Stories-Amy-Hempel/dp/0060976721",
+    "cover_image": "covers\\Reasons to Live.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/41i-eh6MFqL._SX500_SX342_.jpg"
+  },
+  {
+    "title": "The Anxiety Skills Workbook",
+    "author": "Stefan G. Hofmann",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/Anxiety-Skills-Workbook-Evidence-Based-Strategies/dp/1684034523",
+    "cover_image": "covers\\The Anxiety Skills Workbook.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/51KSnjzlzcL._SX500_SY445_.jpg"
+  },
+  {
+    "title": "The Bipolar Workbook",
+    "author": "Monica Ramirez Basco",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/Bipolar-Workbook-Second-Tools-Managing/dp/1462520235",
+    "cover_image": "covers\\The Bipolar Workbook.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/51vsuApJ46L._SX500_SX342_.jpg"
+  },
+  {
+    "title": "The Mindfulness Workbook for Depression",
+    "author": "Yoon Im Kane",
+    "status": "no_cover",
+    "amazon_url": "https://www.amazon.com/Mindfulness-Workbook-Depression-Effective-Techniques/dp/1641525800",
+    "cover_image": null
+  },
+  {
+    "title": "The Stress Management Workbook",
+    "author": "Ruth C. White",
+    "status": "no_cover",
+    "amazon_url": "https://www.amazon.com/Stress-Management-Workbook-Techniques-Everyday/dp/1641521740",
+    "cover_image": null
+  },
+  {
+    "title": "The Borderline Personality Disorder Wellness Planner",
+    "author": "Amanda L. Smith",
+    "status": "no_cover",
+    "amazon_url": "https://www.amazon.com/Borderline-Personality-Disorder-Wellness-Planner/dp/1647397650",
+    "cover_image": null
+  },
+  {
+    "title": "The Depression Toolkit",
+    "author": "Lynn Lyons",
+    "status": "no_cover",
+    "amazon_url": "https://www.amazon.com/Depression-Toolkit-Strategies-Managing-Monster/dp/1683735315",
+    "cover_image": null
+  },
+  {
+    "title": "Dare: The New Way to End Anxiety",
+    "author": "Barry McDonagh",
+    "status": "success",
+    "amazon_url": "https://www.amazon.com/Dare-Anxiety-Stop-Panic-Attacks/dp/0956596258",
+    "cover_image": "covers\\Dare_ The New Way to End Anxiety.jpg",
+    "cover_url": "https://m.media-amazon.com/images/I/31Z6k7tcg9L._SX500_SX342_.jpg"
+  }
+]
